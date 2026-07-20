@@ -1,39 +1,54 @@
-# TODO: add papers by configuration file
-base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "Vincentqyw"
-repo_name: "cv-arxiv-daily"
+base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"  # unused, harmless to leave
+user_name: "<your-username>"
+repo_name: "llm-security-arxiv-daily"
+
 show_authors: True
 show_links: True
 show_badge: True
-max_results: 10
-
+max_results: 50
 publish_readme: True
 publish_gitpage: True
 publish_wechat: False
 
-# file paths
-json_readme_path: './docs/cv-arxiv-daily.json'
-json_gitpage_path: './docs/cv-arxiv-daily-web.json'
-json_wechat_path: './docs/cv-arxiv-daily-wechat.json'
-
+json_readme_path: './docs/llm-security-arxiv-daily.json'
+json_gitpage_path: './docs/llm-security-arxiv-daily-web.json'
+json_wechat_path: './docs/llm-security-arxiv-daily-wechat.json'
 md_readme_path: 'README.md'
 md_gitpage_path: './docs/index.md'
 md_wechat_path: './docs/wechat.md'
 
-# keywords to search
 keywords:
-    "SLAM": 
-        filters: ["SLAM", "Visual Odometry"]
-    "SFM":
-        filters: ["SFM", "Structure from Motion"]
-    "Visual Localization":
-        filters: ["Visual Localization","Camera Localization",
-                  "Camera Re-localisation","Loop Closure Detection",
-                  "visual place recognition","image retrieval"]
-    "Keypoint Detection":
-        filters: ["Keypoint Detection", "Feature Descriptor"]
-    "Image Matching":
-        filters: ["Image Matching", "Keypoint Matching", 
-                  "Line Segment Detection", "Local Feature Matching"]
-    "NeRF":
-        filters: ["NeRF"]
+    # --- methodology (kept from before) ---
+    "Jailbreak Attacks":
+        filters: ["jailbreak", "jailbreaking"]
+    "Red Teaming":
+        filters: ["red teaming", "red-teaming"]
+    "Adversarial Robustness LLM":
+        filters: ["adversarial attack language model", "adversarial robustness LLM"]
+    "LLM Safety Alignment":
+        filters: ["safety alignment", "safety guardrail", "LLM safety"]
+
+    # --- OWASP LLM Top 10 (2025) risk categories ---
+    "Prompt Injection (OWASP LLM01)":
+        filters: ["prompt injection"]
+    "Sensitive Information Disclosure (OWASP LLM02)":
+        filters: ["training data extraction", "membership inference attack",
+                  "PII leakage language model", "sensitive information disclosure LLM"]
+    "Supply Chain (OWASP LLM03)":
+        filters: ["LLM supply chain security", "malicious model repository",
+                  "model supply chain attack"]
+    "Data and Model Poisoning (OWASP LLM04)":
+        filters: ["data poisoning LLM", "backdoor attack language model",
+                  "trojan attack language model"]
+    "Improper Output Handling (OWASP LLM05)":
+        filters: ["insecure output handling LLM", "output handling vulnerability language model"]
+    "Excessive Agency and Agentic Security (OWASP LLM06)":
+        filters: ["agent security LLM", "agentic AI security", "excessive agency LLM",
+                  "tool use attack LLM", "MCP security"]
+    "System Prompt Leakage (OWASP LLM07)":
+        filters: ["system prompt leakage", "system prompt extraction"]
+    "Vector and Embedding Weaknesses / RAG Security (OWASP LLM08)":
+        filters: ["RAG poisoning", "retrieval augmented generation attack",
+                  "vector database security", "embedding attack"]
+    "Unbounded Consumption (OWASP LLM10)":
+        filters: ["denial of service LLM", "resource exhaustion attack language model"]
