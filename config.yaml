@@ -1,5 +1,5 @@
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"  # unused, harmless to leave
-user_name: "<your-username>"
+user_name: "JonasBaeumer"
 repo_name: "llm-security-arxiv-daily"
 
 show_authors: True
