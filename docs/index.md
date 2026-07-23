@@ -2,16 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.07.22
+## Updated on 2026.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-22**|**DARWIN: Evolving Jailbreak Adversary and Guardrail for LLM Safety Evaluation and Protection**|Weiwei Qi et.al.|[2607.19829](http://arxiv.org/abs/2607.19829)|null|
+|**2026-07-20**|**JailMeter: An Evidence-Based Evaluation Framework for Jailbreak Attacks on Large Language Models**|Qingjia Huang et.al.|[2607.19424](http://arxiv.org/abs/2607.19424)|null|
 |**2026-07-21**|**Data Leakage Prevention in Agentic Applications via Preemptive Hardening**|Akansha Shukla et.al.|[2607.18847](http://arxiv.org/abs/2607.18847)|null|
 |**2026-07-20**|**An Early Warning of Emerging Biosecurity Risks in Frontier LLMs**|Zhida He et.al.|[2607.18056](http://arxiv.org/abs/2607.18056)|null|
-|**2026-07-20**|**Stress Testing Concept Erasure with Large Language Model Agents**|Yuyang Xue et.al.|[2607.17890](http://arxiv.org/abs/2607.17890)|null|
+|**2026-07-22**|**Stress Testing Concept Erasure with Large Language Model Agents**|Yuyang Xue et.al.|[2607.17890](http://arxiv.org/abs/2607.17890)|null|
 |**2026-07-20**|**Dynamic Defense Profiling Enables Cognitive Jailbreak of Text-to-Image Models**|Dongdong Yang et.al.|[2607.17779](http://arxiv.org/abs/2607.17779)|null|
 |**2026-07-19**|**Between Safe Boundaries: Exploiting Temporal Consistency for Jailbreaking Text-To-Video Generation Models**|Xingkai Peng et.al.|[2607.17279](http://arxiv.org/abs/2607.17279)|null|
 |**2026-07-19**|**How Jailbreak Attacks Inform Safety Alignment: A Defender-Centric, Shapley-Based Evaluation of Jailbreak Contributions**|Yukai Zhou et.al.|[2607.17152](http://arxiv.org/abs/2607.17152)|null|
@@ -1032,6 +1034,7 @@ layout: default
 |**2002-05-07**|**The power spectrum of galaxies in the 2dF 100k redshift survey**|Max Tegmark et.al.|[astro-ph/0111575](http://arxiv.org/abs/astro-ph/0111575)|null|
 |**2001-05-21**|**Reconciliation of the Surface Brightness Fluctuations and Type Ia Supernovae Distance Scales**|Edward A. Ajhar et.al.|[astro-ph/0105366](http://arxiv.org/abs/astro-ph/0105366)|null|
 |**2002-02-27**|**Is cosmology consistent?**|Xiaomin Wang et.al.|[astro-ph/0105091](http://arxiv.org/abs/astro-ph/0105091)|null|
+|**2026-06-15**|**Mitigating Scaffolding Collapse in Socratic Tutors via Representation Alignment**|Jing Shao et.al.|[2607.19371](http://arxiv.org/abs/2607.19371)|null|
 |**2026-07-21**|**SoK: Adversarial Robustness of the Variational Quantum Eigensolver via Red-Teaming**|Ahmed Azaz Humdoon et.al.|[2607.19318](http://arxiv.org/abs/2607.19318)|null|
 |**2026-07-20**|**Hybrid Latent-Structural Fusion (HLSF) for Cyber Anomaly Detection**|Dorianis M. Perez et.al.|[2607.18479](http://arxiv.org/abs/2607.18479)|null|
 |**2026-07-20**|**An Early Warning of Emerging Biosecurity Risks in Frontier LLMs**|Zhida He et.al.|[2607.18056](http://arxiv.org/abs/2607.18056)|null|
@@ -1872,6 +1875,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-22**|**DARWIN: Evolving Jailbreak Adversary and Guardrail for LLM Safety Evaluation and Protection**|Weiwei Qi et.al.|[2607.19829](http://arxiv.org/abs/2607.19829)|null|
+|**2026-07-20**|**JailMeter: An Evidence-Based Evaluation Framework for Jailbreak Attacks on Large Language Models**|Qingjia Huang et.al.|[2607.19424](http://arxiv.org/abs/2607.19424)|null|
 |**2026-07-21**|**Mark, Don't Erase: Token Inoculation for Dual-Use Knowledge in LLMs**|Seunghyun Lee et.al.|[2607.18639](http://arxiv.org/abs/2607.18639)|null|
 |**2026-07-20**|**Operational Hallucination and Safety Drift in AI Agents**|Shasha Yu et.al.|[2607.18366](http://arxiv.org/abs/2607.18366)|null|
 |**2026-07-19**|**How Jailbreak Attacks Inform Safety Alignment: A Defender-Centric, Shapley-Based Evaluation of Jailbreak Contributions**|Yukai Zhou et.al.|[2607.17152](http://arxiv.org/abs/2607.17152)|null|
@@ -2881,6 +2886,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-22**|**Reinforcement Learning for Large Language Model Selective Evidence Adoption from Contaminated Retrieval Results**|Yanyu Chen et.al.|[2607.20090](http://arxiv.org/abs/2607.20090)|null|
+|**2026-07-22**|**Know Your Agent: Reconnaissance-Driven Pentesting of AI Agents**|Or Zion Eliav et.al.|[2607.19837](http://arxiv.org/abs/2607.19837)|null|
+|**2026-07-21**|**Twin Agent: Context Residual Compression for Privilege Separated Agents**|Zhanhao Hu et.al.|[2607.19595](http://arxiv.org/abs/2607.19595)|null|
+|**2026-07-20**|**ChainWatch: A Kill Chain-Aligned Sequential Detection Framework for Multi-Step Attacks in MCP-Based AI Agent Systems**|Om Narayan et.al.|[2607.19432](http://arxiv.org/abs/2607.19432)|null|
+|**2026-07-20**|**ChannelGuard: Safe Models Do Not Compose into Safe Multi-Agent Systems**|Elias Hossain et.al.|[2607.19430](http://arxiv.org/abs/2607.19430)|null|
+|**2026-07-03**|**CrackedPDFs: A Controlled Benchmark for Hidden Prompt Injection in PDFs**|Pukaphol Thienpreecha et.al.|[2607.19396](http://arxiv.org/abs/2607.19396)|null|
 |**2026-07-21**|**The safety failures we are not instrumenting: a perspective on hidden safety-critical challenges in modern AI systems**|Gjergji Kasneci et.al.|[2607.19292](http://arxiv.org/abs/2607.19292)|null|
 |**2026-07-21**|**Data Leakage Prevention in Agentic Applications via Preemptive Hardening**|Akansha Shukla et.al.|[2607.18847](http://arxiv.org/abs/2607.18847)|null|
 |**2026-07-21**|**CPInj: Uncovering Prompt Injection Risks in Textual Collaborative Prompt Optimization**|Xinting Liao et.al.|[2607.18622](http://arxiv.org/abs/2607.18622)|null|
