@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.07.23
+## Updated on 2026.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-22**|**Geometric Configurations of Perturbed Jailbreak Prompts**|Lynn Delcon et.al.|[2607.20581](http://arxiv.org/abs/2607.20581)|null|
 |**2026-07-22**|**DARWIN: Evolving Jailbreak Adversary and Guardrail for LLM Safety Evaluation and Protection**|Weiwei Qi et.al.|[2607.19829](http://arxiv.org/abs/2607.19829)|null|
 |**2026-07-20**|**JailMeter: An Evidence-Based Evaluation Framework for Jailbreak Attacks on Large Language Models**|Qingjia Huang et.al.|[2607.19424](http://arxiv.org/abs/2607.19424)|null|
 |**2026-07-21**|**Data Leakage Prevention in Agentic Applications via Preemptive Hardening**|Akansha Shukla et.al.|[2607.18847](http://arxiv.org/abs/2607.18847)|null|
@@ -42,6 +43,7 @@ layout: default
 |**2026-07-08**|**HARC: Coupling Harmfulness and Refusal Directions for Robust Safety Alignment**|Shei Pern Chua et.al.|[2607.00572](http://arxiv.org/abs/2607.00572)|null|
 |**2026-07-01**|**Beyond the Prompt: Jailbreaking Function-Calling LLMs via Simulated Moderation Traces**|Junlong Liu et.al.|[2607.00481](http://arxiv.org/abs/2607.00481)|null|
 |**2026-07-05**|**Harnessing Textual Refusal Directions for Multimodal Safety**|Moreno D'Incà et.al.|[2606.31876](http://arxiv.org/abs/2606.31876)|null|
+|**2026-07-23**|**CHERRY: Compressed Hierarchical Experts with Recurrent Representational Yield**|Dohyeon Kwon et.al.|[2606.31796](http://arxiv.org/abs/2606.31796)|null|
 |**2026-06-30**|**Securing the AI Agent: A Unified Framework for Multi-Layer Agent Red Teaming**|Yong Yang et.al.|[2606.31227](http://arxiv.org/abs/2606.31227)|null|
 |**2026-07-21**|**EvalSafetyGap: A Hybrid Survey and Conceptual Framework for LLM Evaluation-Safety Failures**|Buğra Alperen Uluırmak et.al.|[2606.30219](http://arxiv.org/abs/2606.30219)|null|
 |**2026-06-28**|**Resolution Thresholds in VLM Detection of Harmful ASCII Art Across Construction Modes and Languages**|Yikai Hua et.al.|[2606.29649](http://arxiv.org/abs/2606.29649)|null|
@@ -1034,6 +1036,8 @@ layout: default
 |**2002-05-07**|**The power spectrum of galaxies in the 2dF 100k redshift survey**|Max Tegmark et.al.|[astro-ph/0111575](http://arxiv.org/abs/astro-ph/0111575)|null|
 |**2001-05-21**|**Reconciliation of the Surface Brightness Fluctuations and Type Ia Supernovae Distance Scales**|Edward A. Ajhar et.al.|[astro-ph/0105366](http://arxiv.org/abs/astro-ph/0105366)|null|
 |**2002-02-27**|**Is cosmology consistent?**|Xiaomin Wang et.al.|[astro-ph/0105091](http://arxiv.org/abs/astro-ph/0105091)|null|
+|**2026-07-23**|**Tencent WorkBuddy Bench: A Multi-Domain Coding-Agent Benchmark with Contamination-Resistant Task Construction**| Tencent WorkBuddy Bench Team et.al.|[2607.20911](http://arxiv.org/abs/2607.20911)|null|
+|**2026-07-23**|**Code Monitor Red Teaming for Public-Test-Passing Code**|Junchi Liao et.al.|[2607.20852](http://arxiv.org/abs/2607.20852)|null|
 |**2026-06-15**|**Mitigating Scaffolding Collapse in Socratic Tutors via Representation Alignment**|Jing Shao et.al.|[2607.19371](http://arxiv.org/abs/2607.19371)|null|
 |**2026-07-21**|**SoK: Adversarial Robustness of the Variational Quantum Eigensolver via Red-Teaming**|Ahmed Azaz Humdoon et.al.|[2607.19318](http://arxiv.org/abs/2607.19318)|null|
 |**2026-07-20**|**Hybrid Latent-Structural Fusion (HLSF) for Cyber Anomaly Detection**|Dorianis M. Perez et.al.|[2607.18479](http://arxiv.org/abs/2607.18479)|null|
@@ -1875,6 +1879,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-23**|**V-DEAL: Diagnosing Video Safety De-Calibration as an Understanding-Refusal Coupling Failure**|Zhetong Zhang et.al.|[2607.21151](http://arxiv.org/abs/2607.21151)|null|
+|**2026-07-22**|**Geometric Configurations of Perturbed Jailbreak Prompts**|Lynn Delcon et.al.|[2607.20581](http://arxiv.org/abs/2607.20581)|null|
 |**2026-07-22**|**DARWIN: Evolving Jailbreak Adversary and Guardrail for LLM Safety Evaluation and Protection**|Weiwei Qi et.al.|[2607.19829](http://arxiv.org/abs/2607.19829)|null|
 |**2026-07-20**|**JailMeter: An Evidence-Based Evaluation Framework for Jailbreak Attacks on Large Language Models**|Qingjia Huang et.al.|[2607.19424](http://arxiv.org/abs/2607.19424)|null|
 |**2026-07-21**|**Mark, Don't Erase: Token Inoculation for Dual-Use Knowledge in LLMs**|Seunghyun Lee et.al.|[2607.18639](http://arxiv.org/abs/2607.18639)|null|
@@ -2886,6 +2892,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-23**|**V-DEAL: Diagnosing Video Safety De-Calibration as an Understanding-Refusal Coupling Failure**|Zhetong Zhang et.al.|[2607.21151](http://arxiv.org/abs/2607.21151)|null|
 |**2026-07-22**|**Reinforcement Learning for Large Language Model Selective Evidence Adoption from Contaminated Retrieval Results**|Yanyu Chen et.al.|[2607.20090](http://arxiv.org/abs/2607.20090)|null|
 |**2026-07-22**|**Know Your Agent: Reconnaissance-Driven Pentesting of AI Agents**|Or Zion Eliav et.al.|[2607.19837](http://arxiv.org/abs/2607.19837)|null|
 |**2026-07-21**|**Twin Agent: Context Residual Compression for Privilege Separated Agents**|Zhanhao Hu et.al.|[2607.19595](http://arxiv.org/abs/2607.19595)|null|
@@ -3733,6 +3740,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-21**|**Auditing pretraining contamination in single-cell foundation model benchmarks**|Sarwan Ali et.al.|[2607.20572](http://arxiv.org/abs/2607.20572)|null|
 |**2026-07-21**|**Code Division Modulation Layers Against Forgetting and Inference in Continual Gait Identification**|Simone Milani et.al.|[2607.19122](http://arxiv.org/abs/2607.19122)|null|
 |**2026-07-18**|**Privacy Cost as Equity Input: A Group Fairness Criterion for Differentially Private Machine Learning**|Rakshit Naidu et.al.|[2607.16620](http://arxiv.org/abs/2607.16620)|null|
 |**2026-05-09**|**JUMP: Single-Pass Membership Inference on Fine-Tuned Diffusion Language Models**|Yeachan Jun et.al.|[2607.16207](http://arxiv.org/abs/2607.16207)|null|
