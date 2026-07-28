@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.07.27
+## Updated on 2026.07.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-27**|**When LLM Defenses Backfire: Characterizing Safety, Performance, and Cost Trade-offs**|Tong Zhang et.al.|[2607.24392](http://arxiv.org/abs/2607.24392)|null|
+|**2026-07-26**|**Do LLMs Know Their Vulnerable Scenarios?**|Ziheng Peng et.al.|[2607.23496](http://arxiv.org/abs/2607.23496)|null|
+|**2026-07-21**|**Visual Token Compression Enhances Robustness of MLLMs**|Shishen Gu et.al.|[2607.22716](http://arxiv.org/abs/2607.22716)|null|
+|**2026-07-24**|**SIREN (Luring LLMs onto the Rocks): PAIR-Driven Preference Manipulation in Web-RAG Recommenders**|Evan Caville et.al.|[2607.21951](http://arxiv.org/abs/2607.21951)|null|
 |**2026-07-22**|**Geometric Configurations of Perturbed Jailbreak Prompts**|Lynn Delcon et.al.|[2607.20581](http://arxiv.org/abs/2607.20581)|null|
 |**2026-07-22**|**DARWIN: Evolving Jailbreak Adversary and Guardrail for LLM Safety Evaluation and Protection**|Weiwei Qi et.al.|[2607.19829](http://arxiv.org/abs/2607.19829)|null|
 |**2026-07-20**|**JailMeter: An Evidence-Based Evaluation Framework for Jailbreak Attacks on Large Language Models**|Qingjia Huang et.al.|[2607.19424](http://arxiv.org/abs/2607.19424)|null|
@@ -1036,14 +1040,18 @@ layout: default
 |**2002-05-07**|**The power spectrum of galaxies in the 2dF 100k redshift survey**|Max Tegmark et.al.|[astro-ph/0111575](http://arxiv.org/abs/astro-ph/0111575)|null|
 |**2001-05-21**|**Reconciliation of the Surface Brightness Fluctuations and Type Ia Supernovae Distance Scales**|Edward A. Ajhar et.al.|[astro-ph/0105366](http://arxiv.org/abs/astro-ph/0105366)|null|
 |**2002-02-27**|**Is cosmology consistent?**|Xiaomin Wang et.al.|[astro-ph/0105091](http://arxiv.org/abs/astro-ph/0105091)|null|
-|**2026-07-23**|**Tencent WorkBuddy Bench: A Multi-Domain Coding-Agent Benchmark with Contamination-Resistant Task Construction**|Tencent WorkBuddy Bench Team et.al.|[2607.20911](http://arxiv.org/abs/2607.20911)|null|
+|**2026-07-26**|**Do LLMs Know Their Vulnerable Scenarios?**|Ziheng Peng et.al.|[2607.23496](http://arxiv.org/abs/2607.23496)|null|
+|**2026-07-24**|**Strategic Inference of Adversarial Navigation Objectives for Unmanned Underwater Vehicles**|Ruimeng Hu et.al.|[2607.21945](http://arxiv.org/abs/2607.21945)|null|
+|**2026-07-23**|**Humanly: A Configurable and Traceable Environment for Human-AI Collaborative Writing**|Shenzhe Zhu et.al.|[2607.21758](http://arxiv.org/abs/2607.21758)|null|
+|**2026-07-23**|**What AI Red-Team Evaluations Can and Cannot Prove**|Bandana Kaur et.al.|[2607.21735](http://arxiv.org/abs/2607.21735)|null|
+|**2026-07-23**|**Tencent WorkBuddy Bench: A Multi-Domain Coding-Agent Benchmark with Contamination-Resistant Task Construction**| Tencent WorkBuddy Bench Team et.al.|[2607.20911](http://arxiv.org/abs/2607.20911)|null|
 |**2026-07-23**|**Code Monitor Red Teaming for Public-Test-Passing Code**|Junchi Liao et.al.|[2607.20852](http://arxiv.org/abs/2607.20852)|null|
 |**2026-06-15**|**Mitigating Scaffolding Collapse in Socratic Tutors via Representation Alignment**|Jing Shao et.al.|[2607.19371](http://arxiv.org/abs/2607.19371)|null|
 |**2026-07-21**|**SoK: Adversarial Robustness of the Variational Quantum Eigensolver via Red-Teaming**|Ahmed Azaz Humdoon et.al.|[2607.19318](http://arxiv.org/abs/2607.19318)|null|
 |**2026-07-20**|**Hybrid Latent-Structural Fusion (HLSF) for Cyber Anomaly Detection**|Dorianis M. Perez et.al.|[2607.18479](http://arxiv.org/abs/2607.18479)|null|
 |**2026-07-20**|**An Early Warning of Emerging Biosecurity Risks in Frontier LLMs**|Zhida He et.al.|[2607.18056](http://arxiv.org/abs/2607.18056)|null|
 |**2026-07-19**|**How Jailbreak Attacks Inform Safety Alignment: A Defender-Centric, Shapley-Based Evaluation of Jailbreak Contributions**|Yukai Zhou et.al.|[2607.17152](http://arxiv.org/abs/2607.17152)|null|
-|**2026-07-17**|**Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents**|Paul Kassianik et.al.|[2607.15263](http://arxiv.org/abs/2607.15263)|null|
+|**2026-07-27**|**Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents**|Paul Kassianik et.al.|[2607.15263](http://arxiv.org/abs/2607.15263)|null|
 |**2026-07-15**|**Automatic Hard Example Synthesis with Multi-Level Agentic Data Curation**|Genglin Liu et.al.|[2607.14256](http://arxiv.org/abs/2607.14256)|null|
 |**2026-07-15**|**GFlowRL: Scaling Distribution-Matching RL to Large Language Models**|Xiaodong Liu et.al.|[2607.13394](http://arxiv.org/abs/2607.13394)|null|
 |**2026-07-14**|**Composable Trust for Language Models: A proven boundary and a measured defense**|Yakov Pyotr Shkolnikov et.al.|[2607.13149](http://arxiv.org/abs/2607.13149)|null|
@@ -1879,7 +1887,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-07-23**|**V-DEAL: Diagnosing Video Safety De-Calibration as an Understanding-Refusal Coupling Failure**|Zhetong Zhang et.al.|[2607.21151](http://arxiv.org/abs/2607.21151)|null|
+|**2026-07-26**|**Do LLMs Know Their Vulnerable Scenarios?**|Ziheng Peng et.al.|[2607.23496](http://arxiv.org/abs/2607.23496)|null|
+|**2026-07-25**|**Mask2Shield: Strengthening LLM Safety against Neuron-Pruning Attacks**|Ying JinCheng et.al.|[2607.23015](http://arxiv.org/abs/2607.23015)|null|
+|**2026-07-26**|**V-DEAL: Diagnosing Video Safety De-Calibration as an Understanding-Refusal Coupling Failure**|Zhetong Zhang et.al.|[2607.21151](http://arxiv.org/abs/2607.21151)|null|
 |**2026-07-22**|**Geometric Configurations of Perturbed Jailbreak Prompts**|Lynn Delcon et.al.|[2607.20581](http://arxiv.org/abs/2607.20581)|null|
 |**2026-07-22**|**DARWIN: Evolving Jailbreak Adversary and Guardrail for LLM Safety Evaluation and Protection**|Weiwei Qi et.al.|[2607.19829](http://arxiv.org/abs/2607.19829)|null|
 |**2026-07-20**|**JailMeter: An Evidence-Based Evaluation Framework for Jailbreak Attacks on Large Language Models**|Qingjia Huang et.al.|[2607.19424](http://arxiv.org/abs/2607.19424)|null|
@@ -1917,6 +1927,7 @@ layout: default
 |**2026-07-08**|**HARC: Coupling Harmfulness and Refusal Directions for Robust Safety Alignment**|Shei Pern Chua et.al.|[2607.00572](http://arxiv.org/abs/2607.00572)|null|
 |**2026-07-01**|**The Illusion of High Utility in Safety Alignment of Text-to-Image Diffusion Models**|Adeel Yousaf et.al.|[2607.00402](http://arxiv.org/abs/2607.00402)|null|
 |**2026-06-30**|**Optimization Algorithms for Joint OFDM Waveform Design and RIS Configuration in 6G Networks: From Convex Relaxation to Foundation Models**|Ahmet Kaplan et.al.|[2606.31334](http://arxiv.org/abs/2606.31334)|null|
+|**2026-07-27**|**EvalSafetyGap: A Hybrid Survey and Conceptual Framework for LLM Evaluation-Safety Failures**|Buğra Alperen Uluırmak et.al.|[2606.30219](http://arxiv.org/abs/2606.30219)|null|
 |**2026-06-28**|**An Empirical Evaluation of Prompt Injection Vulnerabilities in Large Language Models Across Multilingual and Obfuscated Attack Scenarios**|Caglar Uysal et.al.|[2606.29602](http://arxiv.org/abs/2606.29602)|null|
 |**2026-07-15**|**The Joint Effect of Quantization and Sampling Temperature on LLM Safety Alignment: A Factorial Analysis**|Hari Prasad et.al.|[2606.29581](http://arxiv.org/abs/2606.29581)|null|
 |**2026-05-26**|**When Medical Safety Alignment Fails: A Benchmark for Evaluating LLMs on High-Risk Medical Queries**|Yige Li et.al.|[2606.28332](http://arxiv.org/abs/2606.28332)|null|
@@ -2892,7 +2903,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-07-23**|**V-DEAL: Diagnosing Video Safety De-Calibration as an Understanding-Refusal Coupling Failure**|Zhetong Zhang et.al.|[2607.21151](http://arxiv.org/abs/2607.21151)|null|
+|**2026-07-27**|**Agentic Permissions Policy Algebra for Taint Confinement in LLM Agents**|Arseny Kravchenko et.al.|[2607.24625](http://arxiv.org/abs/2607.24625)|null|
+|**2026-07-27**|**Just Testing, Move Along: Evasion of LLM-based System Log Interpretation by Prompt Injection**|Max Landauer et.al.|[2607.24174](http://arxiv.org/abs/2607.24174)|null|
+|**2026-07-27**|**Agentic Cloud Decoys: A Deception-Driven Framework for Autonomous Intrusion Investigation**|Mohan Manivannan et.al.|[2607.24006](http://arxiv.org/abs/2607.24006)|null|
+|**2026-07-27**|**ContainmentBench: Trace-Based Evaluation of Post-Injection Containment in Tool-Using LLM Agents**|Wenhao Lan et.al.|[2607.23999](http://arxiv.org/abs/2607.23999)|null|
+|**2026-07-26**|**Are You Still the Agent I Authorized? Earned Authority under a Fixed Ceiling for Evolving Agents**|Zhaoxi Zhang et.al.|[2607.23586](http://arxiv.org/abs/2607.23586)|null|
+|**2026-07-26**|**Mission-Level Runtime Assurance for LLM-Assisted ISR Swarms over a Verification-Aware Fabric**|Nikolaos Kekatos et.al.|[2607.23532](http://arxiv.org/abs/2607.23532)|null|
+|**2026-07-24**|**Agent Security Needs Redefinition through a Holistic Framework**|Vincent Siu et.al.|[2607.22024](http://arxiv.org/abs/2607.22024)|null|
+|**2026-07-23**|**Protocol-Level Attacks on Agentic Commerce Platforms: A Cross-Platform Taxonomy, AIP-Bench, and Unified Defense**|Yedidel Louck et.al.|[2607.21824](http://arxiv.org/abs/2607.21824)|null|
+|**2026-07-26**|**V-DEAL: Diagnosing Video Safety De-Calibration as an Understanding-Refusal Coupling Failure**|Zhetong Zhang et.al.|[2607.21151](http://arxiv.org/abs/2607.21151)|null|
 |**2026-07-22**|**Reinforcement Learning for Large Language Model Selective Evidence Adoption from Contaminated Retrieval Results**|Yanyu Chen et.al.|[2607.20090](http://arxiv.org/abs/2607.20090)|null|
 |**2026-07-22**|**Know Your Agent: Reconnaissance-Driven Pentesting of AI Agents**|Or Zion Eliav et.al.|[2607.19837](http://arxiv.org/abs/2607.19837)|null|
 |**2026-07-21**|**Twin Agent: Context Residual Compression for Privilege Separated Agents**|Zhanhao Hu et.al.|[2607.19595](http://arxiv.org/abs/2607.19595)|null|
@@ -2914,7 +2933,7 @@ layout: default
 |**2026-07-15**|**Agent Skill Security: Threat Models, Attacks, Defenses, and Evaluation**|Sanket Badhe et.al.|[2607.13987](http://arxiv.org/abs/2607.13987)|null|
 |**2026-07-20**|**How Agents Ask for Permission: User Permissions for AI Agents, from Interfaces to Enforcement**|Alexandra E. Michael et.al.|[2607.13718](http://arxiv.org/abs/2607.13718)|null|
 |**2026-07-15**|**Self-Evolving Agent Harnesses via Gated Semantic Quality-Diversity**|Xiaotian Luo et.al.|[2607.13683](http://arxiv.org/abs/2607.13683)|null|
-|**2026-07-13**|**SingGuard-NSFA: Extensible Guardrails for Agentic AI via Generative Reasoning and Real-Time Classification**|SingGuard Team et.al.|[2607.13081](http://arxiv.org/abs/2607.13081)|null|
+|**2026-07-13**|**SingGuard-NSFA: Extensible Guardrails for Agentic AI via Generative Reasoning and Real-Time Classification**| SingGuard Team et.al.|[2607.13081](http://arxiv.org/abs/2607.13081)|null|
 |**2026-07-14**|**PVDetector: Detecting Prompt Injection Attacks on Purpose-Specific LLM Agents through Policy-Violation Concept Analysis**|Junhui Wang et.al.|[2607.12624](http://arxiv.org/abs/2607.12624)|null|
 |**2026-07-14**|**Isolation as a First-Class Principle for LLM-Agent System Safety: Concepts, Taxonomy, Challenges and Future Directions**|Huihao Jing et.al.|[2607.12406](http://arxiv.org/abs/2607.12406)|null|
 |**2026-07-12**|**Distributed Denial of Science: How Indirect Data Poisoning of AI Systems Can Industrialize Scientific Fraud**|Bálint Gyevnár et.al.|[2607.10712](http://arxiv.org/abs/2607.10712)|null|
