@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.07.28
+## Updated on 2026.07.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-28**|**Inspect India Evals: An Open Benchmarking Framework for Evaluating Large Language Models in the Indian Linguistic and Cultural Context**|Abhishek Kumar Singh et.al.|[2607.25375](http://arxiv.org/abs/2607.25375)|null|
+|**2026-07-28**|**SafeFlow: Semantic Information-Flow Control for Blocking Malicious Propagation in Multi-Agent Systems**|Haowen Dai et.al.|[2607.25255](http://arxiv.org/abs/2607.25255)|null|
+|**2026-07-27**|**TYPO: Instruction-Dense Visual Jailbreaks against Commercial Closed-Source Image-Generation Models**|Meng Xie et.al.|[2607.24897](http://arxiv.org/abs/2607.24897)|null|
 |**2026-07-27**|**When LLM Defenses Backfire: Characterizing Safety, Performance, and Cost Trade-offs**|Tong Zhang et.al.|[2607.24392](http://arxiv.org/abs/2607.24392)|null|
 |**2026-07-26**|**Do LLMs Know Their Vulnerable Scenarios?**|Ziheng Peng et.al.|[2607.23496](http://arxiv.org/abs/2607.23496)|null|
 |**2026-07-21**|**Visual Token Compression Enhances Robustness of MLLMs**|Shishen Gu et.al.|[2607.22716](http://arxiv.org/abs/2607.22716)|null|
@@ -1887,6 +1890,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-27**|**TYPO: Instruction-Dense Visual Jailbreaks against Commercial Closed-Source Image-Generation Models**|Meng Xie et.al.|[2607.24897](http://arxiv.org/abs/2607.24897)|null|
 |**2026-07-26**|**Do LLMs Know Their Vulnerable Scenarios?**|Ziheng Peng et.al.|[2607.23496](http://arxiv.org/abs/2607.23496)|null|
 |**2026-07-25**|**Mask2Shield: Strengthening LLM Safety against Neuron-Pruning Attacks**|Ying JinCheng et.al.|[2607.23015](http://arxiv.org/abs/2607.23015)|null|
 |**2026-07-26**|**V-DEAL: Diagnosing Video Safety De-Calibration as an Understanding-Refusal Coupling Failure**|Zhetong Zhang et.al.|[2607.21151](http://arxiv.org/abs/2607.21151)|null|
@@ -2903,10 +2907,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-28**|**SafeFlow: Semantic Information-Flow Control for Blocking Malicious Propagation in Multi-Agent Systems**|Haowen Dai et.al.|[2607.25255](http://arxiv.org/abs/2607.25255)|null|
 |**2026-07-27**|**Agentic Permissions Policy Algebra for Taint Confinement in LLM Agents**|Arseny Kravchenko et.al.|[2607.24625](http://arxiv.org/abs/2607.24625)|null|
 |**2026-07-27**|**Just Testing, Move Along: Evasion of LLM-based System Log Interpretation by Prompt Injection**|Max Landauer et.al.|[2607.24174](http://arxiv.org/abs/2607.24174)|null|
 |**2026-07-27**|**Agentic Cloud Decoys: A Deception-Driven Framework for Autonomous Intrusion Investigation**|Mohan Manivannan et.al.|[2607.24006](http://arxiv.org/abs/2607.24006)|null|
-|**2026-07-27**|**ContainmentBench: Trace-Based Evaluation of Post-Injection Containment in Tool-Using LLM Agents**|Wenhao Lan et.al.|[2607.23999](http://arxiv.org/abs/2607.23999)|null|
+|**2026-07-28**|**ContainmentBench: Trace-Based Evaluation of Post-Injection Containment in Tool-Using LLM Agents**|Wenhao Lan et.al.|[2607.23999](http://arxiv.org/abs/2607.23999)|null|
 |**2026-07-26**|**Are You Still the Agent I Authorized? Earned Authority under a Fixed Ceiling for Evolving Agents**|Zhaoxi Zhang et.al.|[2607.23586](http://arxiv.org/abs/2607.23586)|null|
 |**2026-07-26**|**Mission-Level Runtime Assurance for LLM-Assisted ISR Swarms over a Verification-Aware Fabric**|Nikolaos Kekatos et.al.|[2607.23532](http://arxiv.org/abs/2607.23532)|null|
 |**2026-07-24**|**Agent Security Needs Redefinition through a Holistic Framework**|Vincent Siu et.al.|[2607.22024](http://arxiv.org/abs/2607.22024)|null|
@@ -3759,6 +3764,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-27**|**ScoreShield: Differentially Private Release of Similarity Scores**|Behrooz Razeghi et.al.|[2607.25041](http://arxiv.org/abs/2607.25041)|null|
 |**2026-07-21**|**Auditing pretraining contamination in single-cell foundation model benchmarks**|Sarwan Ali et.al.|[2607.20572](http://arxiv.org/abs/2607.20572)|null|
 |**2026-07-21**|**Code Division Modulation Layers Against Forgetting and Inference in Continual Gait Identification**|Simone Milani et.al.|[2607.19122](http://arxiv.org/abs/2607.19122)|null|
 |**2026-07-18**|**Privacy Cost as Equity Input: A Group Fairness Criterion for Differentially Private Machine Learning**|Rakshit Naidu et.al.|[2607.16620](http://arxiv.org/abs/2607.16620)|null|
