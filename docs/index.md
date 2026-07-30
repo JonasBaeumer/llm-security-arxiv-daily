@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.07.29
+## Updated on 2026.07.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-29**|**On-Policy Distillation for LLM Safety: A Routing Approach to Template-Robust Realignment**|Yongjian Guo et.al.|[2607.27081](http://arxiv.org/abs/2607.27081)|null|
+|**2026-07-29**|**ToxScreen: Detecting Whether an LLM Has Been Poisoned**|Anthony Hughes et.al.|[2607.26849](http://arxiv.org/abs/2607.26849)|null|
+|**2026-07-29**|**Borrowed Strength: Best-of-N Search over a Code EncodingBreaks Self-Check Jailbreak Defenses**|Haoyu Zhang et.al.|[2607.26639](http://arxiv.org/abs/2607.26639)|null|
+|**2026-07-29**|**Recover, Decode, Reguard: Guard-Agnostic Defense Amplification againstEncoded VLM Jailbreaks**|Haoyu Zhang et.al.|[2607.26574](http://arxiv.org/abs/2607.26574)|null|
+|**2026-07-29**|**Prosody-driven Jailbreaks in Audio LLMs: A Controlled Study and Mechanistic Analysis**|Jiachen Qian et.al.|[2607.26541](http://arxiv.org/abs/2607.26541)|null|
 |**2026-07-28**|**Inspect India Evals: An Open Benchmarking Framework for Evaluating Large Language Models in the Indian Linguistic and Cultural Context**|Abhishek Kumar Singh et.al.|[2607.25375](http://arxiv.org/abs/2607.25375)|null|
 |**2026-07-28**|**SafeFlow: Semantic Information-Flow Control for Blocking Malicious Propagation in Multi-Agent Systems**|Haowen Dai et.al.|[2607.25255](http://arxiv.org/abs/2607.25255)|null|
 |**2026-07-27**|**TYPO: Instruction-Dense Visual Jailbreaks against Commercial Closed-Source Image-Generation Models**|Meng Xie et.al.|[2607.24897](http://arxiv.org/abs/2607.24897)|null|
@@ -1043,6 +1048,8 @@ layout: default
 |**2002-05-07**|**The power spectrum of galaxies in the 2dF 100k redshift survey**|Max Tegmark et.al.|[astro-ph/0111575](http://arxiv.org/abs/astro-ph/0111575)|null|
 |**2001-05-21**|**Reconciliation of the Surface Brightness Fluctuations and Type Ia Supernovae Distance Scales**|Edward A. Ajhar et.al.|[astro-ph/0105366](http://arxiv.org/abs/astro-ph/0105366)|null|
 |**2002-02-27**|**Is cosmology consistent?**|Xiaomin Wang et.al.|[astro-ph/0105091](http://arxiv.org/abs/astro-ph/0105091)|null|
+|**2026-07-28**|**StealthBench: Measuring Operational Stealth in Autonomous Offensive-Security Agents**|Ads Dawson et.al.|[2607.26314](http://arxiv.org/abs/2607.26314)|null|
+|**2026-07-28**|**GPT-Red: Automated Red Teaming via Self-Play at Scale**|Eric Wallace et.al.|[2607.26115](http://arxiv.org/abs/2607.26115)|null|
 |**2026-07-26**|**Do LLMs Know Their Vulnerable Scenarios?**|Ziheng Peng et.al.|[2607.23496](http://arxiv.org/abs/2607.23496)|null|
 |**2026-07-24**|**Strategic Inference of Adversarial Navigation Objectives for Unmanned Underwater Vehicles**|Ruimeng Hu et.al.|[2607.21945](http://arxiv.org/abs/2607.21945)|null|
 |**2026-07-23**|**Humanly: A Configurable and Traceable Environment for Human-AI Collaborative Writing**|Shenzhe Zhu et.al.|[2607.21758](http://arxiv.org/abs/2607.21758)|null|
@@ -1890,6 +1897,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-29**|**On-Policy Distillation for LLM Safety: A Routing Approach to Template-Robust Realignment**|Yongjian Guo et.al.|[2607.27081](http://arxiv.org/abs/2607.27081)|null|
+|**2026-07-29**|**Prosody-driven Jailbreaks in Audio LLMs: A Controlled Study and Mechanistic Analysis**|Jiachen Qian et.al.|[2607.26541](http://arxiv.org/abs/2607.26541)|null|
+|**2026-07-28**|**GPT-Red: Automated Red Teaming via Self-Play at Scale**|Eric Wallace et.al.|[2607.26115](http://arxiv.org/abs/2607.26115)|null|
 |**2026-07-27**|**TYPO: Instruction-Dense Visual Jailbreaks against Commercial Closed-Source Image-Generation Models**|Meng Xie et.al.|[2607.24897](http://arxiv.org/abs/2607.24897)|null|
 |**2026-07-26**|**Do LLMs Know Their Vulnerable Scenarios?**|Ziheng Peng et.al.|[2607.23496](http://arxiv.org/abs/2607.23496)|null|
 |**2026-07-25**|**Mask2Shield: Strengthening LLM Safety against Neuron-Pruning Attacks**|Ying JinCheng et.al.|[2607.23015](http://arxiv.org/abs/2607.23015)|null|
@@ -2907,6 +2917,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-28**|**GPT-Red: Automated Red Teaming via Self-Play at Scale**|Eric Wallace et.al.|[2607.26115](http://arxiv.org/abs/2607.26115)|null|
 |**2026-07-28**|**SafeFlow: Semantic Information-Flow Control for Blocking Malicious Propagation in Multi-Agent Systems**|Haowen Dai et.al.|[2607.25255](http://arxiv.org/abs/2607.25255)|null|
 |**2026-07-27**|**Agentic Permissions Policy Algebra for Taint Confinement in LLM Agents**|Arseny Kravchenko et.al.|[2607.24625](http://arxiv.org/abs/2607.24625)|null|
 |**2026-07-27**|**Just Testing, Move Along: Evasion of LLM-based System Log Interpretation by Prompt Injection**|Max Landauer et.al.|[2607.24174](http://arxiv.org/abs/2607.24174)|null|
@@ -4644,7 +4655,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-07-05**|**Linguistic Firewall: Geometry as Defense in Multi-Agent Systems Routing**|Dvir Alsheich et.al.|[2606.30555](http://arxiv.org/abs/2606.30555)|null|
+|**2026-07-29**|**Linguistic Firewall: Geometry as Defense in Multi-Agent Systems Routing**|Dvir Alsheich et.al.|[2606.30555](http://arxiv.org/abs/2606.30555)|null|
 |**2026-06-29**|**Defending Against Harmful Supervision Hidden in Benign Samples**|Bang An et.al.|[2606.30263](http://arxiv.org/abs/2606.30263)|null|
 |**2026-06-27**|**Why Trust Your Agent? Empirical Security Gains from TRiSM-Guided Agentic Workflows in Healthcare**|Liam Kearns et.al.|[2606.28666](http://arxiv.org/abs/2606.28666)|null|
 |**2026-06-23**|**Poisoned Playbooks: Demystifying Knowledge Poisoning Effects on AI Security Agents**|Juho Park et.al.|[2606.24402](http://arxiv.org/abs/2606.24402)|null|
