@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.08.02
+## Updated on 2026.08.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-30**|**Safety, or Just Capability? A Validity Audit of Agent-Safety Benchmarks**|Youting Wang et.al.|[2607.28685](http://arxiv.org/abs/2607.28685)|null|
 |**2026-07-30**|**A Cross-Architecture Audit of Direction-Based Inference-Time Defences in Vision-Language Models**|Xiangyu Yin et.al.|[2607.27910](http://arxiv.org/abs/2607.27910)|null|
 |**2026-07-29**|**RoguePrompt: Dual-Layer Encoding for Self-Reconstruction to Circumvent LLM Moderation**|Benyamin Tafreshian et.al.|[2607.27373](http://arxiv.org/abs/2607.27373)|null|
 |**2026-07-26**|**Asymmetric Collapse in Model Merging: When Refusal Over- writes Recognition**|Aarnav Choudhary et.al.|[2607.27240](http://arxiv.org/abs/2607.27240)|null|
@@ -1900,6 +1901,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-31**|**Don't Mix Rewards, Mix Policies: Policy Decomposition and Optimization for Multi-Reward RL**|Ruiming Liang et.al.|[2607.29246](http://arxiv.org/abs/2607.29246)|null|
+|**2026-07-31**|**SafeNexus: Discovering and Steering Modality-Universal Safety Neurons in MLLMs**|Jian Yu et.al.|[2607.28969](http://arxiv.org/abs/2607.28969)|null|
 |**2026-07-30**|**Inducing language models to assert their own consciousness restores human beliefs and values**|Junsol Kim et.al.|[2607.28607](http://arxiv.org/abs/2607.28607)|null|
 |**2026-07-30**|**One Anchor for All: Unified Multilingual and Multimodal Safety Alignment for LVLMs**|Enyi Shi et.al.|[2607.27917](http://arxiv.org/abs/2607.27917)|null|
 |**2026-07-30**|**Compliance2LoRA: On-Demand Safety Alignment on Arbitrary Policy Subsets via Hypernetwork-Generated LoRA Adapters**|Pankayaraj Pathmanathan et.al.|[2607.27594](http://arxiv.org/abs/2607.27594)|null|
@@ -1947,7 +1950,7 @@ layout: default
 |**2026-07-08**|**HARC: Coupling Harmfulness and Refusal Directions for Robust Safety Alignment**|Shei Pern Chua et.al.|[2607.00572](http://arxiv.org/abs/2607.00572)|null|
 |**2026-07-01**|**The Illusion of High Utility in Safety Alignment of Text-to-Image Diffusion Models**|Adeel Yousaf et.al.|[2607.00402](http://arxiv.org/abs/2607.00402)|null|
 |**2026-06-30**|**Optimization Algorithms for Joint OFDM Waveform Design and RIS Configuration in 6G Networks: From Convex Relaxation to Foundation Models**|Ahmet Kaplan et.al.|[2606.31334](http://arxiv.org/abs/2606.31334)|null|
-|**2026-07-27**|**EvalSafetyGap: A Hybrid Survey and Conceptual Framework for LLM Evaluation-Safety Failures**|Buğra Alperen Uluırmak et.al.|[2606.30219](http://arxiv.org/abs/2606.30219)|null|
+|**2026-07-31**|**EvalSafetyGap: A Hybrid Survey and Conceptual Framework for LLM Evaluation-Safety Failures**|Buğra Alperen Uluırmak et.al.|[2606.30219](http://arxiv.org/abs/2606.30219)|null|
 |**2026-06-28**|**An Empirical Evaluation of Prompt Injection Vulnerabilities in Large Language Models Across Multilingual and Obfuscated Attack Scenarios**|Caglar Uysal et.al.|[2606.29602](http://arxiv.org/abs/2606.29602)|null|
 |**2026-07-15**|**The Joint Effect of Quantization and Sampling Temperature on LLM Safety Alignment: A Factorial Analysis**|Hari Prasad et.al.|[2606.29581](http://arxiv.org/abs/2606.29581)|null|
 |**2026-05-26**|**When Medical Safety Alignment Fails: A Benchmark for Evaluating LLMs on High-Risk Medical Queries**|Yige Li et.al.|[2606.28332](http://arxiv.org/abs/2606.28332)|null|
@@ -2923,8 +2926,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-31**|**Tool Specifications Matter: Uncovering and Mitigating Safety Risks in AI Agents**|Minghui Pan et.al.|[2607.29254](http://arxiv.org/abs/2607.29254)|null|
 |**2026-07-30**|**Security of World-Model-Based Embodied AI: A Lifecycle of Threats, Defenses, and Evaluation**|Fazhong Liu et.al.|[2607.28226](http://arxiv.org/abs/2607.28226)|null|
-|**2026-07-30**|**Piggybacking on Perception: Stealthy Concurrent Audio Prompt Injections against Multimodal LLM Agents**|Mingxiao Liu et.al.|[2607.28165](http://arxiv.org/abs/2607.28165)|null|
+|**2026-07-31**|**Piggybacking on Perception: Stealthy Concurrent Audio Prompt Injections against Multimodal LLM Agents**|Mingxiao Liu et.al.|[2607.28165](http://arxiv.org/abs/2607.28165)|null|
 |**2026-07-28**|**GPT-Red: Automated Red Teaming via Self-Play at Scale**|Eric Wallace et.al.|[2607.26115](http://arxiv.org/abs/2607.26115)|null|
 |**2026-07-29**|**SafeFlow: Semantic Information-Flow Control for Blocking Malicious Propagation in Multi-Agent Systems**|Haowen Dai et.al.|[2607.25255](http://arxiv.org/abs/2607.25255)|null|
 |**2026-07-27**|**Agentic Permissions Policy Algebra for Taint Confinement in LLM Agents**|Arseny Kravchenko et.al.|[2607.24625](http://arxiv.org/abs/2607.24625)|null|
@@ -2932,7 +2936,7 @@ layout: default
 |**2026-07-27**|**Agentic Cloud Decoys: A Deception-Driven Framework for Autonomous Intrusion Investigation**|Mohan Manivannan et.al.|[2607.24006](http://arxiv.org/abs/2607.24006)|null|
 |**2026-07-28**|**ContainmentBench: Trace-Based Evaluation of Post-Injection Containment in Tool-Using LLM Agents**|Wenhao Lan et.al.|[2607.23999](http://arxiv.org/abs/2607.23999)|null|
 |**2026-07-26**|**Are You Still the Agent I Authorized? Earned Authority under a Fixed Ceiling for Evolving Agents**|Zhaoxi Zhang et.al.|[2607.23586](http://arxiv.org/abs/2607.23586)|null|
-|**2026-07-26**|**Mission-Level Runtime Assurance for LLM-Assisted ISR Swarms over a Verification-Aware Fabric**|Nikolaos Kekatos et.al.|[2607.23532](http://arxiv.org/abs/2607.23532)|null|
+|**2026-07-31**|**Mission-Level Runtime Assurance for LLM-Assisted ISR Swarms over a Verification-Aware Fabric**|Nikolaos Kekatos et.al.|[2607.23532](http://arxiv.org/abs/2607.23532)|null|
 |**2026-07-24**|**Agent Security Needs Redefinition through a Holistic Framework**|Vincent Siu et.al.|[2607.22024](http://arxiv.org/abs/2607.22024)|null|
 |**2026-07-23**|**Protocol-Level Attacks on Agentic Commerce Platforms: A Cross-Platform Taxonomy, AIP-Bench, and Unified Defense**|Yedidel Louck et.al.|[2607.21824](http://arxiv.org/abs/2607.21824)|null|
 |**2026-07-26**|**V-DEAL: Diagnosing Video Safety De-Calibration as an Understanding-Refusal Coupling Failure**|Zhetong Zhang et.al.|[2607.21151](http://arxiv.org/abs/2607.21151)|null|
@@ -2944,7 +2948,7 @@ layout: default
 |**2026-07-03**|**CrackedPDFs: A Controlled Benchmark for Hidden Prompt Injection in PDFs**|Pukaphol Thienpreecha et.al.|[2607.19396](http://arxiv.org/abs/2607.19396)|null|
 |**2026-07-21**|**The safety failures we are not instrumenting: a perspective on hidden safety-critical challenges in modern AI systems**|Gjergji Kasneci et.al.|[2607.19292](http://arxiv.org/abs/2607.19292)|null|
 |**2026-07-21**|**Data Leakage Prevention in Agentic Applications via Preemptive Hardening**|Akansha Shukla et.al.|[2607.18847](http://arxiv.org/abs/2607.18847)|null|
-|**2026-07-21**|**CPInj: Uncovering Prompt Injection Risks in Textual Collaborative Prompt Optimization**|Xinting Liao et.al.|[2607.18622](http://arxiv.org/abs/2607.18622)|null|
+|**2026-07-30**|**CPInj: Uncovering Prompt Injection Risks in Textual Collaborative Prompt Optimization**|Xinting Liao et.al.|[2607.18622](http://arxiv.org/abs/2607.18622)|null|
 |**2026-07-20**|**Trusted Credentials, Untrusted Behavior: Benchmarking LLM-Agent Security in High-Performance Computing**|Jie Li et.al.|[2607.18485](http://arxiv.org/abs/2607.18485)|null|
 |**2026-07-20**|**Adaptive Adversaries: A Multi-Turn, Multi-LLM Benchmark for LLM Agent Security**|Devina Jain et.al.|[2607.18063](http://arxiv.org/abs/2607.18063)|null|
 |**2026-07-20**|**Salience Induction against Multi-Hop RAG Agents: Threat and Defense**|Xingfu Zhou et.al.|[2607.17535](http://arxiv.org/abs/2607.17535)|null|
@@ -3783,6 +3787,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-31**|**Have I Seen You? Embedding Behavior Signals Synthetic Face Dataset Membership**|Paweł Borsukiewicz et.al.|[2607.29144](http://arxiv.org/abs/2607.29144)|null|
 |**2026-07-27**|**ScoreShield: Differentially Private Release of Similarity Scores**|Behrooz Razeghi et.al.|[2607.25041](http://arxiv.org/abs/2607.25041)|null|
 |**2026-07-21**|**Auditing pretraining contamination in single-cell foundation model benchmarks**|Sarwan Ali et.al.|[2607.20572](http://arxiv.org/abs/2607.20572)|null|
 |**2026-07-21**|**Code Division Modulation Layers Against Forgetting and Inference in Continual Gait Identification**|Simone Milani et.al.|[2607.19122](http://arxiv.org/abs/2607.19122)|null|
@@ -4663,6 +4668,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-31**|**Learning from Adversity: Semantic-Aware Mask Refinement through Adversarial Perturbation**|Beomyoung Kim et.al.|[2607.29059](http://arxiv.org/abs/2607.29059)|null|
 |**2026-07-29**|**Linguistic Firewall: Geometry as Defense in Multi-Agent Systems Routing**|Dvir Alsheich et.al.|[2606.30555](http://arxiv.org/abs/2606.30555)|null|
 |**2026-06-29**|**Defending Against Harmful Supervision Hidden in Benign Samples**|Bang An et.al.|[2606.30263](http://arxiv.org/abs/2606.30263)|null|
 |**2026-06-27**|**Why Trust Your Agent? Empirical Security Gains from TRiSM-Guided Agentic Workflows in Healthcare**|Liam Kearns et.al.|[2606.28666](http://arxiv.org/abs/2606.28666)|null|
