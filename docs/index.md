@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.08.04
+## Updated on 2026.08.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-04**|**ICO: Enhancing Semantic-Shift Jailbreaks via Iterative Context Optimization**|Hujian Zhu et.al.|[2608.03210](http://arxiv.org/abs/2608.03210)|null|
+|**2026-08-04**|**AI Security Leaderboard: Methodology, Results and Minimal Standard**|Jasper Timm et.al.|[2608.03070](http://arxiv.org/abs/2608.03070)|null|
+|**2026-08-03**|**Safety in Batches? Understanding and Mitigating Safety Failures in Batch Prompting**|Kihyun Kim et.al.|[2608.02681](http://arxiv.org/abs/2608.02681)|null|
+|**2026-08-02**|**Moving the Safety Barrier: Dynamic Routing Adaptive Alignment Against White-Box Attacks**|Shangze Li et.al.|[2608.02674](http://arxiv.org/abs/2608.02674)|null|
 |**2026-08-02**|**No Single Neuron of Failure: Distributed Safety Alignment Against White-Box Attacks**|Simiao Xie et.al.|[2608.01414](http://arxiv.org/abs/2608.01414)|null|
 |**2026-08-02**|**The Boy Who Cried Wolf: Adversarial Misclassification of Safe Inputs as Unsafe in Multimodal Guardrails**|Shuo Shi et.al.|[2608.01373](http://arxiv.org/abs/2608.01373)|null|
 |**2026-08-02**|**SoK: Intent-Oriented Systematization of Multi-Turn LLM Jailbreaks**|Siyuan Li et.al.|[2608.01117](http://arxiv.org/abs/2608.01117)|null|
@@ -1909,6 +1913,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-04**|**Robust General Utility for Reinforcement Learning**|Zixuan Liu et.al.|[2608.03562](http://arxiv.org/abs/2608.03562)|null|
+|**2026-08-04**|**Cross-Lingual Bias in Large Language Models: A Comparative Analysis of English and Swahili**|Ruolei Zhang et.al.|[2608.03532](http://arxiv.org/abs/2608.03532)|null|
+|**2026-08-03**|**Aligned in Form, Not in Meaning: The Comprehension - Containment Decoupling of LLM Safety in Low-Resource Bangla Derogatory Speech**|Shadab Bin Habib et.al.|[2608.02941](http://arxiv.org/abs/2608.02941)|null|
+|**2026-08-03**|**A Blind Spot in Alignment: Quantifying Biosecurity Risks in Large Language Models**|Shu Quan et.al.|[2608.02684](http://arxiv.org/abs/2608.02684)|null|
+|**2026-08-03**|**Safety in Batches? Understanding and Mitigating Safety Failures in Batch Prompting**|Kihyun Kim et.al.|[2608.02681](http://arxiv.org/abs/2608.02681)|null|
+|**2026-08-01**|**Single Canonical Prompts Underestimate LLM Safety's Surface-Form Sensitivity**|Yongxi Zhou et.al.|[2608.02665](http://arxiv.org/abs/2608.02665)|null|
 |**2026-08-03**|**EduZone: A Framework for Evaluating LLM Safety for K-12 Students and Teachers**|Junyeong Park et.al.|[2608.02024](http://arxiv.org/abs/2608.02024)|null|
 |**2026-08-02**|**No Single Neuron of Failure: Distributed Safety Alignment Against White-Box Attacks**|Simiao Xie et.al.|[2608.01414](http://arxiv.org/abs/2608.01414)|null|
 |**2026-07-23**|**Trustworthiness Costs of Domain Adaptation in Small Language Models:A Cross-Architecture Empirical Study**|Ramesh B. Paramkusham et.al.|[2608.00042](http://arxiv.org/abs/2608.00042)|null|
@@ -2937,10 +2947,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-01**|**Your Agentic LLMs Secretly Encode Latent Signals of Indirect Prompt-Injection Exposure**|Jianshuo Dong et.al.|[2608.02657](http://arxiv.org/abs/2608.02657)|null|
 |**2026-08-03**|**Invisible Ink Threats: Adversarial Goals Behind Legitimate Tasks in Computer-Use Agents**|Jia-Chen Zhang et.al.|[2608.02018](http://arxiv.org/abs/2608.02018)|null|
 |**2026-08-03**|**Mitigating Visual Degradation in MLLMs via Spatial-Spectral Visual Anchor Learning**|Qianlong Yang et.al.|[2608.01635](http://arxiv.org/abs/2608.01635)|null|
 |**2026-08-02**|**Copyright Is the Headline; Capability Is the Blind Spot: AI Technology in the Book-Publishing Trade Press, November 2025--August 2026**|Fred Zimmerman et.al.|[2608.00964](http://arxiv.org/abs/2608.00964)|null|
-|**2026-08-01**|**When Prompts Control Robots: Prompt Injection Attacks in Multi-Agent Robotic Systems**|Neha Nagaraja et.al.|[2608.00747](http://arxiv.org/abs/2608.00747)|null|
+|**2026-08-04**|**When Prompts Control Robots: Prompt Injection Attacks in Multi-Agent Robotic Systems**|Neha Nagaraja et.al.|[2608.00747](http://arxiv.org/abs/2608.00747)|null|
 |**2026-07-31**|**Tool Specifications Matter: Uncovering and Mitigating Safety Risks in AI Agents**|Minghui Pan et.al.|[2607.29254](http://arxiv.org/abs/2607.29254)|null|
 |**2026-07-30**|**Security of World-Model-Based Embodied AI: A Lifecycle of Threats, Defenses, and Evaluation**|Fazhong Liu et.al.|[2607.28226](http://arxiv.org/abs/2607.28226)|null|
 |**2026-07-31**|**Piggybacking on Perception: Stealthy Concurrent Audio Prompt Injections against Multimodal LLM Agents**|Mingxiao Liu et.al.|[2607.28165](http://arxiv.org/abs/2607.28165)|null|
@@ -4685,6 +4696,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-02**|**DenialRAG: Single-Document RAG Poisoning via Embedded Parametric Denial**|Abay Zhurekbay et.al.|[2608.02678](http://arxiv.org/abs/2608.02678)|null|
 |**2026-07-31**|**Learning from Adversity: Semantic-Aware Mask Refinement through Adversarial Perturbation**|Beomyoung Kim et.al.|[2607.29059](http://arxiv.org/abs/2607.29059)|null|
 |**2026-07-29**|**Linguistic Firewall: Geometry as Defense in Multi-Agent Systems Routing**|Dvir Alsheich et.al.|[2606.30555](http://arxiv.org/abs/2606.30555)|null|
 |**2026-06-29**|**Defending Against Harmful Supervision Hidden in Benign Samples**|Bang An et.al.|[2606.30263](http://arxiv.org/abs/2606.30263)|null|
