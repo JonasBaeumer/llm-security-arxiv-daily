@@ -2,16 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.08.06
+## Updated on 2026.08.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-06**|**ECHO: A Locally-Deployable Agentic Health Assistant with Temporal Memory, Safety Guardrails, and Speech Assessment**|Abdulkadir Külçe et.al.|[2608.06110](http://arxiv.org/abs/2608.06110)|null|
+|**2026-08-05**|**Mood Matters: How Syntactic Sensitivity Undermines Safety Alignment**|Alina Klerings et.al.|[2608.05409](http://arxiv.org/abs/2608.05409)|null|
 |**2026-08-03**|**A Multimodal Automatic Redteaming Evaluation based on Atomic Jailbreak Strategy Decoupling and Combination**|Shiji Zhao et.al.|[2608.04034](http://arxiv.org/abs/2608.04034)|null|
 |**2026-08-04**|**ICO: Enhancing Semantic-Shift Jailbreaks via Iterative Context Optimization**|Hujian Zhu et.al.|[2608.03210](http://arxiv.org/abs/2608.03210)|null|
-|**2026-08-04**|**AI Security Leaderboard: Methodology, Results and Minimal Standard**|Jasper Timm et.al.|[2608.03070](http://arxiv.org/abs/2608.03070)|null|
+|**2026-08-05**|**AI Security Leaderboard: Methodology, Results and Minimal Standard**|Jasper Timm et.al.|[2608.03070](http://arxiv.org/abs/2608.03070)|null|
 |**2026-08-03**|**Safety in Batches? Understanding and Mitigating Safety Failures in Batch Prompting**|Kihyun Kim et.al.|[2608.02681](http://arxiv.org/abs/2608.02681)|null|
 |**2026-08-02**|**Moving the Safety Barrier: Dynamic Routing Adaptive Alignment Against White-Box Attacks**|Shangze Li et.al.|[2608.02674](http://arxiv.org/abs/2608.02674)|null|
 |**2026-08-02**|**No Single Neuron of Failure: Distributed Safety Alignment Against White-Box Attacks**|Simiao Xie et.al.|[2608.01414](http://arxiv.org/abs/2608.01414)|null|
@@ -39,7 +41,7 @@ layout: default
 |**2026-07-22**|**DARWIN: Evolving Jailbreak Adversary and Guardrail for LLM Safety Evaluation and Protection**|Weiwei Qi et.al.|[2607.19829](http://arxiv.org/abs/2607.19829)|null|
 |**2026-07-20**|**JailMeter: An Evidence-Based Evaluation Framework for Jailbreak Attacks on Large Language Models**|Qingjia Huang et.al.|[2607.19424](http://arxiv.org/abs/2607.19424)|null|
 |**2026-07-21**|**Data Leakage Prevention in Agentic Applications via Preemptive Hardening**|Akansha Shukla et.al.|[2607.18847](http://arxiv.org/abs/2607.18847)|null|
-|**2026-07-20**|**An Early Warning of Emerging Biosecurity Risks in Frontier LLMs**|Zhida He et.al.|[2607.18056](http://arxiv.org/abs/2607.18056)|null|
+|**2026-08-06**|**An Early Warning of Emerging Biosecurity Risks in Frontier LLMs**|Zhida He et.al.|[2607.18056](http://arxiv.org/abs/2607.18056)|null|
 |**2026-07-22**|**Stress Testing Concept Erasure with Large Language Model Agents**|Yuyang Xue et.al.|[2607.17890](http://arxiv.org/abs/2607.17890)|null|
 |**2026-07-20**|**Dynamic Defense Profiling Enables Cognitive Jailbreak of Text-to-Image Models**|Dongdong Yang et.al.|[2607.17779](http://arxiv.org/abs/2607.17779)|null|
 |**2026-07-19**|**Between Safe Boundaries: Exploiting Temporal Consistency for Jailbreaking Text-To-Video Generation Models**|Xingkai Peng et.al.|[2607.17279](http://arxiv.org/abs/2607.17279)|null|
@@ -1062,6 +1064,7 @@ layout: default
 |**2002-05-07**|**The power spectrum of galaxies in the 2dF 100k redshift survey**|Max Tegmark et.al.|[astro-ph/0111575](http://arxiv.org/abs/astro-ph/0111575)|null|
 |**2001-05-21**|**Reconciliation of the Surface Brightness Fluctuations and Type Ia Supernovae Distance Scales**|Edward A. Ajhar et.al.|[astro-ph/0105366](http://arxiv.org/abs/astro-ph/0105366)|null|
 |**2002-02-27**|**Is cosmology consistent?**|Xiaomin Wang et.al.|[astro-ph/0105091](http://arxiv.org/abs/astro-ph/0105091)|null|
+|**2026-08-06**|**Breaking Customized LLMs for Coding: Automated Red Teaming for Instruction Backdoor Attacks**|Yuchen Chen et.al.|[2608.05659](http://arxiv.org/abs/2608.05659)|null|
 |**2026-08-05**|**Agent Against Agent: An Agentic System for Automatic Prompt Injection Red Teaming**|Yanting Wang et.al.|[2608.05108](http://arxiv.org/abs/2608.05108)|null|
 |**2026-08-05**|**Trident : How to Break Deep Reinforcement Learning Cyber Defenses (Agentic)**|Ryozo Masukawa et.al.|[2608.04317](http://arxiv.org/abs/2608.04317)|null|
 |**2026-08-03**|**A Multimodal Automatic Redteaming Evaluation based on Atomic Jailbreak Strategy Decoupling and Combination**|Shiji Zhao et.al.|[2608.04034](http://arxiv.org/abs/2608.04034)|null|
@@ -1080,7 +1083,7 @@ layout: default
 |**2026-06-15**|**Mitigating Scaffolding Collapse in Socratic Tutors via Representation Alignment**|Jing Shao et.al.|[2607.19371](http://arxiv.org/abs/2607.19371)|null|
 |**2026-07-21**|**SoK: Adversarial Robustness of the Variational Quantum Eigensolver via Red-Teaming**|Ahmed Azaz Humdoon et.al.|[2607.19318](http://arxiv.org/abs/2607.19318)|null|
 |**2026-07-20**|**Hybrid Latent-Structural Fusion (HLSF) for Cyber Anomaly Detection**|Dorianis M. Perez et.al.|[2607.18479](http://arxiv.org/abs/2607.18479)|null|
-|**2026-07-20**|**An Early Warning of Emerging Biosecurity Risks in Frontier LLMs**|Zhida He et.al.|[2607.18056](http://arxiv.org/abs/2607.18056)|null|
+|**2026-08-06**|**An Early Warning of Emerging Biosecurity Risks in Frontier LLMs**|Zhida He et.al.|[2607.18056](http://arxiv.org/abs/2607.18056)|null|
 |**2026-07-19**|**How Jailbreak Attacks Inform Safety Alignment: A Defender-Centric, Shapley-Based Evaluation of Jailbreak Contributions**|Yukai Zhou et.al.|[2607.17152](http://arxiv.org/abs/2607.17152)|null|
 |**2026-07-27**|**Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents**|Paul Kassianik et.al.|[2607.15263](http://arxiv.org/abs/2607.15263)|null|
 |**2026-07-15**|**Automatic Hard Example Synthesis with Multi-Level Agentic Data Curation**|Genglin Liu et.al.|[2607.14256](http://arxiv.org/abs/2607.14256)|null|
@@ -1918,6 +1921,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-06**|**ECHO: A Locally-Deployable Agentic Health Assistant with Temporal Memory, Safety Guardrails, and Speech Assessment**|Abdulkadir Külçe et.al.|[2608.06110](http://arxiv.org/abs/2608.06110)|null|
+|**2026-08-05**|**Mood Matters: How Syntactic Sensitivity Undermines Safety Alignment**|Alina Klerings et.al.|[2608.05409](http://arxiv.org/abs/2608.05409)|null|
 |**2026-08-05**|**Item Response Theory for AI Safety**|Joshua Fonseca Rivera et.al.|[2608.05086](http://arxiv.org/abs/2608.05086)|null|
 |**2026-08-05**|**DelusionEval: Measuring Delusion-Linked Behaviors in AI Chatbots**|Jared Moore et.al.|[2608.05004](http://arxiv.org/abs/2608.05004)|null|
 |**2026-08-05**|**Social Pressure Breaks Majority Voting in LLM Safety Panels**|Yibo Hu et.al.|[2608.04415](http://arxiv.org/abs/2608.04415)|null|
@@ -1935,7 +1940,7 @@ layout: default
 |**2026-07-31**|**SafeNexus: Discovering and Steering Modality-Universal Safety Neurons in MLLMs**|Jian Yu et.al.|[2607.28969](http://arxiv.org/abs/2607.28969)|null|
 |**2026-07-30**|**Inducing language models to assert their own consciousness restores human beliefs and values**|Junsol Kim et.al.|[2607.28607](http://arxiv.org/abs/2607.28607)|null|
 |**2026-07-30**|**One Anchor for All: Unified Multilingual and Multimodal Safety Alignment for LVLMs**|Enyi Shi et.al.|[2607.27917](http://arxiv.org/abs/2607.27917)|null|
-|**2026-08-02**|**Compliance2LoRA: Personalizable On-Demand Safety Alignment on Arbitrary Policy Subsets via Hypernetwork-Generated LoRA Adapters**|Pankayaraj Pathmanathan et.al.|[2607.27594](http://arxiv.org/abs/2607.27594)|null|
+|**2026-08-05**|**Compliance2LoRA: Personalizable On-Demand Safety Alignment on Arbitrary Policy Subsets via Hypernetwork-Generated LoRA Adapters**|Pankayaraj Pathmanathan et.al.|[2607.27594](http://arxiv.org/abs/2607.27594)|null|
 |**2026-07-29**|**On-Policy Distillation for LLM Safety: A Routing Approach to Template-Robust Realignment**|Yongjian Guo et.al.|[2607.27081](http://arxiv.org/abs/2607.27081)|null|
 |**2026-07-29**|**Prosody-driven Jailbreaks in Audio LLMs: A Controlled Study and Mechanistic Analysis**|Jiachen Qian et.al.|[2607.26541](http://arxiv.org/abs/2607.26541)|null|
 |**2026-07-28**|**GPT-Red: Automated Red Teaming via Self-Play at Scale**|Eric Wallace et.al.|[2607.26115](http://arxiv.org/abs/2607.26115)|null|
@@ -2956,13 +2961,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-06**|**Hijacking Robots with a Piece of Paper: A Systematic Study of Physical Prompt Injection in VLM-Controlled Robots**|S. M . Bhagya P. Samarakoon et.al.|[2608.05715](http://arxiv.org/abs/2608.05715)|null|
+|**2026-08-06**|**PromptShield Home: Ambient Multimodal Prompt Injection Defense for Smart-Home Agents**|He Zhang et.al.|[2608.05495](http://arxiv.org/abs/2608.05495)|null|
+|**2026-08-05**|**Robust Context-Aware Detection of Malicious Instructions in Text**|Buzhao Liu et.al.|[2608.05430](http://arxiv.org/abs/2608.05430)|null|
 |**2026-08-05**|**Agent Against Agent: An Agentic System for Automatic Prompt Injection Red Teaming**|Yanting Wang et.al.|[2608.05108](http://arxiv.org/abs/2608.05108)|null|
 |**2026-08-05**|**LoginTrap: Uncovering Task-Agnostic Phishing-Style Indirect Prompt Injection Attacks against LLM-based Web Agents**|Longtao Guo et.al.|[2608.04741](http://arxiv.org/abs/2608.04741)|null|
 |**2026-08-05**|**Breadcrumbing Search Agents**|Xuebin Li et.al.|[2608.04565](http://arxiv.org/abs/2608.04565)|null|
 |**2026-08-04**|**Behavioral Skill Reconstruction: Reconstructing Hidden Functionality from LLM Agent Skills**|Peichun Hua et.al.|[2608.04192](http://arxiv.org/abs/2608.04192)|null|
 |**2026-08-04**|**AgentAntibody: An Adaptive Immune System for Defending LLM Agents against Prompt Injection**|Shihao Weng et.al.|[2608.04053](http://arxiv.org/abs/2608.04053)|null|
 |**2026-08-01**|**Your Agentic LLMs Secretly Encode Latent Signals of Indirect Prompt-Injection Exposure**|Jianshuo Dong et.al.|[2608.02657](http://arxiv.org/abs/2608.02657)|null|
-|**2026-08-03**|**Invisible Ink Threats: Adversarial Goals Behind Legitimate Tasks in Computer-Use Agents**|Jia-Chen Zhang et.al.|[2608.02018](http://arxiv.org/abs/2608.02018)|null|
+|**2026-08-06**|**Invisible Ink Threats: Adversarial Goals Behind Legitimate Tasks in Computer-Use Agents**|Jia-Chen Zhang et.al.|[2608.02018](http://arxiv.org/abs/2608.02018)|null|
 |**2026-08-03**|**Mitigating Visual Degradation in MLLMs via Spatial-Spectral Visual Anchor Learning**|Qianlong Yang et.al.|[2608.01635](http://arxiv.org/abs/2608.01635)|null|
 |**2026-08-02**|**Copyright Is the Headline; Capability Is the Blind Spot: AI Technology in the Book-Publishing Trade Press, November 2025--August 2026**|Fred Zimmerman et.al.|[2608.00964](http://arxiv.org/abs/2608.00964)|null|
 |**2026-08-04**|**When Prompts Control Robots: Prompt Injection Attacks in Multi-Agent Robotic Systems**|Neha Nagaraja et.al.|[2608.00747](http://arxiv.org/abs/2608.00747)|null|
