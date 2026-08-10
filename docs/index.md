@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.08.09
+## Updated on 2026.08.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-07**|**Diffusion LLMs as Targets and Adversaries: Mechanistic Safety Exploits**|Elena Dumitrescu et.al.|[2608.07430](http://arxiv.org/abs/2608.07430)|null|
 |**2026-08-06**|**ECHO: A Locally-Deployable Agentic Health Assistant with Temporal Memory, Safety Guardrails, and Speech Assessment**|Abdulkadir Külçe et.al.|[2608.06110](http://arxiv.org/abs/2608.06110)|null|
 |**2026-08-05**|**Mood Matters: How Syntactic Sensitivity Undermines Safety Alignment**|Alina Klerings et.al.|[2608.05409](http://arxiv.org/abs/2608.05409)|null|
 |**2026-08-03**|**A Multimodal Automatic Redteaming Evaluation based on Atomic Jailbreak Strategy Decoupling and Combination**|Shiji Zhao et.al.|[2608.04034](http://arxiv.org/abs/2608.04034)|null|
@@ -1921,6 +1922,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-07**|**Diffusion LLMs as Targets and Adversaries: Mechanistic Safety Exploits**|Elena Dumitrescu et.al.|[2608.07430](http://arxiv.org/abs/2608.07430)|null|
 |**2026-08-06**|**ECHO: A Locally-Deployable Agentic Health Assistant with Temporal Memory, Safety Guardrails, and Speech Assessment**|Abdulkadir Külçe et.al.|[2608.06110](http://arxiv.org/abs/2608.06110)|null|
 |**2026-08-05**|**Mood Matters: How Syntactic Sensitivity Undermines Safety Alignment**|Alina Klerings et.al.|[2608.05409](http://arxiv.org/abs/2608.05409)|null|
 |**2026-08-05**|**Item Response Theory for AI Safety**|Joshua Fonseca Rivera et.al.|[2608.05086](http://arxiv.org/abs/2608.05086)|null|
@@ -2961,6 +2963,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-07**|**NiyamAI - An Intent-Bound AI Agent with Cryptographically Verifiable Guardrails using Zero-Knowledge Proofs**|Aditya Katkar et.al.|[2608.07167](http://arxiv.org/abs/2608.07167)|null|
+|**2026-08-06**|**StepJack: Benchmarking Computer-Use Agent Safety Against Multi-Step Indirect Prompt Injection**|Zhuoxin Zhan et.al.|[2608.06477](http://arxiv.org/abs/2608.06477)|null|
 |**2026-08-06**|**Hijacking Robots with a Piece of Paper: A Systematic Study of Physical Prompt Injection in VLM-Controlled Robots**|S. M . Bhagya P. Samarakoon et.al.|[2608.05715](http://arxiv.org/abs/2608.05715)|null|
 |**2026-08-06**|**PromptShield Home: Ambient Multimodal Prompt Injection Defense for Smart-Home Agents**|He Zhang et.al.|[2608.05495](http://arxiv.org/abs/2608.05495)|null|
 |**2026-08-05**|**Robust Context-Aware Detection of Malicious Instructions in Text**|Buzhao Liu et.al.|[2608.05430](http://arxiv.org/abs/2608.05430)|null|
@@ -3861,7 +3865,7 @@ layout: default
 |**2026-06-13**|**VLALeaks: Membership Inference Attacks against Vision-Language-Action Models**|Xukun Luan et.al.|[2606.15165](http://arxiv.org/abs/2606.15165)|null|
 |**2026-06-11**|**How Should We Measure Empirical Risk when Synthesizing Population Data?**|Joshua Snoke et.al.|[2606.13902](http://arxiv.org/abs/2606.13902)|null|
 |**2026-06-08**|**On Choosing the $μ$ Parameter in Gaussian Differential Privacy**|Bogdan Kulynych et.al.|[2606.09582](http://arxiv.org/abs/2606.09582)|null|
-|**2026-06-05**|**Where Rectified Flows Leak: Characterising Membership Signals Along the Interpolation Path**|Thomas Sesmat et.al.|[2606.07271](http://arxiv.org/abs/2606.07271)|null|
+|**2026-08-07**|**Where Rectified Flows Leak: Characterising Membership Signals Along the Interpolation Path**|Thomas Sesmat et.al.|[2606.07271](http://arxiv.org/abs/2606.07271)|null|
 |**2026-06-04**|**Quantifying the Privacy of Counterfactuals by Leveraging Membership Inference Attacks Against Synthetic Data**|Maryam Babaei et.al.|[2606.06334](http://arxiv.org/abs/2606.06334)|null|
 |**2026-06-02**|**PURGE: Projected Unlearning via Retain-Guided Erasure**|Vedant Jawandhia et.al.|[2606.03808](http://arxiv.org/abs/2606.03808)|null|
 |**2026-06-02**|**ImageAuditor: Membership Inference Attack against Image-based Retrieval-Augmented Generation**|Jinghuai Zhang et.al.|[2606.03354](http://arxiv.org/abs/2606.03354)|null|
@@ -4718,6 +4722,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-07**|**When Context Bites: Detecting RAG Poisoning via Document-Level Attention Collapse**|Yingtao Ren et.al.|[2608.06947](http://arxiv.org/abs/2608.06947)|null|
 |**2026-08-02**|**DenialRAG: Single-Document RAG Poisoning via Embedded Parametric Denial**|Abay Zhurekbay et.al.|[2608.02678](http://arxiv.org/abs/2608.02678)|null|
 |**2026-07-31**|**Learning from Adversity: Semantic-Aware Mask Refinement through Adversarial Perturbation**|Beomyoung Kim et.al.|[2607.29059](http://arxiv.org/abs/2607.29059)|null|
 |**2026-07-29**|**Linguistic Firewall: Geometry as Defense in Multi-Agent Systems Routing**|Dvir Alsheich et.al.|[2606.30555](http://arxiv.org/abs/2606.30555)|null|
