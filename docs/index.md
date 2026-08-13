@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.08.12
+## Updated on 2026.08.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-12**|**Understanding Content Moderation in Large Language Models through Restricted Books: From Refusal to Warning**|Xucheng Yu et.al.|[2608.11806](http://arxiv.org/abs/2608.11806)|null|
 |**2026-08-11**|**Data Attribution of Emergent Misalignment with Persona Features**|Clemens Vetter et.al.|[2608.11025](http://arxiv.org/abs/2608.11025)|null|
 |**2026-08-11**|**SafeCA: Safe Cross-Attention Localization and Regulation for Text-to-Video Jailbreak Defense**|Siyuan Liang et.al.|[2608.10933](http://arxiv.org/abs/2608.10933)|null|
 |**2026-08-11**|**ProbGuard: Calibrated Safety Risk Estimation from LLM Output Distributions**|Xinzhe Huang et.al.|[2608.10621](http://arxiv.org/abs/2608.10621)|null|
@@ -1941,11 +1942,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-12**|**Making Your LLMs More Objective: Stabilizing LLM Safety Behavior Across Traits with Trait-Invariant Safety Tuning**|Lang Cao et.al.|[2608.11705](http://arxiv.org/abs/2608.11705)|null|
+|**2026-08-12**|**Localizing Safety Alignment: MLP Layers and Mid-Network Blocks Encode Refusal Behavior in Large Language Models**|Mingyu Zong et.al.|[2608.11583](http://arxiv.org/abs/2608.11583)|null|
+|**2026-08-11**|**Agent Safety Should Be a Runtime Contract**|Albus W. Ng et.al.|[2608.11274](http://arxiv.org/abs/2608.11274)|null|
 |**2026-08-11**|**From Interpretability to Control: Insights from Six Years of the TrustNLP Workshop**|Rahul Gupta et.al.|[2608.11171](http://arxiv.org/abs/2608.11171)|null|
 |**2026-08-11**|**The Illusion of Cross-Lingual Safety in Low-Resource Languages**|Abigail Oppong et.al.|[2608.11146](http://arxiv.org/abs/2608.11146)|null|
 |**2026-08-11**|**ProbGuard: Calibrated Safety Risk Estimation from LLM Output Distributions**|Xinzhe Huang et.al.|[2608.10621](http://arxiv.org/abs/2608.10621)|null|
 |**2026-08-11**|**SafeCap: Improving LVLM Safety with Image Captioning Reinforcement Learning**|Caoyuan Ma et.al.|[2608.10513](http://arxiv.org/abs/2608.10513)|null|
-|**2026-08-10**|**Decoding-Level Taboo: A Diagnostic Stress Test for LLM Robustness**|Tadanobu Chuyo Kamijo et.al.|[2608.09900](http://arxiv.org/abs/2608.09900)|null|
+|**2026-08-11**|**Decoding-Level Taboo: A Diagnostic Stress Test for LLM Robustness**|Tadanobu Chuyo Kamijo et.al.|[2608.09900](http://arxiv.org/abs/2608.09900)|null|
 |**2026-08-10**|**Pragmatic Attack Surface: Vulnerabilities of Implicit Context in Large Language Models**|Bocheng Chen et.al.|[2608.09551](http://arxiv.org/abs/2608.09551)|null|
 |**2026-08-10**|**Dual-Adversarial Safety Alignment: Cultivating Intrinsic Threat Comprehension in LRMs**|Hongli Shen et.al.|[2608.09542](http://arxiv.org/abs/2608.09542)|null|
 |**2026-08-11**|**DREAM Technical Report**|Bin Zhang et.al.|[2608.09408](http://arxiv.org/abs/2608.09408)|null|
@@ -2994,6 +2998,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-12**|**Rethinking Agent Security as a Networking Problem**|Van Tran et.al.|[2608.12172](http://arxiv.org/abs/2608.12172)|null|
+|**2026-08-12**|**ToolHazard: Scaling Adversarial Environments for Security Evaluation and Alignment of LLM-based Agents**|Yutao Mou et.al.|[2608.11878](http://arxiv.org/abs/2608.11878)|null|
 |**2026-08-11**|**On Understanding, Identifying, and Mitigating Vulnerabilities in Agentic Large Language Models**|Md Jafrin Hossain et.al.|[2608.10530](http://arxiv.org/abs/2608.10530)|null|
 |**2026-08-10**|**From Prompt Injection to Web Exploitation: Revisiting Classic Vulnerabilities in LLM-Integrated Applications**|Spiros Tsigkopoulos et.al.|[2608.10281](http://arxiv.org/abs/2608.10281)|null|
 |**2026-08-10**|**Interpreting Language Model Hidden States at Scale**|Jordan Pettyjohn et.al.|[2608.10260](http://arxiv.org/abs/2608.10260)|null|
