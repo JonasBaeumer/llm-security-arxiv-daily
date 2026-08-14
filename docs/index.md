@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.08.13
+## Updated on 2026.08.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-13**|**Synthetic Persona Pretraining: Alignment from Token Zero**|Julian Minder et.al.|[2608.13482](http://arxiv.org/abs/2608.13482)|null|
+|**2026-08-13**|**HiRoute: Hierarchical Routed Prompt Tuning for Safety Alignment of Large Language Models**|Fangzhou Chen et.al.|[2608.12821](http://arxiv.org/abs/2608.12821)|null|
 |**2026-08-12**|**Understanding Content Moderation in Large Language Models through Restricted Books: From Refusal to Warning**|Xucheng Yu et.al.|[2608.11806](http://arxiv.org/abs/2608.11806)|null|
 |**2026-08-11**|**Data Attribution of Emergent Misalignment with Persona Features**|Clemens Vetter et.al.|[2608.11025](http://arxiv.org/abs/2608.11025)|null|
 |**2026-08-11**|**SafeCA: Safe Cross-Attention Localization and Regulation for Text-to-Video Jailbreak Defense**|Siyuan Liang et.al.|[2608.10933](http://arxiv.org/abs/2608.10933)|null|
@@ -50,7 +52,7 @@ layout: default
 |**2026-07-29**|**SafeFlow: Semantic Information-Flow Control for Blocking Malicious Propagation in Multi-Agent Systems**|Haowen Dai et.al.|[2607.25255](http://arxiv.org/abs/2607.25255)|null|
 |**2026-07-27**|**TYPO: Instruction-Dense Visual Jailbreaks against Commercial Closed-Source Image-Generation Models**|Meng Xie et.al.|[2607.24897](http://arxiv.org/abs/2607.24897)|null|
 |**2026-07-27**|**When LLM Defenses Backfire: Characterizing Safety, Performance, and Cost Trade-offs**|Tong Zhang et.al.|[2607.24392](http://arxiv.org/abs/2607.24392)|null|
-|**2026-07-26**|**Do LLMs Know Their Vulnerable Scenarios?**|Ziheng Peng et.al.|[2607.23496](http://arxiv.org/abs/2607.23496)|null|
+|**2026-08-13**|**Do LLMs Know Their Vulnerable Scenarios?**|Ziheng Peng et.al.|[2607.23496](http://arxiv.org/abs/2607.23496)|null|
 |**2026-07-21**|**Visual Token Compression Enhances Robustness of MLLMs**|Shishen Gu et.al.|[2607.22716](http://arxiv.org/abs/2607.22716)|null|
 |**2026-07-24**|**SIREN (Luring LLMs onto the Rocks): PAIR-Driven Preference Manipulation in Web-RAG Recommenders**|Evan Caville et.al.|[2607.21951](http://arxiv.org/abs/2607.21951)|null|
 |**2026-07-22**|**Geometric Configurations of Perturbed Jailbreak Prompts**|Lynn Delcon et.al.|[2607.20581](http://arxiv.org/abs/2607.20581)|null|
@@ -1080,6 +1082,7 @@ layout: default
 |**2002-05-07**|**The power spectrum of galaxies in the 2dF 100k redshift survey**|Max Tegmark et.al.|[astro-ph/0111575](http://arxiv.org/abs/astro-ph/0111575)|null|
 |**2001-05-21**|**Reconciliation of the Surface Brightness Fluctuations and Type Ia Supernovae Distance Scales**|Edward A. Ajhar et.al.|[astro-ph/0105366](http://arxiv.org/abs/astro-ph/0105366)|null|
 |**2002-02-27**|**Is cosmology consistent?**|Xiaomin Wang et.al.|[astro-ph/0105091](http://arxiv.org/abs/astro-ph/0105091)|null|
+|**2026-08-13**|**Reconcile Once, Write Anytime: A Trust-Tiered Librarian and a Multi-Agent Writer for Drift-Free, Point-in-Time Research**|Xing Zhang et.al.|[2608.12984](http://arxiv.org/abs/2608.12984)|null|
 |**2026-08-11**|**IO Factory: Simulating AI-Enabled Influence Campaigns at Scale**|Lukasz Olejnik et.al.|[2608.10920](http://arxiv.org/abs/2608.10920)|null|
 |**2026-08-11**|**REDAgentBench: Executable Red Teaming and Faithful Measurement of LLM Agent Systems**|Zixing Chen et.al.|[2608.10669](http://arxiv.org/abs/2608.10669)|null|
 |**2026-08-10**|**Generating Attacks for LLMs with GFlowNets**|Berkay Ozcam et.al.|[2608.10171](http://arxiv.org/abs/2608.10171)|null|
@@ -1095,7 +1098,7 @@ layout: default
 |**2026-08-08**|**Symbolic Attack Chain Generation from Atomic Red Team Techniques: An Empirical Study of Predicate Representation Granularity**|Ramya Varunsegar et.al.|[2608.00143](http://arxiv.org/abs/2608.00143)|null|
 |**2026-07-28**|**StealthBench: Measuring Operational Stealth in Autonomous Offensive-Security Agents**|Ads Dawson et.al.|[2607.26314](http://arxiv.org/abs/2607.26314)|null|
 |**2026-07-28**|**GPT-Red: Automated Red Teaming via Self-Play at Scale**|Eric Wallace et.al.|[2607.26115](http://arxiv.org/abs/2607.26115)|null|
-|**2026-07-26**|**Do LLMs Know Their Vulnerable Scenarios?**|Ziheng Peng et.al.|[2607.23496](http://arxiv.org/abs/2607.23496)|null|
+|**2026-08-13**|**Do LLMs Know Their Vulnerable Scenarios?**|Ziheng Peng et.al.|[2607.23496](http://arxiv.org/abs/2607.23496)|null|
 |**2026-07-24**|**Strategic Inference of Adversarial Navigation Objectives for Unmanned Underwater Vehicles**|Ruimeng Hu et.al.|[2607.21945](http://arxiv.org/abs/2607.21945)|null|
 |**2026-07-23**|**Humanly: A Configurable and Traceable Environment for Human-AI Collaborative Writing**|Shenzhe Zhu et.al.|[2607.21758](http://arxiv.org/abs/2607.21758)|null|
 |**2026-07-30**|**What AI Red-Team Evaluations Can and Cannot Prove**|Bandana Kaur et.al.|[2607.21735](http://arxiv.org/abs/2607.21735)|null|
@@ -1942,6 +1945,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-13**|**Refusing Intent, Not Form: Wrapper-Based Intent-Group Supervision for LLM Safety**|Ping Wu et.al.|[2608.13304](http://arxiv.org/abs/2608.13304)|null|
+|**2026-08-13**|**HiRoute: Hierarchical Routed Prompt Tuning for Safety Alignment of Large Language Models**|Fangzhou Chen et.al.|[2608.12821](http://arxiv.org/abs/2608.12821)|null|
+|**2026-07-21**|**Don't Want Your LLM to Recommend Nuclear Strike? Try Asking It in Japanese**|Rian Touchent et.al.|[2608.12373](http://arxiv.org/abs/2608.12373)|null|
 |**2026-08-12**|**Making Your LLMs More Objective: Stabilizing LLM Safety Behavior Across Traits with Trait-Invariant Safety Tuning**|Lang Cao et.al.|[2608.11705](http://arxiv.org/abs/2608.11705)|null|
 |**2026-08-12**|**Localizing Safety Alignment: MLP Layers and Mid-Network Blocks Encode Refusal Behavior in Large Language Models**|Mingyu Zong et.al.|[2608.11583](http://arxiv.org/abs/2608.11583)|null|
 |**2026-08-11**|**Agent Safety Should Be a Runtime Contract**|Albus W. Ng et.al.|[2608.11274](http://arxiv.org/abs/2608.11274)|null|
@@ -1952,7 +1958,7 @@ layout: default
 |**2026-08-11**|**Decoding-Level Taboo: A Diagnostic Stress Test for LLM Robustness**|Tadanobu Chuyo Kamijo et.al.|[2608.09900](http://arxiv.org/abs/2608.09900)|null|
 |**2026-08-10**|**Pragmatic Attack Surface: Vulnerabilities of Implicit Context in Large Language Models**|Bocheng Chen et.al.|[2608.09551](http://arxiv.org/abs/2608.09551)|null|
 |**2026-08-10**|**Dual-Adversarial Safety Alignment: Cultivating Intrinsic Threat Comprehension in LRMs**|Hongli Shen et.al.|[2608.09542](http://arxiv.org/abs/2608.09542)|null|
-|**2026-08-11**|**DREAM Technical Report**|Bin Zhang et.al.|[2608.09408](http://arxiv.org/abs/2608.09408)|null|
+|**2026-08-13**|**DREAM Technical Report**|Bin Zhang et.al.|[2608.09408](http://arxiv.org/abs/2608.09408)|null|
 |**2026-08-09**|**When Skills Meet Safety: Benchmarking and Characterizing the Adaptive Jailbreak Robustness of Skill-Merged LLMs**|Yu Ma et.al.|[2608.08542](http://arxiv.org/abs/2608.08542)|null|
 |**2026-08-09**|**HoloAegis: Frozen Representation, Topological Inference: Minimally Parametric Safety Manifolds for Zero-Shot LLM Guardrails**|Tak Ho Alex Li et.al.|[2608.08485](http://arxiv.org/abs/2608.08485)|null|
 |**2026-08-09**|**Yesterday's Shield, Today's Spear: A Self-Evolving Safety Guardrail in Production**|Cong Ming et.al.|[2608.08471](http://arxiv.org/abs/2608.08471)|null|
@@ -1982,7 +1988,7 @@ layout: default
 |**2026-07-29**|**Prosody-driven Jailbreaks in Audio LLMs: A Controlled Study and Mechanistic Analysis**|Jiachen Qian et.al.|[2607.26541](http://arxiv.org/abs/2607.26541)|null|
 |**2026-07-28**|**GPT-Red: Automated Red Teaming via Self-Play at Scale**|Eric Wallace et.al.|[2607.26115](http://arxiv.org/abs/2607.26115)|null|
 |**2026-07-27**|**TYPO: Instruction-Dense Visual Jailbreaks against Commercial Closed-Source Image-Generation Models**|Meng Xie et.al.|[2607.24897](http://arxiv.org/abs/2607.24897)|null|
-|**2026-07-26**|**Do LLMs Know Their Vulnerable Scenarios?**|Ziheng Peng et.al.|[2607.23496](http://arxiv.org/abs/2607.23496)|null|
+|**2026-08-13**|**Do LLMs Know Their Vulnerable Scenarios?**|Ziheng Peng et.al.|[2607.23496](http://arxiv.org/abs/2607.23496)|null|
 |**2026-07-25**|**Mask2Shield: Strengthening LLM Safety against Neuron-Pruning Attacks**|Ying JinCheng et.al.|[2607.23015](http://arxiv.org/abs/2607.23015)|null|
 |**2026-07-26**|**V-DEAL: Diagnosing Video Safety De-Calibration as an Understanding-Refusal Coupling Failure**|Zhetong Zhang et.al.|[2607.21151](http://arxiv.org/abs/2607.21151)|null|
 |**2026-07-22**|**Geometric Configurations of Perturbed Jailbreak Prompts**|Lynn Delcon et.al.|[2607.20581](http://arxiv.org/abs/2607.20581)|null|
