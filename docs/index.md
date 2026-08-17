@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.08.16
+## Updated on 2026.08.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-14**|**Tripwire: Triggering Aligned Refusal via Statistically Certified Safety Neurons**|Wei Zhao et.al.|[2608.14392](http://arxiv.org/abs/2608.14392)|null|
+|**2026-08-13**|**Language-Specific Gaps in AI Safety Training Datasets**|Chialuka Prisca-Mary Onuoha et.al.|[2608.13695](http://arxiv.org/abs/2608.13695)|null|
 |**2026-08-13**|**Synthetic Persona Pretraining: Alignment from Token Zero**|Julian Minder et.al.|[2608.13482](http://arxiv.org/abs/2608.13482)|null|
 |**2026-08-13**|**HiRoute: Hierarchical Routed Prompt Tuning for Safety Alignment of Large Language Models**|Fangzhou Chen et.al.|[2608.12821](http://arxiv.org/abs/2608.12821)|null|
 |**2026-08-12**|**Understanding Content Moderation in Large Language Models through Restricted Books: From Refusal to Warning**|Xucheng Yu et.al.|[2608.11806](http://arxiv.org/abs/2608.11806)|null|
@@ -1945,6 +1947,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-14**|**Tripwire: Triggering Aligned Refusal via Statistically Certified Safety Neurons**|Wei Zhao et.al.|[2608.14392](http://arxiv.org/abs/2608.14392)|null|
 |**2026-08-13**|**Refusing Intent, Not Form: Wrapper-Based Intent-Group Supervision for LLM Safety**|Ping Wu et.al.|[2608.13304](http://arxiv.org/abs/2608.13304)|null|
 |**2026-08-13**|**HiRoute: Hierarchical Routed Prompt Tuning for Safety Alignment of Large Language Models**|Fangzhou Chen et.al.|[2608.12821](http://arxiv.org/abs/2608.12821)|null|
 |**2026-07-21**|**Don't Want Your LLM to Recommend Nuclear Strike? Try Asking It in Japanese**|Rian Touchent et.al.|[2608.12373](http://arxiv.org/abs/2608.12373)|null|
