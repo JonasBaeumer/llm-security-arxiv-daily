@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.08.18
+## Updated on 2026.08.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-18**|**Reflex-Guard: A Low-Latency Guardrail for LLM Prompt Safety Using Dense Semantic Embeddings**|Istiaque Ahmed et.al.|[2608.17556](http://arxiv.org/abs/2608.17556)|null|
+|**2026-08-18**|**Fair ASR: Re-Evaluating Black-Box Jailbreaks under Shared Target-Call Budgets**|Zhida He et.al.|[2608.17360](http://arxiv.org/abs/2608.17360)|null|
+|**2026-08-18**|**COMIC: Reference-Aware Safety Gating for Multimodal Large Language Models**|Md Abdullahil Oaphy et.al.|[2608.17234](http://arxiv.org/abs/2608.17234)|null|
+|**2026-08-17**|**Fool's Gold: Defensive Deception Against Safety-Removal Attacks on Open-Weight Models**|Mark Russinovich et.al.|[2608.17202](http://arxiv.org/abs/2608.17202)|null|
 |**2026-08-17**|**Security of Foundation-Model-Powered Embodied Agents: Attack Surfaces, Attacks, Defenses, and Evaluation**|Jiawei Liu et.al.|[2608.16843](http://arxiv.org/abs/2608.16843)|null|
 |**2026-08-16**|**TRACE: Trajectory Aware Reasoning for Multi-Turn Adversarial Conversation Evaluation**|Md Messal Monem Miah et.al.|[2608.15594](http://arxiv.org/abs/2608.15594)|null|
 |**2026-08-14**|**Tripwire: Triggering Aligned Refusal via Statistically Certified Safety Neurons**|Wei Zhao et.al.|[2608.14392](http://arxiv.org/abs/2608.14392)|null|
@@ -1086,6 +1090,9 @@ layout: default
 |**2002-05-07**|**The power spectrum of galaxies in the 2dF 100k redshift survey**|Max Tegmark et.al.|[astro-ph/0111575](http://arxiv.org/abs/astro-ph/0111575)|null|
 |**2001-05-21**|**Reconciliation of the Surface Brightness Fluctuations and Type Ia Supernovae Distance Scales**|Edward A. Ajhar et.al.|[astro-ph/0105366](http://arxiv.org/abs/astro-ph/0105366)|null|
 |**2002-02-27**|**Is cosmology consistent?**|Xiaomin Wang et.al.|[astro-ph/0105091](http://arxiv.org/abs/astro-ph/0105091)|null|
+|**2026-08-18**|**Trusted Workflow Relays:Cross-Tenant Email Abuse and Composable Red Team Initial-Access Primitives in Multi-Tenant Clouds**|Priyank Nigam et.al.|[2608.17361](http://arxiv.org/abs/2608.17361)|null|
+|**2026-08-17**|**Fool's Gold: Defensive Deception Against Safety-Removal Attacks on Open-Weight Models**|Mark Russinovich et.al.|[2608.17202](http://arxiv.org/abs/2608.17202)|null|
+|**2026-08-17**|**DiSCO: Defending text-to-image generation through distribution-guided contrastive prompt optimization**|Tong Zhang et.al.|[2608.17067](http://arxiv.org/abs/2608.17067)|null|
 |**2026-08-17**|**JailbreakSkill: Scaling Automated Red-Teaming with Reusable and Ever-Evolving Skills**|Xiaoyu Wen et.al.|[2608.16465](http://arxiv.org/abs/2608.16465)|null|
 |**2026-08-16**|**ARENA: Automated Red-Teaming for Large Audio Language Models**|Jiaming He et.al.|[2608.15578](http://arxiv.org/abs/2608.15578)|null|
 |**2026-08-13**|**Reconcile Once, Write Anytime: A Trust-Tiered Librarian and a Multi-Agent Writer for Drift-Free, Point-in-Time Research**|Xing Zhang et.al.|[2608.12984](http://arxiv.org/abs/2608.12984)|null|
@@ -1951,6 +1958,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-18**|**MobileWorldSafety: Benchmarking GUI Agent Safety Against Environmental Injection Attacks in Android Apps**|Sujin Chen et.al.|[2608.17659](http://arxiv.org/abs/2608.17659)|null|
+|**2026-08-18**|**Fair ASR: Re-Evaluating Black-Box Jailbreaks under Shared Target-Call Budgets**|Zhida He et.al.|[2608.17360](http://arxiv.org/abs/2608.17360)|null|
+|**2026-08-17**|**Fool's Gold: Defensive Deception Against Safety-Removal Attacks on Open-Weight Models**|Mark Russinovich et.al.|[2608.17202](http://arxiv.org/abs/2608.17202)|null|
 |**2026-08-17**|**BabelSteering: Multilingual Safety Alignment via English Steering Vectors**|Emma V. Stein et.al.|[2608.16577](http://arxiv.org/abs/2608.16577)|null|
 |**2026-07-29**|**DUET: Dual-Teacher On-Policy Distillation via Same-Weight Disagreement for Prohibition Compliance**|Zihan Li et.al.|[2608.14644](http://arxiv.org/abs/2608.14644)|null|
 |**2026-08-14**|**Tripwire: Triggering Aligned Refusal via Statistically Certified Safety Neurons**|Wei Zhao et.al.|[2608.14392](http://arxiv.org/abs/2608.14392)|null|
@@ -1971,7 +1981,7 @@ layout: default
 |**2026-08-09**|**When Skills Meet Safety: Benchmarking and Characterizing the Adaptive Jailbreak Robustness of Skill-Merged LLMs**|Yu Ma et.al.|[2608.08542](http://arxiv.org/abs/2608.08542)|null|
 |**2026-08-09**|**HoloAegis: Frozen Representation, Topological Inference: Minimally Parametric Safety Manifolds for Zero-Shot LLM Guardrails**|Tak Ho Alex Li et.al.|[2608.08485](http://arxiv.org/abs/2608.08485)|null|
 |**2026-08-09**|**Yesterday's Shield, Today's Spear: A Self-Evolving Safety Guardrail in Production**|Cong Ming et.al.|[2608.08471](http://arxiv.org/abs/2608.08471)|null|
-|**2026-08-08**|**Decided Upstream, Written Late: Locating and Pricing the Cross-Lingual Refusal Circuit of a Multilingual MoE**|Ramakrishna P. Kompella et.al.|[2608.08032](http://arxiv.org/abs/2608.08032)|null|
+|**2026-08-18**|**Decided Upstream, Written Late: Locating and Pricing the Cross-Lingual Refusal Circuit of a Multilingual MoE**|Ramakrishna P. Kompella et.al.|[2608.08032](http://arxiv.org/abs/2608.08032)|null|
 |**2026-08-07**|**Diffusion LLMs as Targets and Adversaries: Mechanistic Safety Exploits**|Elena Dumitrescu et.al.|[2608.07430](http://arxiv.org/abs/2608.07430)|null|
 |**2026-08-11**|**ECHO: A Locally-Deployable Agentic Health Assistant with Temporal Memory, Safety Guardrails, and Speech Assessment**|Abdulkadir Külçe et.al.|[2608.06110](http://arxiv.org/abs/2608.06110)|null|
 |**2026-08-05**|**Mood Matters: How Syntactic Sensitivity Undermines Safety Alignment**|Alina Klerings et.al.|[2608.05409](http://arxiv.org/abs/2608.05409)|null|
@@ -3013,8 +3023,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-18**|**MobileWorldSafety: Benchmarking GUI Agent Safety Against Environmental Injection Attacks in Android Apps**|Sujin Chen et.al.|[2608.17659](http://arxiv.org/abs/2608.17659)|null|
+|**2026-08-18**|**PACE: Policy-Attested Contract Execution for Safe AI Agents in Decentralized Finance**|Rabimba Karanjai et.al.|[2608.17220](http://arxiv.org/abs/2608.17220)|null|
 |**2026-08-17**|**Security of Foundation-Model-Powered Embodied Agents: Attack Surfaces, Attacks, Defenses, and Evaluation**|Jiawei Liu et.al.|[2608.16843](http://arxiv.org/abs/2608.16843)|null|
-|**2026-08-17**|**Security Assessment of DeepSeek Harness with A.I.G: Evaluating Resistance to Indirect Prompt Injection**|Zonghao Ying et.al.|[2608.16393](http://arxiv.org/abs/2608.16393)|null|
+|**2026-08-18**|**Security Assessment of DeepSeek Harness with A.I.G: Evaluating Resistance to Indirect Prompt Injection**|Zonghao Ying et.al.|[2608.16393](http://arxiv.org/abs/2608.16393)|null|
 |**2026-08-17**|**Agent-Native Telemetry: Verifiable State-Delta Evidence for Autonomous Operations**|Jun He et.al.|[2608.16178](http://arxiv.org/abs/2608.16178)|null|
 |**2026-08-16**|**Bounded Agents: Delegation Security for Multi-Agent AI Systems**|Xabier Muruaga et.al.|[2608.15888](http://arxiv.org/abs/2608.15888)|null|
 |**2026-08-15**|**Visible Reasoning and Indirect Prompt-Injection Monitorability Across English, Tamil, and Tanglish**|Madhusudhanan G et.al.|[2608.15392](http://arxiv.org/abs/2608.15392)|null|
@@ -4741,6 +4753,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-18**|**When Agents Act on Web3: An Attack-Surface Survey of MCP, Skills, and Tool Calling**|Rabimba Karanjai et.al.|[2608.17275](http://arxiv.org/abs/2608.17275)|null|
 |**2026-07-31**|**Exposed by Design: A Dynamic Security Assessment of Internet-Facing MCP Servers at Scale**|Nicolás Padilla et.al.|[2608.00150](http://arxiv.org/abs/2608.00150)|null|
 |**2026-07-16**|**FlowGuard: From Signals to Evidence for MCP Security Detection**|Baichao An et.al.|[2607.14754](http://arxiv.org/abs/2607.14754)|null|
 |**2026-07-13**|**Rethinking MCP Security: A Large-Scale Study of Runtime MCP Servers and Security Scanner Reliability**|Pei Chen et.al.|[2607.11086](http://arxiv.org/abs/2607.11086)|null|
