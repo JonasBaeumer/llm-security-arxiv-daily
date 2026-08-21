@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.08.20
+## Updated on 2026.08.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-20**|**TempJail: Temporal Jailbreak Attack against Large Vision-Language Models via Subtitle Scheduling**|Ling Zhou et.al.|[2608.19737](http://arxiv.org/abs/2608.19737)|null|
 |**2026-08-18**|**Reflex-Guard: A Low-Latency Guardrail for LLM Prompt Safety Using Dense Semantic Embeddings**|Istiaque Ahmed et.al.|[2608.17556](http://arxiv.org/abs/2608.17556)|null|
 |**2026-08-18**|**Fair ASR: Re-Evaluating Black-Box Jailbreaks under Shared Target-Call Budgets**|Zhida He et.al.|[2608.17360](http://arxiv.org/abs/2608.17360)|null|
 |**2026-08-18**|**COMIC: Reference-Aware Safety Gating for Multimodal Large Language Models**|Md Abdullahil Oaphy et.al.|[2608.17234](http://arxiv.org/abs/2608.17234)|null|
@@ -1958,6 +1959,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-20**|**SafeBranch: Branch-Pair Safety Alignment for Embodied Agents**|Hyunse Lee et.al.|[2608.19729](http://arxiv.org/abs/2608.19729)|null|
+|**2026-08-20**|**Enforcing LLM Safety through DMD-based Classification of Prompt-Response Embedding Dynamics**|Mohamed Akrout et.al.|[2608.19579](http://arxiv.org/abs/2608.19579)|null|
 |**2026-08-19**|**When Safety Overrides Vision: Exploring Dynamics between Vision Influence and Safety Alignment in Vision-Language Models**|Mehak Gupta et.al.|[2608.18628](http://arxiv.org/abs/2608.18628)|null|
 |**2026-07-26**|**Safety Alignment Illusion: The Cross-Lingual Safety Gap in LLMs**|Namya Bhatnagar et.al.|[2608.18131](http://arxiv.org/abs/2608.18131)|null|
 |**2026-08-18**|**MobileWorldSafety: Benchmarking GUI Agent Safety Against Environmental Injection Attacks in Android Apps**|Sujin Chen et.al.|[2608.17659](http://arxiv.org/abs/2608.17659)|null|
@@ -3025,6 +3028,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-20**|**COPA: Continual Preference Optimization for Adaptive Prompt Injection Defense**|Roshan Sood et.al.|[2608.19982](http://arxiv.org/abs/2608.19982)|null|
 |**2026-08-02**|**FraudBench: Stress-Testing Policy-Grounded Banking Agents Against Adaptive Fraud**|Dheeraj Mohandas Pai et.al.|[2608.18136](http://arxiv.org/abs/2608.18136)|null|
 |**2026-08-18**|**MobileWorldSafety: Benchmarking GUI Agent Safety Against Environmental Injection Attacks in Android Apps**|Sujin Chen et.al.|[2608.17659](http://arxiv.org/abs/2608.17659)|null|
 |**2026-08-18**|**PACE: Policy-Attested Contract Execution for Safe AI Agents in Decentralized Finance**|Rabimba Karanjai et.al.|[2608.17220](http://arxiv.org/abs/2608.17220)|null|
