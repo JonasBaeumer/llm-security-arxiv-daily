@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.08.23
+## Updated on 2026.08.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-21**|**ReFrame: Evidence-Guided Test-Time Safety Alignment in Multimodal Large Language Models**|Wenzheng Jiang et.al.|[2608.21100](http://arxiv.org/abs/2608.21100)|null|
+|**2026-08-21**|**Certified Multi-Turn Robustness for LLM Safety via Compositional Bounds and Safety Persistence**|Yang Liu et.al.|[2608.20820](http://arxiv.org/abs/2608.20820)|null|
 |**2026-08-20**|**TempJail: Temporal Jailbreak Attack against Large Vision-Language Models via Subtitle Scheduling**|Ling Zhou et.al.|[2608.19737](http://arxiv.org/abs/2608.19737)|null|
 |**2026-08-18**|**Reflex-Guard: A Low-Latency Guardrail for LLM Prompt Safety Using Dense Semantic Embeddings**|Istiaque Ahmed et.al.|[2608.17556](http://arxiv.org/abs/2608.17556)|null|
 |**2026-08-18**|**Fair ASR: Re-Evaluating Black-Box Jailbreaks under Shared Target-Call Budgets**|Zhida He et.al.|[2608.17360](http://arxiv.org/abs/2608.17360)|null|
@@ -1091,6 +1093,7 @@ layout: default
 |**2002-05-07**|**The power spectrum of galaxies in the 2dF 100k redshift survey**|Max Tegmark et.al.|[astro-ph/0111575](http://arxiv.org/abs/astro-ph/0111575)|null|
 |**2001-05-21**|**Reconciliation of the Surface Brightness Fluctuations and Type Ia Supernovae Distance Scales**|Edward A. Ajhar et.al.|[astro-ph/0105366](http://arxiv.org/abs/astro-ph/0105366)|null|
 |**2002-02-27**|**Is cosmology consistent?**|Xiaomin Wang et.al.|[astro-ph/0105091](http://arxiv.org/abs/astro-ph/0105091)|null|
+|**2026-08-20**|**aiXamine: Unified Black-Box Evaluation of Cross-Dimensional Trade-offs in LLM Safety, Security, and Privacy**|Fatih Deniz et.al.|[2608.20554](http://arxiv.org/abs/2608.20554)|null|
 |**2026-08-18**|**Trusted Workflow Relays:Cross-Tenant Email Abuse and Composable Red Team Initial-Access Primitives in Multi-Tenant Clouds**|Priyank Nigam et.al.|[2608.17361](http://arxiv.org/abs/2608.17361)|null|
 |**2026-08-17**|**Fool's Gold: Defensive Deception Against Safety-Removal Attacks on Open-Weight Models**|Mark Russinovich et.al.|[2608.17202](http://arxiv.org/abs/2608.17202)|null|
 |**2026-08-17**|**DiSCO: Defending text-to-image generation through distribution-guided contrastive prompt optimization**|Tong Zhang et.al.|[2608.17067](http://arxiv.org/abs/2608.17067)|null|
@@ -1959,6 +1962,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-21**|**CLEAR: Continuous Latent Adapter Routing for Utility-Preserving LLM Safety Alignment**|Chengxiao Wang et.al.|[2608.21278](http://arxiv.org/abs/2608.21278)|null|
+|**2026-08-21**|**ReFrame: Evidence-Guided Test-Time Safety Alignment in Multimodal Large Language Models**|Wenzheng Jiang et.al.|[2608.21100](http://arxiv.org/abs/2608.21100)|null|
+|**2026-08-21**|**Certified Multi-Turn Robustness for LLM Safety via Compositional Bounds and Safety Persistence**|Yang Liu et.al.|[2608.20820](http://arxiv.org/abs/2608.20820)|null|
+|**2026-08-20**|**aiXamine: Unified Black-Box Evaluation of Cross-Dimensional Trade-offs in LLM Safety, Security, and Privacy**|Fatih Deniz et.al.|[2608.20554](http://arxiv.org/abs/2608.20554)|null|
 |**2026-08-20**|**SafeBranch: Branch-Pair Safety Alignment for Embodied Agents**|Hyunse Lee et.al.|[2608.19729](http://arxiv.org/abs/2608.19729)|null|
 |**2026-08-20**|**Enforcing LLM Safety through DMD-based Classification of Prompt-Response Embedding Dynamics**|Mohamed Akrout et.al.|[2608.19579](http://arxiv.org/abs/2608.19579)|null|
 |**2026-08-19**|**When Safety Overrides Vision: Exploring Dynamics between Vision Influence and Safety Alignment in Vision-Language Models**|Mehak Gupta et.al.|[2608.18628](http://arxiv.org/abs/2608.18628)|null|
@@ -3028,6 +3035,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-21**|**Utility Under Attack: Agent Memory Poisoning and the Limits of Content Screening and Provenance Ranking**|Arulnidhi Karunanidhi et.al.|[2608.21230](http://arxiv.org/abs/2608.21230)|null|
+|**2026-08-21**|**TraceGrant: A Contract-Governed Security Framework for the Task-Effect Lifecycle of Networked LLM Agents**|Bohao Liao et.al.|[2608.21126](http://arxiv.org/abs/2608.21126)|null|
+|**2026-08-15**|**BioFirewall: A genome-writing-native governance layer for design-stage biosecurity screening of agentic AI**|Anees Ahmed Mahaboob Ali et.al.|[2608.20413](http://arxiv.org/abs/2608.20413)|null|
 |**2026-08-20**|**COPA: Continual Preference Optimization for Adaptive Prompt Injection Defense**|Roshan Sood et.al.|[2608.19982](http://arxiv.org/abs/2608.19982)|null|
 |**2026-08-02**|**FraudBench: Stress-Testing Policy-Grounded Banking Agents Against Adaptive Fraud**|Dheeraj Mohandas Pai et.al.|[2608.18136](http://arxiv.org/abs/2608.18136)|null|
 |**2026-08-18**|**MobileWorldSafety: Benchmarking GUI Agent Safety Against Environmental Injection Attacks in Android Apps**|Sujin Chen et.al.|[2608.17659](http://arxiv.org/abs/2608.17659)|null|
