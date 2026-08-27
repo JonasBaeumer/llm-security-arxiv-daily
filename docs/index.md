@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.08.26
+## Updated on 2026.08.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-26**|**A Self-Evolving Multi-Agent Framework Defense against LLM Jailbreak Attacks**|Tongyan Hu et.al.|[2608.26008](http://arxiv.org/abs/2608.26008)|null|
+|**2026-08-26**|**SkillShield: Prompt-Space Security Skills for LLM Coding Agents**|Xiaodong Wu et.al.|[2608.25817](http://arxiv.org/abs/2608.25817)|null|
+|**2026-08-26**|**MMJailBench: A Factorized Benchmark for Disentangling Multimodal Jailbreak Vulnerabilities**|Tianshi Wang et.al.|[2608.25490](http://arxiv.org/abs/2608.25490)|null|
+|**2026-08-26**|**Refusal geometry reflects refusal training: diverse refusal prefixes can raise stable rank and weaken refusal vector ablation attacks**|Andrey Labunets et.al.|[2608.25390](http://arxiv.org/abs/2608.25390)|null|
 |**2026-08-25**|**NeuronGuard: Robust LLM Safety Alignment via Ablation-Aware Safety Signal Redistribution**|Anjun Gao et.al.|[2608.23959](http://arxiv.org/abs/2608.23959)|null|
 |**2026-08-24**|**Towards Automated Cyber Threat Intelligence Elicitation in Underground Forums**|Lorenzo Bossi et.al.|[2608.23185](http://arxiv.org/abs/2608.23185)|null|
 |**2026-08-24**|**PsychJail: Exploring Psychological Jailbreaks via Multi-Turn Persuasion of LLM Policies**|Zeyu Feng et.al.|[2608.23028](http://arxiv.org/abs/2608.23028)|null|
@@ -1100,7 +1104,7 @@ layout: default
 |**2002-05-07**|**The power spectrum of galaxies in the 2dF 100k redshift survey**|Max Tegmark et.al.|[astro-ph/0111575](http://arxiv.org/abs/astro-ph/0111575)|null|
 |**2001-05-21**|**Reconciliation of the Surface Brightness Fluctuations and Type Ia Supernovae Distance Scales**|Edward A. Ajhar et.al.|[astro-ph/0105366](http://arxiv.org/abs/astro-ph/0105366)|null|
 |**2002-02-27**|**Is cosmology consistent?**|Xiaomin Wang et.al.|[astro-ph/0105091](http://arxiv.org/abs/astro-ph/0105091)|null|
-|**2026-08-24**|**Confidently Wrong, Silently So: Auditing Undetectable Failures of a Deployed On-Device Language Model**|Shashwat Pandey et.al.|[2608.23663](http://arxiv.org/abs/2608.23663)|null|
+|**2026-08-26**|**Confidently Wrong, Silently So: Auditing Undetectable Failures of a Deployed On-Device Language Model**|Shashwat Pandey et.al.|[2608.23663](http://arxiv.org/abs/2608.23663)|null|
 |**2026-08-24**|**PsychJail: Exploring Psychological Jailbreaks via Multi-Turn Persuasion of LLM Policies**|Zeyu Feng et.al.|[2608.23028](http://arxiv.org/abs/2608.23028)|null|
 |**2026-08-16**|**Agentic Security: A Systematization of Tools, Failure Modes, and Design Laws for LLM-Driven Penetration Testing**|Israt Moyeen Noumi et.al.|[2608.21423](http://arxiv.org/abs/2608.21423)|null|
 |**2026-08-20**|**aiXamine: Unified Black-Box Evaluation of Cross-Dimensional Trade-offs in LLM Safety, Security, and Privacy**|Fatih Deniz et.al.|[2608.20554](http://arxiv.org/abs/2608.20554)|null|
@@ -1972,6 +1976,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-26**|**MMJailBench: A Factorized Benchmark for Disentangling Multimodal Jailbreak Vulnerabilities**|Tianshi Wang et.al.|[2608.25490](http://arxiv.org/abs/2608.25490)|null|
 |**2026-08-25**|**Neurosymbolic Alignment for Physiologically-Safe Clinical Language Models**|Abdulhady Abas Abdullah et.al.|[2608.24534](http://arxiv.org/abs/2608.24534)|null|
 |**2026-08-25**|**'Ghaib in Translation' aka Unseen Harm: Measuring Cross-Script Safety Inconsistency with 'Missed-in-Urdu' Scores in LLM Hate Speech Detection**|Fawzia Zehra et.al.|[2608.24191](http://arxiv.org/abs/2608.24191)|null|
 |**2026-08-25**|**NeuronGuard: Robust LLM Safety Alignment via Ablation-Aware Safety Signal Redistribution**|Anjun Gao et.al.|[2608.23959](http://arxiv.org/abs/2608.23959)|null|
