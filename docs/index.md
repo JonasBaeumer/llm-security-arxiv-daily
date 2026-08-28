@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.08.27
+## Updated on 2026.08.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-27**|**RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution**|Junjie Zhang et.al.|[2608.27439](http://arxiv.org/abs/2608.27439)|null|
+|**2026-08-27**|**TempJail: Temporal Jailbreak Attacks against Image-to-Video Generation Models**|Qi Lu et.al.|[2608.26971](http://arxiv.org/abs/2608.26971)|null|
+|**2026-08-27**|**A Single Suffix to Break Them All: Basin-Aware Jailbreaks for Merged Model Families**|Yu Zhe et.al.|[2608.26506](http://arxiv.org/abs/2608.26506)|null|
+|**2026-08-26**|**NeuronFuzz: Safety Neuron Guided Fuzzing for LLM Safety Evaluation**|Zhiyuan Xu et.al.|[2608.26222](http://arxiv.org/abs/2608.26222)|null|
 |**2026-08-26**|**A Self-Evolving Multi-Agent Framework Defense against LLM Jailbreak Attacks**|Tongyan Hu et.al.|[2608.26008](http://arxiv.org/abs/2608.26008)|null|
 |**2026-08-26**|**SkillShield: Prompt-Space Security Skills for LLM Coding Agents**|Xiaodong Wu et.al.|[2608.25817](http://arxiv.org/abs/2608.25817)|null|
 |**2026-08-26**|**MMJailBench: A Factorized Benchmark for Disentangling Multimodal Jailbreak Vulnerabilities**|Tianshi Wang et.al.|[2608.25490](http://arxiv.org/abs/2608.25490)|null|
@@ -1104,6 +1108,8 @@ layout: default
 |**2002-05-07**|**The power spectrum of galaxies in the 2dF 100k redshift survey**|Max Tegmark et.al.|[astro-ph/0111575](http://arxiv.org/abs/astro-ph/0111575)|null|
 |**2001-05-21**|**Reconciliation of the Surface Brightness Fluctuations and Type Ia Supernovae Distance Scales**|Edward A. Ajhar et.al.|[astro-ph/0105366](http://arxiv.org/abs/astro-ph/0105366)|null|
 |**2002-02-27**|**Is cosmology consistent?**|Xiaomin Wang et.al.|[astro-ph/0105091](http://arxiv.org/abs/astro-ph/0105091)|null|
+|**2026-08-27**|**RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution**|Junjie Zhang et.al.|[2608.27439](http://arxiv.org/abs/2608.27439)|null|
+|**2026-08-27**|**Safety Does Not Compose: Non-Decaying Loop State for Autonomous LLM Agents**|Chenhao Wu et.al.|[2608.27141](http://arxiv.org/abs/2608.27141)|null|
 |**2026-08-26**|**Confidently Wrong, Silently So: Auditing Undetectable Failures of a Deployed On-Device Language Model**|Shashwat Pandey et.al.|[2608.23663](http://arxiv.org/abs/2608.23663)|null|
 |**2026-08-24**|**PsychJail: Exploring Psychological Jailbreaks via Multi-Turn Persuasion of LLM Policies**|Zeyu Feng et.al.|[2608.23028](http://arxiv.org/abs/2608.23028)|null|
 |**2026-08-16**|**Agentic Security: A Systematization of Tools, Failure Modes, and Design Laws for LLM-Driven Penetration Testing**|Israt Moyeen Noumi et.al.|[2608.21423](http://arxiv.org/abs/2608.21423)|null|
@@ -1976,6 +1982,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-27**|**A Single Suffix to Break Them All: Basin-Aware Jailbreaks for Merged Model Families**|Yu Zhe et.al.|[2608.26506](http://arxiv.org/abs/2608.26506)|null|
+|**2026-08-26**|**NeuronFuzz: Safety Neuron Guided Fuzzing for LLM Safety Evaluation**|Zhiyuan Xu et.al.|[2608.26222](http://arxiv.org/abs/2608.26222)|null|
 |**2026-08-26**|**MMJailBench: A Factorized Benchmark for Disentangling Multimodal Jailbreak Vulnerabilities**|Tianshi Wang et.al.|[2608.25490](http://arxiv.org/abs/2608.25490)|null|
 |**2026-08-25**|**Neurosymbolic Alignment for Physiologically-Safe Clinical Language Models**|Abdulhady Abas Abdullah et.al.|[2608.24534](http://arxiv.org/abs/2608.24534)|null|
 |**2026-08-25**|**'Ghaib in Translation' aka Unseen Harm: Measuring Cross-Script Safety Inconsistency with 'Missed-in-Urdu' Scores in LLM Hate Speech Detection**|Fawzia Zehra et.al.|[2608.24191](http://arxiv.org/abs/2608.24191)|null|
@@ -3060,6 +3068,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-27**|**The Framing Gap: Indirect Prompt-Injection Exfiltration Defeats Surface-Level Defenses in Tool-Using Agents**|Md Habibur Rahman et.al.|[2608.27092](http://arxiv.org/abs/2608.27092)|null|
+|**2026-08-26**|**The Latent Diagnostic Taxonomy: A Framework for Constructing Classifiers and Diagnosing Their Decisions, Applied to Prompt Injection Detection**|Jaturong Kongmanee et.al.|[2608.26423](http://arxiv.org/abs/2608.26423)|null|
 |**2026-08-25**|**What Guides the Agent? Adjudicating Unauthorized Behavior via Localizing Behavior-Guiding Instructions**|Yichao Gao et.al.|[2608.24022](http://arxiv.org/abs/2608.24022)|null|
 |**2026-08-25**|**WebMCP-Phalanx: Enforcing and Characterizing Trust Boundaries for Browser-Integrated LLM Agents**|Lin-Fa Lee et.al.|[2608.24017](http://arxiv.org/abs/2608.24017)|null|
 |**2026-08-24**|**Semantic Overlays: Mitigating Prompt Injection with Annotations Beyond Tokens and Steering Vectors**|Joshua Penman et.al.|[2608.23873](http://arxiv.org/abs/2608.23873)|null|
@@ -3100,7 +3110,7 @@ layout: default
 |**2026-08-08**|**Defending Retrieval-Augmented Intrusion Detection Against Knowledge Poisoning and Prompt Injection**|Kaysarul Anas Apurba et.al.|[2608.08100](http://arxiv.org/abs/2608.08100)|null|
 |**2026-08-08**|**BASIS: Breach-Aware Selective Prompt Injection Shielding with Prefill Attention Probes**|Laiqiao Qin et.al.|[2608.08027](http://arxiv.org/abs/2608.08027)|null|
 |**2026-08-07**|**The Anatomy of a Prompt Injection: A Component Model for Structured Analysis**|Jeremy McHugh et.al.|[2608.07808](http://arxiv.org/abs/2608.07808)|null|
-|**2026-08-07**|**NiyamAI - An Intent-Bound AI Agent with Cryptographically Verifiable Guardrails using Zero-Knowledge Proofs**|Aditya Katkar et.al.|[2608.07167](http://arxiv.org/abs/2608.07167)|null|
+|**2026-08-27**|**NiyamAI - An Intent-Bound AI Agent with Cryptographically Verifiable Guardrails using Zero-Knowledge Proofs**|Aditya Katkar et.al.|[2608.07167](http://arxiv.org/abs/2608.07167)|null|
 |**2026-08-06**|**StepJack: Benchmarking Computer-Use Agent Safety Against Multi-Step Indirect Prompt Injection**|Zhuoxin Zhan et.al.|[2608.06477](http://arxiv.org/abs/2608.06477)|null|
 |**2026-08-06**|**Hijacking Robots with a Piece of Paper: A Systematic Study of Physical Prompt Injection in VLM-Controlled Robots**|S. M . Bhagya P. Samarakoon et.al.|[2608.05715](http://arxiv.org/abs/2608.05715)|null|
 |**2026-08-06**|**PromptShield Home: Ambient Multimodal Prompt Injection Defense for Smart-Home Agents**|He Zhang et.al.|[2608.05495](http://arxiv.org/abs/2608.05495)|null|
