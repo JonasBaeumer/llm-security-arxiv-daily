@@ -2,15 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.08.30
+## Updated on 2026.08.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-27**|**Nemotron 3.5 Content Safety Moderator: A Compact Multimodal, Multilingual, and Reasoning Enabled Content Safety Moderator**|Varun Singh et.al.|[2608.27548](http://arxiv.org/abs/2608.27548)|null|
+|**2026-08-27**|**Fully Unleashing the Multimodal Attacker: Meta-Adaptive Jailbreaking of Vision-Language Models**|Benlei Cui et.al.|[2608.27531](http://arxiv.org/abs/2608.27531)|null|
+|**2026-08-27**|**Circuit Discovery Helps Detect LLM Jailbreaking: A Mechanistic Interpretability Study**|Paria Mehrbod et.al.|[2608.27504](http://arxiv.org/abs/2608.27504)|null|
 |**2026-08-27**|**RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution**|Junjie Zhang et.al.|[2608.27439](http://arxiv.org/abs/2608.27439)|null|
-|**2026-08-27**|**TempJail: Temporal Jailbreak Attacks against Image-to-Video Generation Models**|Qi Lu et.al.|[2608.26971](http://arxiv.org/abs/2608.26971)|null|
+|**2026-08-28**|**TempJail: Temporal Jailbreak Attacks against Image-to-Video Generation Models**|Qi Lu et.al.|[2608.26971](http://arxiv.org/abs/2608.26971)|null|
 |**2026-08-27**|**A Single Suffix to Break Them All: Basin-Aware Jailbreaks for Merged Model Families**|Yu Zhe et.al.|[2608.26506](http://arxiv.org/abs/2608.26506)|null|
 |**2026-08-26**|**NeuronFuzz: Safety Neuron Guided Fuzzing for LLM Safety Evaluation**|Zhiyuan Xu et.al.|[2608.26222](http://arxiv.org/abs/2608.26222)|null|
 |**2026-08-26**|**A Self-Evolving Multi-Agent Framework Defense against LLM Jailbreak Attacks**|Tongyan Hu et.al.|[2608.26008](http://arxiv.org/abs/2608.26008)|null|
@@ -1108,8 +1111,10 @@ layout: default
 |**2002-05-07**|**The power spectrum of galaxies in the 2dF 100k redshift survey**|Max Tegmark et.al.|[astro-ph/0111575](http://arxiv.org/abs/astro-ph/0111575)|null|
 |**2001-05-21**|**Reconciliation of the Surface Brightness Fluctuations and Type Ia Supernovae Distance Scales**|Edward A. Ajhar et.al.|[astro-ph/0105366](http://arxiv.org/abs/astro-ph/0105366)|null|
 |**2002-02-27**|**Is cosmology consistent?**|Xiaomin Wang et.al.|[astro-ph/0105091](http://arxiv.org/abs/astro-ph/0105091)|null|
+|**2026-08-28**|**Recognition Without Enforcement: Configuration-Dependent Failures in LLM Agent Instruction Arbitration and External Control**|Jun Wen Leong et.al.|[2608.28502](http://arxiv.org/abs/2608.28502)|null|
+|**2026-08-27**|**If Agents Were Angels, No Governance Would Be Necessary: Out-of-Band Policy Enforcement at a Trusted Tool Boundary**|Marc Millstone et.al.|[2608.27646](http://arxiv.org/abs/2608.27646)|null|
 |**2026-08-27**|**RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution**|Junjie Zhang et.al.|[2608.27439](http://arxiv.org/abs/2608.27439)|null|
-|**2026-08-27**|**Safety Does Not Compose: Non-Decaying Loop State for Autonomous LLM Agents**|Chenhao Wu et.al.|[2608.27141](http://arxiv.org/abs/2608.27141)|null|
+|**2026-08-28**|**Safety Does Not Compose: Non-Decaying Loop State for Autonomous LLM Agents**|Chenhao Wu et.al.|[2608.27141](http://arxiv.org/abs/2608.27141)|null|
 |**2026-08-26**|**Confidently Wrong, Silently So: Auditing Undetectable Failures of a Deployed On-Device Language Model**|Shashwat Pandey et.al.|[2608.23663](http://arxiv.org/abs/2608.23663)|null|
 |**2026-08-24**|**PsychJail: Exploring Psychological Jailbreaks via Multi-Turn Persuasion of LLM Policies**|Zeyu Feng et.al.|[2608.23028](http://arxiv.org/abs/2608.23028)|null|
 |**2026-08-16**|**Agentic Security: A Systematization of Tools, Failure Modes, and Design Laws for LLM-Driven Penetration Testing**|Israt Moyeen Noumi et.al.|[2608.21423](http://arxiv.org/abs/2608.21423)|null|
@@ -1982,6 +1987,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-27**|**LongGuard: Mechanistic Analysis and Training-Free Mitigation of Long-Context Failure in Safety Guardrails**|Ziyang Chen et.al.|[2608.27580](http://arxiv.org/abs/2608.27580)|null|
+|**2026-08-27**|**Circuit Discovery Helps Detect LLM Jailbreaking: A Mechanistic Interpretability Study**|Paria Mehrbod et.al.|[2608.27504](http://arxiv.org/abs/2608.27504)|null|
 |**2026-08-27**|**A Single Suffix to Break Them All: Basin-Aware Jailbreaks for Merged Model Families**|Yu Zhe et.al.|[2608.26506](http://arxiv.org/abs/2608.26506)|null|
 |**2026-08-26**|**NeuronFuzz: Safety Neuron Guided Fuzzing for LLM Safety Evaluation**|Zhiyuan Xu et.al.|[2608.26222](http://arxiv.org/abs/2608.26222)|null|
 |**2026-08-26**|**MMJailBench: A Factorized Benchmark for Disentangling Multimodal Jailbreak Vulnerabilities**|Tianshi Wang et.al.|[2608.25490](http://arxiv.org/abs/2608.25490)|null|
@@ -3068,11 +3075,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-28**|**LongPIBench: A Long-Context Benchmark for Prompt Injection**|Yupei Liu et.al.|[2608.28411](http://arxiv.org/abs/2608.28411)|null|
+|**2026-08-28**|**CAITLYN: Can LLM Agents Autonomously Synthesize Defenses against Emerging Injection Attacks?**|Zi Liang et.al.|[2608.27990](http://arxiv.org/abs/2608.27990)|null|
+|**2026-08-27**|**ROPE: Routed Origin Policy Enforcement against Indirect Prompt Injection**|Xinhang Ma et.al.|[2608.27496](http://arxiv.org/abs/2608.27496)|null|
 |**2026-08-27**|**The Framing Gap: Indirect Prompt-Injection Exfiltration Defeats Surface-Level Defenses in Tool-Using Agents**|Md Habibur Rahman et.al.|[2608.27092](http://arxiv.org/abs/2608.27092)|null|
 |**2026-08-26**|**The Latent Diagnostic Taxonomy: A Framework for Constructing Classifiers and Diagnosing Their Decisions, Applied to Prompt Injection Detection**|Jaturong Kongmanee et.al.|[2608.26423](http://arxiv.org/abs/2608.26423)|null|
 |**2026-08-25**|**What Guides the Agent? Adjudicating Unauthorized Behavior via Localizing Behavior-Guiding Instructions**|Yichao Gao et.al.|[2608.24022](http://arxiv.org/abs/2608.24022)|null|
 |**2026-08-25**|**WebMCP-Phalanx: Enforcing and Characterizing Trust Boundaries for Browser-Integrated LLM Agents**|Lin-Fa Lee et.al.|[2608.24017](http://arxiv.org/abs/2608.24017)|null|
-|**2026-08-24**|**Semantic Overlays: Mitigating Prompt Injection with Annotations Beyond Tokens and Steering Vectors**|Joshua Penman et.al.|[2608.23873](http://arxiv.org/abs/2608.23873)|null|
+|**2026-08-28**|**Semantic Overlays: Mitigating Prompt Injection with Annotations Beyond Tokens and Steering Vectors**|Joshua Penman et.al.|[2608.23873](http://arxiv.org/abs/2608.23873)|null|
 |**2026-08-24**|**Beyond the Mandate: A Systematic Security Analysis of the Agent Payments Protocol (AP2)**|Avital Aviv et.al.|[2608.23858](http://arxiv.org/abs/2608.23858)|null|
 |**2026-08-24**|**GAP-Prompt: Gated Adaptive Prompting for Efficient Continual Learning**|Trung-Anh Dang et.al.|[2608.23782](http://arxiv.org/abs/2608.23782)|null|
 |**2026-08-24**|**TrustShiftProbe: Characterizing, Benchmarking, and Defending Staged Trust Attacks on MCP Servers**|Mehrdad Rostamzadeh et.al.|[2608.23763](http://arxiv.org/abs/2608.23763)|null|
@@ -3986,6 +3996,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-28**|**FISGuard: Defending Against Membership Inference via Fixed Input Subspaces**|Haocheng Jiang et.al.|[2608.27836](http://arxiv.org/abs/2608.27836)|null|
 |**2026-08-24**|**DIME: Query-Efficient Framework for Membership Inference on Diffusion Models**|Tue Do et.al.|[2608.22824](http://arxiv.org/abs/2608.22824)|null|
 |**2026-08-23**|**Mitigating Explanation Leakage in Financial Fraud Detection Systems**|Muhammad Waleed Gul et.al.|[2608.22607](http://arxiv.org/abs/2608.22607)|null|
 |**2026-07-31**|**Leak It: A Probabilistic Approach to Training-Data Extraction from Black-Box Language Models**|Victor Maricato et.al.|[2608.00144](http://arxiv.org/abs/2608.00144)|null|
