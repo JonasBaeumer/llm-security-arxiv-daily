@@ -1158,7 +1158,7 @@
 |**2026-07-24**|**Strategic Inference of Adversarial Navigation Objectives for Unmanned Underwater Vehicles**|Ruimeng Hu et.al.|[2607.21945](http://arxiv.org/abs/2607.21945)|null|
 |**2026-07-23**|**Humanly: A Configurable and Traceable Environment for Human-AI Collaborative Writing**|Shenzhe Zhu et.al.|[2607.21758](http://arxiv.org/abs/2607.21758)|null|
 |**2026-07-30**|**What AI Red-Team Evaluations Can and Cannot Prove**|Bandana Kaur et.al.|[2607.21735](http://arxiv.org/abs/2607.21735)|null|
-|**2026-07-23**|**Tencent WorkBuddy Bench: A Multi-Domain Coding-Agent Benchmark with Contamination-Resistant Task Construction**| Tencent WorkBuddy Bench Team et.al.|[2607.20911](http://arxiv.org/abs/2607.20911)|null|
+|**2026-07-23**|**Tencent WorkBuddy Bench: A Multi-Domain Coding-Agent Benchmark with Contamination-Resistant Task Construction**|Tencent WorkBuddy Bench Team et.al.|[2607.20911](http://arxiv.org/abs/2607.20911)|null|
 |**2026-07-23**|**Code Monitor Red Teaming for Public-Test-Passing Code**|Junchi Liao et.al.|[2607.20852](http://arxiv.org/abs/2607.20852)|null|
 |**2026-06-15**|**Mitigating Scaffolding Collapse in Socratic Tutors via Representation Alignment**|Jing Shao et.al.|[2607.19371](http://arxiv.org/abs/2607.19371)|null|
 |**2026-07-21**|**SoK: Adversarial Robustness of the Variational Quantum Eigensolver via Red-Teaming**|Ahmed Azaz Humdoon et.al.|[2607.19318](http://arxiv.org/abs/2607.19318)|null|
