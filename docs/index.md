@@ -2,18 +2,21 @@
 layout: default
 ---
 
-## Updated on 2026.09.01
+## Updated on 2026.09.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-01**|**Jailbreaking Text-to-Image Models Through Cracks: Navigating Heterogeneous Safety Filters via Multi-Agent Debate**|Kaiyan Wen et.al.|[2609.01168](http://arxiv.org/abs/2609.01168)|null|
+|**2026-09-01**|**HiveTraceGuard-Pro: A Compact Generative Guardrail for Prompt Injection, Jailbreaks, and Adversarial Obfuscation**|Nikita Oblakov et.al.|[2609.01046](http://arxiv.org/abs/2609.01046)|null|
+|**2026-08-31**|**Validity-Aware Jailbreak Evaluation for Large Language Models**|Qilong Wu et.al.|[2609.00498](http://arxiv.org/abs/2609.00498)|null|
 |**2026-08-31**|**Do VLMs Share Safety Neurons Across Modalities?**|Jiaxuan Li et.al.|[2608.30750](http://arxiv.org/abs/2608.30750)|null|
 |**2026-08-31**|**The Fragility of Jailbreak Robustness Across Operational States**|Yuna Park et.al.|[2608.30748](http://arxiv.org/abs/2608.30748)|null|
 |**2026-08-31**|**The Safety Relay in Roleplay Jailbreaks: A Component-Resolved Causal Analysis of Harm Recognition and Refusal**|Md Mokarram Chowdhury et.al.|[2608.30585](http://arxiv.org/abs/2608.30585)|null|
-|**2026-08-30**|**TACS: Trajectory-Aware Candidate Selection for LLM Jailbreak Suffix Optimization**|Shiliang Xiao et.al.|[2608.29564](http://arxiv.org/abs/2608.29564)|null|
-|**2026-08-28**|**Automated Researchers Can Reliably Mitigate Alignment Failures**|Chen Yueh-Han et.al.|[2608.28945](http://arxiv.org/abs/2608.28945)|null|
+|**2026-09-01**|**TACS: Trajectory-Aware Candidate Selection for LLM Jailbreak Suffix Optimization**|Shiliang Xiao et.al.|[2608.29564](http://arxiv.org/abs/2608.29564)|null|
+|**2026-09-01**|**Automated Researchers Can Reliably Mitigate Alignment Failures**|Chen Yueh-Han et.al.|[2608.28945](http://arxiv.org/abs/2608.28945)|null|
 |**2026-08-27**|**Nemotron 3.5 Content Safety Moderator: A Compact Multimodal, Multilingual, and Reasoning Enabled Content Safety Moderator**|Varun Singh et.al.|[2608.27548](http://arxiv.org/abs/2608.27548)|null|
 |**2026-08-27**|**Fully Unleashing the Multimodal Attacker: Meta-Adaptive Jailbreaking of Vision-Language Models**|Benlei Cui et.al.|[2608.27531](http://arxiv.org/abs/2608.27531)|null|
 |**2026-08-27**|**Circuit Discovery Helps Detect LLM Jailbreaking: A Mechanistic Interpretability Study**|Paria Mehrbod et.al.|[2608.27504](http://arxiv.org/abs/2608.27504)|null|
@@ -1116,6 +1119,7 @@ layout: default
 |**2002-05-07**|**The power spectrum of galaxies in the 2dF 100k redshift survey**|Max Tegmark et.al.|[astro-ph/0111575](http://arxiv.org/abs/astro-ph/0111575)|null|
 |**2001-05-21**|**Reconciliation of the Surface Brightness Fluctuations and Type Ia Supernovae Distance Scales**|Edward A. Ajhar et.al.|[astro-ph/0105366](http://arxiv.org/abs/astro-ph/0105366)|null|
 |**2002-02-27**|**Is cosmology consistent?**|Xiaomin Wang et.al.|[astro-ph/0105091](http://arxiv.org/abs/astro-ph/0105091)|null|
+|**2026-08-31**|**EvoFlint: An Evolutionary Atlas of Multi-Turn LLM Vulnerabilities**|Feitong Qiao et.al.|[2609.00487](http://arxiv.org/abs/2609.00487)|null|
 |**2026-08-31**|**SNAD: enabling discovery in the era of big data**|Maria Pruzhinskaya et.al.|[2608.30477](http://arxiv.org/abs/2608.30477)|null|
 |**2026-08-31**|**EvoSkill Injection: Red-Teaming Autonomous Skill Generation and Evolution in Self-Evolving Agents**|Doyun Kim et.al.|[2608.30429](http://arxiv.org/abs/2608.30429)|null|
 |**2026-08-31**|**SIR: Self-improving Red-teaming for Compute Use Agents**|Chen Xiong et.al.|[2608.30207](http://arxiv.org/abs/2608.30207)|null|
@@ -1995,6 +1999,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-01**|**SDARE-Bench: Evaluating Large Language Models on Conversational Stigma Detection and Response in Dyadic and Group Dialogue**|Stephanie Fong et.al.|[2609.01548](http://arxiv.org/abs/2609.01548)|null|
+|**2026-09-01**|**When Safety Routing Breaks: Understanding Alignment Fragility under Benign Fine-Tuning**|Yitong Guo et.al.|[2609.01455](http://arxiv.org/abs/2609.01455)|null|
+|**2026-09-01**|**Trust Your Guide Only When Certain: Uncertainty-Aware Sparse Alignment at Inference Time**|Zeen Zhu et.al.|[2609.00624](http://arxiv.org/abs/2609.00624)|null|
+|**2026-08-31**|**Validity-Aware Jailbreak Evaluation for Large Language Models**|Qilong Wu et.al.|[2609.00498](http://arxiv.org/abs/2609.00498)|null|
+|**2026-08-31**|**Beyond Token Positions: Safety Alignment Across Denoising Steps in Diffusion Language Models**|Guoli Wang et.al.|[2609.00495](http://arxiv.org/abs/2609.00495)|null|
+|**2026-08-30**|**From Detection to Refusal: Safer LLMs via Circuit-Guided Weight Scaling**|Kuan-Lin Chu et.al.|[2609.00051](http://arxiv.org/abs/2609.00051)|null|
 |**2026-08-31**|**You Shouldn't Have Asked: A Pragmatics-Inspired Taxonomy for Evaluating LLM Refusals**|Ruoxuan Li et.al.|[2608.30856](http://arxiv.org/abs/2608.30856)|null|
 |**2026-08-31**|**ALTSTEER: Selective Safety Steering for Moving Beyond Hard Refusals to Constructive Alternatives**|Hoejoon Kwon et.al.|[2608.30197](http://arxiv.org/abs/2608.30197)|null|
 |**2026-08-30**|**When Safety Speaks a Language: A Mechanistic Analysis of Safety-Language Identity Entanglement in LLMs**|Apoorva Upadhyaya et.al.|[2608.29936](http://arxiv.org/abs/2608.29936)|null|
@@ -3089,9 +3099,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-01**|**HiveTraceGuard-Pro: A Compact Generative Guardrail for Prompt Injection, Jailbreaks, and Adversarial Obfuscation**|Nikita Oblakov et.al.|[2609.01046](http://arxiv.org/abs/2609.01046)|null|
+|**2026-08-31**|**Delegation Without Trust: An Empirical Gap Analysis of Identity, Authorization, and Runtime Governance in Multi-Agent LLM Systems**|Panduranga Sai Varma Dantuluri et.al.|[2609.00267](http://arxiv.org/abs/2609.00267)|null|
+|**2026-08-30**|**AgentProv: Auditing Agentic LLM API Providers via Tool-use Policy Probes**|Xun Wang et.al.|[2609.00052](http://arxiv.org/abs/2609.00052)|null|
 |**2026-08-31**|**ECLIPSE: Self-Evolving Stealthy Prompt Injection Attack against Long-Horizon Agentic Systems**|Shiqian Zhao et.al.|[2608.30441](http://arxiv.org/abs/2608.30441)|null|
 |**2026-08-31**|**Attesting Outputs and Delegation Ancestry in Multi-Agent AI Systems**|Lifei Liu et.al.|[2608.30387](http://arxiv.org/abs/2608.30387)|null|
-|**2026-08-31**|**Will the User Ever Know? Covert Indirect Prompt Injection on Tool-Using LLM Agents**|Yunseok Lee et.al.|[2608.30362](http://arxiv.org/abs/2608.30362)|null|
+|**2026-09-01**|**Will the User Ever Know? Covert Indirect Prompt Injection Attacks on Tool-Using LLM Agents**|Yunseok Lee et.al.|[2608.30362](http://arxiv.org/abs/2608.30362)|null|
 |**2026-08-31**|**SIR: Self-improving Red-teaming for Compute Use Agents**|Chen Xiong et.al.|[2608.30207](http://arxiv.org/abs/2608.30207)|null|
 |**2026-08-30**|**Zero-Knowledge Predicate Proofs Between AI Agents: A Measured, Cross-Protocol Gateway and the Source-Integrity Gap**|Ashok Subbabhatta Gopalakrishna et.al.|[2608.30083](http://arxiv.org/abs/2608.30083)|null|
 |**2026-08-30**|**Reachability-Based Capability Confinement for LLM Agents under Indirect Prompt Injection**|Wujie Xiong et.al.|[2608.30041](http://arxiv.org/abs/2608.30041)|null|
