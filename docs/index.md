@@ -2,21 +2,25 @@
 layout: default
 ---
 
-## Updated on 2026.09.02
+## Updated on 2026.09.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-09-01**|**Jailbreaking Text-to-Image Models Through Cracks: Navigating Heterogeneous Safety Filters via Multi-Agent Debate**|Kaiyan Wen et.al.|[2609.01168](http://arxiv.org/abs/2609.01168)|null|
+|**2026-09-02**|**Before the Script, Set the Stage: How Worldview Simulation Amplifies Psychologically Grounded Persuasion in Multi-Turn Jailbreaking**|Siyu Chen et.al.|[2609.02414](http://arxiv.org/abs/2609.02414)|null|
+|**2026-09-02**|**SEAL: Reinforcing Global Safety in Mixture-of-Experts through Shared Expert ALignment**|Qingyu Meng et.al.|[2609.02293](http://arxiv.org/abs/2609.02293)|null|
+|**2026-09-02**|**Breadth Beats Depth: Improving GCG-Based Jailbreak Optimization with Breadth-Oriented Suffix Search**|Shiliang Xiao et.al.|[2609.02172](http://arxiv.org/abs/2609.02172)|null|
+|**2026-08-31**|**Context Inference Attacks Without Jailbreaks**|Prince Jha et.al.|[2609.01663](http://arxiv.org/abs/2609.01663)|null|
+|**2026-09-02**|**Jailbreaking Text-to-Image Models Through Cracks: Navigating Heterogeneous Safety Filters via Multi-Agent Debate**|Kaiyan Wen et.al.|[2609.01168](http://arxiv.org/abs/2609.01168)|null|
 |**2026-09-01**|**HiveTraceGuard-Pro: A Compact Generative Guardrail for Prompt Injection, Jailbreaks, and Adversarial Obfuscation**|Nikita Oblakov et.al.|[2609.01046](http://arxiv.org/abs/2609.01046)|null|
 |**2026-08-31**|**Validity-Aware Jailbreak Evaluation for Large Language Models**|Qilong Wu et.al.|[2609.00498](http://arxiv.org/abs/2609.00498)|null|
 |**2026-08-31**|**Do VLMs Share Safety Neurons Across Modalities?**|Jiaxuan Li et.al.|[2608.30750](http://arxiv.org/abs/2608.30750)|null|
 |**2026-08-31**|**The Fragility of Jailbreak Robustness Across Operational States**|Yuna Park et.al.|[2608.30748](http://arxiv.org/abs/2608.30748)|null|
 |**2026-08-31**|**The Safety Relay in Roleplay Jailbreaks: A Component-Resolved Causal Analysis of Harm Recognition and Refusal**|Md Mokarram Chowdhury et.al.|[2608.30585](http://arxiv.org/abs/2608.30585)|null|
 |**2026-09-01**|**TACS: Trajectory-Aware Candidate Selection for LLM Jailbreak Suffix Optimization**|Shiliang Xiao et.al.|[2608.29564](http://arxiv.org/abs/2608.29564)|null|
-|**2026-09-01**|**Automated Researchers Can Reliably Mitigate Alignment Failures**|Chen Yueh-Han et.al.|[2608.28945](http://arxiv.org/abs/2608.28945)|null|
+|**2026-09-02**|**Automated Researchers Can Mitigate Well-characterized Alignment Failures**|Chen Yueh-Han et.al.|[2608.28945](http://arxiv.org/abs/2608.28945)|null|
 |**2026-08-27**|**Nemotron 3.5 Content Safety Moderator: A Compact Multimodal, Multilingual, and Reasoning Enabled Content Safety Moderator**|Varun Singh et.al.|[2608.27548](http://arxiv.org/abs/2608.27548)|null|
 |**2026-08-27**|**Fully Unleashing the Multimodal Attacker: Meta-Adaptive Jailbreaking of Vision-Language Models**|Benlei Cui et.al.|[2608.27531](http://arxiv.org/abs/2608.27531)|null|
 |**2026-08-27**|**Circuit Discovery Helps Detect LLM Jailbreaking: A Mechanistic Interpretability Study**|Paria Mehrbod et.al.|[2608.27504](http://arxiv.org/abs/2608.27504)|null|
@@ -1126,7 +1130,7 @@ layout: default
 |**2026-08-28**|**Recognition Without Enforcement: Configuration-Dependent Failures in LLM Agent Instruction Arbitration and External Control**|Jun Wen Leong et.al.|[2608.28502](http://arxiv.org/abs/2608.28502)|null|
 |**2026-08-27**|**If Agents Were Angels, No Governance Would Be Necessary: Out-of-Band Policy Enforcement at a Trusted Tool Boundary**|Marc Millstone et.al.|[2608.27646](http://arxiv.org/abs/2608.27646)|null|
 |**2026-08-27**|**RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution**|Junjie Zhang et.al.|[2608.27439](http://arxiv.org/abs/2608.27439)|null|
-|**2026-08-28**|**Safety Does Not Compose: Non-Decaying Loop State for Autonomous LLM Agents**|Chenhao Wu et.al.|[2608.27141](http://arxiv.org/abs/2608.27141)|null|
+|**2026-09-02**|**Safety Does Not Compose: Non-Decaying Loop State for Autonomous LLM Agents**|Chenhao Wu et.al.|[2608.27141](http://arxiv.org/abs/2608.27141)|null|
 |**2026-08-26**|**Confidently Wrong, Silently So: Auditing Undetectable Failures of a Deployed On-Device Language Model**|Shashwat Pandey et.al.|[2608.23663](http://arxiv.org/abs/2608.23663)|null|
 |**2026-08-24**|**PsychJail: Exploring Psychological Jailbreaks via Multi-Turn Persuasion of LLM Policies**|Zeyu Feng et.al.|[2608.23028](http://arxiv.org/abs/2608.23028)|null|
 |**2026-08-16**|**Agentic Security: A Systematization of Tools, Failure Modes, and Design Laws for LLM-Driven Penetration Testing**|Israt Moyeen Noumi et.al.|[2608.21423](http://arxiv.org/abs/2608.21423)|null|
@@ -1999,6 +2003,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-02**|**SafeEvolve: Harness-Policy Co-Evolution from Agent Experience for Safety Alignment**|Qinghua Mao et.al.|[2609.02786](http://arxiv.org/abs/2609.02786)|null|
+|**2026-09-02**|**SEAL: Reinforcing Global Safety in Mixture-of-Experts through Shared Expert ALignment**|Qingyu Meng et.al.|[2609.02293](http://arxiv.org/abs/2609.02293)|null|
+|**2026-09-02**|**ASCII Attack: Recontextualising Harmful Requests as Artistic Critique in Large Language Models**|Da Cheng Gu et.al.|[2609.02215](http://arxiv.org/abs/2609.02215)|null|
 |**2026-09-01**|**SDARE-Bench: Evaluating Large Language Models on Conversational Stigma Detection and Response in Dyadic and Group Dialogue**|Stephanie Fong et.al.|[2609.01548](http://arxiv.org/abs/2609.01548)|null|
 |**2026-09-01**|**When Safety Routing Breaks: Understanding Alignment Fragility under Benign Fine-Tuning**|Yitong Guo et.al.|[2609.01455](http://arxiv.org/abs/2609.01455)|null|
 |**2026-09-01**|**Trust Your Guide Only When Certain: Uncertainty-Aware Sparse Alignment at Inference Time**|Zeen Zhu et.al.|[2609.00624](http://arxiv.org/abs/2609.00624)|null|
@@ -3099,6 +3106,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-02**|**Stored Is Not Supported: Typed Provenance and Assertion Guardrails for Persistent AI Agents**|Jun He et.al.|[2609.02127](http://arxiv.org/abs/2609.02127)|null|
+|**2026-09-02**|**Implicit Manipulation for Skill Selection in LLM Agents with Semantic Matching**|Qikai Wang et.al.|[2609.02035](http://arxiv.org/abs/2609.02035)|null|
+|**2026-09-01**|**Agent Flight Recorder: Tamper-Evident Audit Trails with On-Chain Anchoring for Long-Horizon Tool-Using Agents**|Laurent Bindschaedler et.al.|[2609.01931](http://arxiv.org/abs/2609.01931)|null|
+|**2026-09-01**|**Skill-as-API: Confidential Multi-Agent Coordination for Agentic Software Engineering**|Ziwei Zhao et.al.|[2609.01677](http://arxiv.org/abs/2609.01677)|null|
 |**2026-09-01**|**HiveTraceGuard-Pro: A Compact Generative Guardrail for Prompt Injection, Jailbreaks, and Adversarial Obfuscation**|Nikita Oblakov et.al.|[2609.01046](http://arxiv.org/abs/2609.01046)|null|
 |**2026-08-31**|**Delegation Without Trust: An Empirical Gap Analysis of Identity, Authorization, and Runtime Governance in Multi-Agent LLM Systems**|Panduranga Sai Varma Dantuluri et.al.|[2609.00267](http://arxiv.org/abs/2609.00267)|null|
 |**2026-08-30**|**AgentProv: Auditing Agentic LLM API Providers via Tool-use Policy Probes**|Xun Wang et.al.|[2609.00052](http://arxiv.org/abs/2609.00052)|null|
@@ -4029,6 +4040,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-01**|**Hearing the Whispers: Black-Box Membership Inference Attacks on Finetuned TTS Models**|Kunlin Cai et.al.|[2609.01723](http://arxiv.org/abs/2609.01723)|null|
 |**2026-08-31**|**Balancing Privacy, Utility, and Safety in LLM Alignment through Preference Optimization**|Dishu Yang et.al.|[2608.30141](http://arxiv.org/abs/2608.30141)|null|
 |**2026-08-28**|**Revisiting the Provable-Auditable Privacy Gap of DP-SGD**|Saloni Modi et.al.|[2608.28934](http://arxiv.org/abs/2608.28934)|null|
 |**2026-08-28**|**FISGuard: Defending Against Membership Inference via Fixed Input Subspaces**|Haocheng Jiang et.al.|[2608.27836](http://arxiv.org/abs/2608.27836)|null|
