@@ -2,14 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.09.06
+## Updated on 2026.09.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-09-03**|**IndicSafeEval: Safety Robustness of Large Language Models under Multilingual Persuasive Jailbreak Attacks**|Saikat Mondal et.al.|[2609.03781](http://arxiv.org/abs/2609.03781)|null|
+|**2026-09-04**|**TIER: Threat Implicitness Benchmark for Evaluating LLM Safety Behaviors**|Thu-Hien Trinh-Thi et.al.|[2609.05117](http://arxiv.org/abs/2609.05117)|null|
+|**2026-09-04**|**Locating and Steering Refusal Beyond Attention**|Preethi Carmel Bosco et.al.|[2609.04721](http://arxiv.org/abs/2609.04721)|null|
+|**2026-09-04**|**IndicSafeEval: Safety Robustness of Large Language Models under Multilingual Persuasive Jailbreak Attacks**|Saikat Mondal et.al.|[2609.03781](http://arxiv.org/abs/2609.03781)|null|
 |**2026-09-03**|**AlcaTRAz - Anchored Tree-Rule Defense Against Jailbreaks**|Jakub Reš et.al.|[2609.03693](http://arxiv.org/abs/2609.03693)|null|
 |**2026-09-03**|**Trust Me, I'm Your Developer: Self-Issued Authentication in Large Language Models**|Syed Ghazanfar Abbas et.al.|[2609.03247](http://arxiv.org/abs/2609.03247)|null|
 |**2026-09-02**|**Before the Script, Set the Stage: How Worldview Simulation Amplifies Psychologically Grounded Persuasion in Multi-Turn Jailbreaking**|Siyu Chen et.al.|[2609.02414](http://arxiv.org/abs/2609.02414)|null|
@@ -2007,8 +2009,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-04**|**Uncensored Open-weight Models: Redistribution as the Persistence Layer**|10a Labs et.al.|[2609.05241](http://arxiv.org/abs/2609.05241)|null|
+|**2026-09-04**|**TIER: Threat Implicitness Benchmark for Evaluating LLM Safety Behaviors**|Thu-Hien Trinh-Thi et.al.|[2609.05117](http://arxiv.org/abs/2609.05117)|null|
+|**2026-09-03**|**Safety for Whom? Boundary-Aware Self-Distillation for Controlled LLM Safety Refusal**|Alejo López-Ávila et.al.|[2609.04482](http://arxiv.org/abs/2609.04482)|null|
 |**2026-09-03**|**FLY-EVAL++: An Evidence-Driven Evaluation Protocol for Safety-Constrained Flight Prediction with Large Language Models**|Yalun Wu et.al.|[2609.04021](http://arxiv.org/abs/2609.04021)|null|
-|**2026-09-03**|**IndicSafeEval: Safety Robustness of Large Language Models under Multilingual Persuasive Jailbreak Attacks**|Saikat Mondal et.al.|[2609.03781](http://arxiv.org/abs/2609.03781)|null|
+|**2026-09-04**|**IndicSafeEval: Safety Robustness of Large Language Models under Multilingual Persuasive Jailbreak Attacks**|Saikat Mondal et.al.|[2609.03781](http://arxiv.org/abs/2609.03781)|null|
 |**2026-09-03**|**AlcaTRAz - Anchored Tree-Rule Defense Against Jailbreaks**|Jakub Reš et.al.|[2609.03693](http://arxiv.org/abs/2609.03693)|null|
 |**2026-09-03**|**SafeRI: Recognition and Intervention for Token-Level Safety Intervention in Large Vision Language Models**|Caoyuan Ma et.al.|[2609.03544](http://arxiv.org/abs/2609.03544)|null|
 |**2026-09-02**|**SafeEvolve: Harness-Policy Co-Evolution from Agent Experience for Safety Alignment**|Qinghua Mao et.al.|[2609.02786](http://arxiv.org/abs/2609.02786)|null|
@@ -3114,6 +3119,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-04**|**Influence Score and Transformers interpretability: Measure of the Effective Impact of Attention Heads at inference time**|Lisa Bouger et.al.|[2609.05074](http://arxiv.org/abs/2609.05074)|null|
+|**2026-09-03**|**Repeat-After-Me: Black-Box Adaptive Visual Prompt Injection**|Sizhe Chen et.al.|[2609.04533](http://arxiv.org/abs/2609.04533)|null|
+|**2026-09-03**|**Rethinking Indirect Prompt Injection as a Test-Time Search Problem**|Duong M. Nguyen et.al.|[2609.04495](http://arxiv.org/abs/2609.04495)|null|
 |**2026-09-03**|**Shifting from Injection to Interaction: Rethinking Web Security in the Age of LLMs and Beyond**|Nivedita Singh et.al.|[2609.03999](http://arxiv.org/abs/2609.03999)|null|
 |**2026-09-02**|**Stored Is Not Supported: Typed Provenance and Assertion Guardrails for Persistent AI Agents**|Jun He et.al.|[2609.02127](http://arxiv.org/abs/2609.02127)|null|
 |**2026-09-02**|**Implicit Manipulation for Skill Selection in LLM Agents with Semantic Matching**|Qikai Wang et.al.|[2609.02035](http://arxiv.org/abs/2609.02035)|null|
@@ -3135,7 +3143,7 @@ layout: default
 |**2026-08-26**|**The Latent Diagnostic Taxonomy: A Framework for Constructing Classifiers and Diagnosing Their Decisions, Applied to Prompt Injection Detection**|Jaturong Kongmanee et.al.|[2608.26423](http://arxiv.org/abs/2608.26423)|null|
 |**2026-08-25**|**What Guides the Agent? Adjudicating Unauthorized Behavior via Localizing Behavior-Guiding Instructions**|Yichao Gao et.al.|[2608.24022](http://arxiv.org/abs/2608.24022)|null|
 |**2026-08-25**|**WebMCP-Phalanx: Enforcing and Characterizing Trust Boundaries for Browser-Integrated LLM Agents**|Lin-Fa Lee et.al.|[2608.24017](http://arxiv.org/abs/2608.24017)|null|
-|**2026-08-28**|**Semantic Overlays: Mitigating Prompt Injection with Annotations Beyond Tokens and Steering Vectors**|Joshua Penman et.al.|[2608.23873](http://arxiv.org/abs/2608.23873)|null|
+|**2026-09-03**|**Semantic Overlays: Mitigating Prompt Injection with Annotations Beyond Tokens and Steering Vectors**|Joshua Penman et.al.|[2608.23873](http://arxiv.org/abs/2608.23873)|null|
 |**2026-08-24**|**Beyond the Mandate: A Systematic Security Analysis of the Agent Payments Protocol (AP2)**|Avital Aviv et.al.|[2608.23858](http://arxiv.org/abs/2608.23858)|null|
 |**2026-08-24**|**GAP-Prompt: Gated Adaptive Prompting for Efficient Continual Learning**|Trung-Anh Dang et.al.|[2608.23782](http://arxiv.org/abs/2608.23782)|null|
 |**2026-08-24**|**TrustShiftProbe: Characterizing, Benchmarking, and Defending Staged Trust Attacks on MCP Servers**|Mehrdad Rostamzadeh et.al.|[2608.23763](http://arxiv.org/abs/2608.23763)|null|
