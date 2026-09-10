@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.09.09
+## Updated on 2026.09.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-09**|**CS-Guard: Benchmarking LLM Guardrails for Code Generation Security**|Jinyang Li et.al.|[2609.09798](http://arxiv.org/abs/2609.09798)|null|
+|**2026-09-09**|**Arbitrary Cipher Attacks Against Large Language Models Do Not Require Fine-Tuning**|Thomas Rivasseau et.al.|[2609.09553](http://arxiv.org/abs/2609.09553)|null|
+|**2026-09-08**|**DuplexJail: Safety Alignment Breaks Under Spoken Interruption in Full-Duplex Models**|Jaechul Roh et.al.|[2609.09420](http://arxiv.org/abs/2609.09420)|null|
 |**2026-09-08**|**Compositional Multilingual and Behavioral Attribute Steering**|Hyun Gu Kang et.al.|[2609.08410](http://arxiv.org/abs/2609.08410)|null|
 |**2026-09-08**|**Structural Jailbreaks Generalize but Do Not Compound: A cross-provider and multilingual study of Involuntary In-Context Learning**|Tejasvi C. Addagada et.al.|[2609.08373](http://arxiv.org/abs/2609.08373)|null|
 |**2026-09-08**|**Style Over Substance: Content-Invariant Wrappers Flip LLM Safety-Judge Verdicts**|Yongxi Zhou et.al.|[2609.08236](http://arxiv.org/abs/2609.08236)|null|
@@ -1139,6 +1142,8 @@ layout: default
 |**2002-05-07**|**The power spectrum of galaxies in the 2dF 100k redshift survey**|Max Tegmark et.al.|[astro-ph/0111575](http://arxiv.org/abs/astro-ph/0111575)|null|
 |**2001-05-21**|**Reconciliation of the Surface Brightness Fluctuations and Type Ia Supernovae Distance Scales**|Edward A. Ajhar et.al.|[astro-ph/0105366](http://arxiv.org/abs/astro-ph/0105366)|null|
 |**2002-02-27**|**Is cosmology consistent?**|Xiaomin Wang et.al.|[astro-ph/0105091](http://arxiv.org/abs/astro-ph/0105091)|null|
+|**2026-09-09**|**Belief-State Engine: Augmenting LLMs for Principled Planning Under Partial Observability**|Arnab Chattopadhayay et.al.|[2609.10036](http://arxiv.org/abs/2609.10036)|null|
+|**2026-09-09**|**Black-Box Red Teaming of Agentic AI: A Taxonomy-Driven Framework for Automated Risk Discovery**|Divyanshu Kumar et.al.|[2609.09647](http://arxiv.org/abs/2609.09647)|null|
 |**2026-09-08**|**PrivEscalate: Measuring and Augmenting the Threat of LLM-Automated Linux Privilege Escalation**|Yixuan Liu et.al.|[2609.09087](http://arxiv.org/abs/2609.09087)|null|
 |**2026-09-08**|**Structural Jailbreaks Generalize but Do Not Compound: A cross-provider and multilingual study of Involuntary In-Context Learning**|Tejasvi C. Addagada et.al.|[2609.08373](http://arxiv.org/abs/2609.08373)|null|
 |**2026-09-08**|**ACEA: An Adversarial Co-Evolution Arena for Head-to-Head Red-Team and Blue-Team LLM Testing**|Yi Ting Shen et.al.|[2609.08256](http://arxiv.org/abs/2609.08256)|null|
@@ -2026,6 +2031,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-09**|**How Fragile Is Safety Alignment at Frontier Scale? A Single-Direction Attack on a 320B MoE**|Yi Shi et.al.|[2609.09793](http://arxiv.org/abs/2609.09793)|null|
+|**2026-09-08**|**DuplexJail: Safety Alignment Breaks Under Spoken Interruption in Full-Duplex Models**|Jaechul Roh et.al.|[2609.09420](http://arxiv.org/abs/2609.09420)|null|
 |**2026-09-08**|**Suan: Rectifying Direct Preference Safety Alignment in Large Language Models**|Oleksandr Cherednichenko et.al.|[2609.08634](http://arxiv.org/abs/2609.08634)|null|
 |**2026-09-08**|**Structural Jailbreaks Generalize but Do Not Compound: A cross-provider and multilingual study of Involuntary In-Context Learning**|Tejasvi C. Addagada et.al.|[2609.08373](http://arxiv.org/abs/2609.08373)|null|
 |**2026-09-08**|**Style Over Substance: Content-Invariant Wrappers Flip LLM Safety-Judge Verdicts**|Yongxi Zhou et.al.|[2609.08236](http://arxiv.org/abs/2609.08236)|null|
@@ -2062,7 +2069,7 @@ layout: default
 |**2026-08-26**|**NeuronFuzz: Safety Neuron Guided Fuzzing for LLM Safety Evaluation**|Zhiyuan Xu et.al.|[2608.26222](http://arxiv.org/abs/2608.26222)|null|
 |**2026-08-26**|**MMJailBench: A Factorized Benchmark for Disentangling Multimodal Jailbreak Vulnerabilities**|Tianshi Wang et.al.|[2608.25490](http://arxiv.org/abs/2608.25490)|null|
 |**2026-08-25**|**Neurosymbolic Alignment for Physiologically-Safe Clinical Language Models**|Abdulhady Abas Abdullah et.al.|[2608.24534](http://arxiv.org/abs/2608.24534)|null|
-|**2026-08-25**|**'Ghaib in Translation' aka Unseen Harm: Measuring Cross-Script Safety Inconsistency with 'Missed-in-Urdu' Scores in LLM Hate Speech Detection**|Fawzia Zehra et.al.|[2608.24191](http://arxiv.org/abs/2608.24191)|null|
+|**2026-09-09**|**'Ghaib in Translation' aka Unseen Harm: Measuring Cross-Script Safety Inconsistency with 'Missed-in-Urdu' Scores in LLM Hate Speech Detection**|Fawzia Zehra et.al.|[2608.24191](http://arxiv.org/abs/2608.24191)|null|
 |**2026-08-25**|**NeuronGuard: Robust LLM Safety Alignment via Ablation-Aware Safety Signal Redistribution**|Anjun Gao et.al.|[2608.23959](http://arxiv.org/abs/2608.23959)|null|
 |**2026-08-23**|**Who Pays More for Safety? Measuring the Disparate Cost of Safety Alignment across Languages**|Chanwoong Yoon et.al.|[2608.22490](http://arxiv.org/abs/2608.22490)|null|
 |**2026-08-23**|**Register Shifts Break LLM Safety: A Bengali Benchmark with Culturally Grounded Harms**|Naymul Islam et.al.|[2608.22335](http://arxiv.org/abs/2608.22335)|null|
@@ -3144,6 +3151,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-09**|**Kernel-Managed Shared Memory for System-Wide Personalization**|Ryan Lum et.al.|[2609.10144](http://arxiv.org/abs/2609.10144)|null|
+|**2026-09-08**|**An Experimental Evaluation of Multimodal Prompt Injection Attacks on Agentic AI Frameworks**|Viet K. Nguyen et.al.|[2609.09404](http://arxiv.org/abs/2609.09404)|null|
 |**2026-09-08**|**Authority Is Not a String: A Capability-Scoped Harness for Prompt-Injection-Resistant Coding Agents**|Dimitrios Stamatios Bouras et.al.|[2609.08371](http://arxiv.org/abs/2609.08371)|null|
 |**2026-09-07**|**CoRL: Co-Evolutionary Reinforcement Learning for Adaptive Indirect Prompt-Injection Attacks and Defenses**|Boyang Zhang et.al.|[2609.07529](http://arxiv.org/abs/2609.07529)|null|
 |**2026-09-07**|**AgentDrift: A Step-Labeled Benchmark of Injection-Hijacked LLM Agent Trajectories**|Asif Pinjari et.al.|[2609.06972](http://arxiv.org/abs/2609.06972)|null|
@@ -4090,8 +4099,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-09**|**Keep Evaluation Fair: Detecting Data Leakage in Code Generation Benchmarks via Membership Inference Attacks**|Dongdong Zhao et.al.|[2609.09865](http://arxiv.org/abs/2609.09865)|null|
+|**2026-09-09**|**Subgroup Membership Inference Audits of Differentially Private Synthetic Text**|Yidan Sun et.al.|[2609.09848](http://arxiv.org/abs/2609.09848)|null|
 |**2026-09-08**|**The BatchNorm Illusion: Diagnosing Normalization Artifacts in Machine Unlearning Evaluation**|Aaryaman Kalani et.al.|[2609.08901](http://arxiv.org/abs/2609.08901)|null|
-|**2026-09-04**|**Characterizing Privacy Risks of Quantum Machine Learning with Emergent Quantum-Native Access**|Liou Tang et.al.|[2609.05702](http://arxiv.org/abs/2609.05702)|null|
+|**2026-09-09**|**Characterizing Privacy Risks of Quantum Machine Learning with Emergent Quantum-Native Access**|Liou Tang et.al.|[2609.05702](http://arxiv.org/abs/2609.05702)|null|
 |**2026-09-02**|**Differentially private federated learning with Byzantine-robust aggregation: A cross-domain framework for secure model training in banking and healthcare systems**|Srikumar Nayak et.al.|[2609.03064](http://arxiv.org/abs/2609.03064)|null|
 |**2026-09-01**|**Hearing the Whispers: Black-Box Membership Inference Attacks on Finetuned TTS Models**|Kunlin Cai et.al.|[2609.01723](http://arxiv.org/abs/2609.01723)|null|
 |**2026-08-31**|**Balancing Privacy, Utility, and Safety in LLM Alignment through Preference Optimization**|Dishu Yang et.al.|[2608.30141](http://arxiv.org/abs/2608.30141)|null|
