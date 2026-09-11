@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.09.10
+## Updated on 2026.09.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-08**|**Understanding In-Context Multimodal Jailbreaks via Posterior Reweighting**|Xu Zhang et.al.|[2609.10613](http://arxiv.org/abs/2609.10613)|null|
+|**2026-09-07**|**An Empirical Measurement of Jailbreaking Evaluators**|Yujie Mu et.al.|[2609.10594](http://arxiv.org/abs/2609.10594)|null|
 |**2026-09-09**|**CS-Guard: Benchmarking LLM Guardrails for Code Generation Security**|Jinyang Li et.al.|[2609.09798](http://arxiv.org/abs/2609.09798)|null|
 |**2026-09-09**|**Arbitrary Cipher Attacks Against Large Language Models Do Not Require Fine-Tuning**|Thomas Rivasseau et.al.|[2609.09553](http://arxiv.org/abs/2609.09553)|null|
 |**2026-09-08**|**DuplexJail: Safety Alignment Breaks Under Spoken Interruption in Full-Duplex Models**|Jaechul Roh et.al.|[2609.09420](http://arxiv.org/abs/2609.09420)|null|
@@ -2031,6 +2033,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**RAG-Safety-Bench: Reliable Evaluation of Retrieval-Augmented LLM Safety**|Adithiyan Rajan Indira Saravanan et.al.|[2609.11758](http://arxiv.org/abs/2609.11758)|null|
+|**2026-09-08**|**Understanding In-Context Multimodal Jailbreaks via Posterior Reweighting**|Xu Zhang et.al.|[2609.10613](http://arxiv.org/abs/2609.10613)|null|
 |**2026-09-09**|**How Fragile Is Safety Alignment at Frontier Scale? A Single-Direction Attack on a 320B MoE**|Yi Shi et.al.|[2609.09793](http://arxiv.org/abs/2609.09793)|null|
 |**2026-09-08**|**DuplexJail: Safety Alignment Breaks Under Spoken Interruption in Full-Duplex Models**|Jaechul Roh et.al.|[2609.09420](http://arxiv.org/abs/2609.09420)|null|
 |**2026-09-08**|**Suan: Rectifying Direct Preference Safety Alignment in Large Language Models**|Oleksandr Cherednichenko et.al.|[2609.08634](http://arxiv.org/abs/2609.08634)|null|
@@ -3151,6 +3155,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-09**|**DriftNet: A Dual-Head Trajectory Transformer for Detecting and Localizing Prompt Injection in LLM Agents**|Asif Pinjari et.al.|[2609.10892](http://arxiv.org/abs/2609.10892)|null|
+|**2026-09-09**|**No-Box Vulnerability Analysis: Description-only Detection of Indirect Prompt Injection Vulnerabilities in MCP Servers**|Zehua Zhang et.al.|[2609.10854](http://arxiv.org/abs/2609.10854)|null|
+|**2026-09-09**|**Architecting the Secure AI-SOC: A Neurosymbolic Framework for Pipeline Integrity and Threat Mitigation**|Anna Gazani et.al.|[2609.10707](http://arxiv.org/abs/2609.10707)|null|
 |**2026-09-09**|**Kernel-Managed Shared Memory for System-Wide Personalization**|Ryan Lum et.al.|[2609.10144](http://arxiv.org/abs/2609.10144)|null|
 |**2026-09-08**|**An Experimental Evaluation of Multimodal Prompt Injection Attacks on Agentic AI Frameworks**|Viet K. Nguyen et.al.|[2609.09404](http://arxiv.org/abs/2609.09404)|null|
 |**2026-09-08**|**Authority Is Not a String: A Capability-Scoped Harness for Prompt-Injection-Resistant Coding Agents**|Dimitrios Stamatios Bouras et.al.|[2609.08371](http://arxiv.org/abs/2609.08371)|null|
@@ -4099,6 +4106,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**Predicting Privacy Leakage from Weight Spectral Density**|Richard J. Preen et.al.|[2609.11780](http://arxiv.org/abs/2609.11780)|null|
+|**2026-09-10**|**Empirical Evaluation of Membership Inference Attacks on NLP Text Classifiers: A Baseline Study on SST-2**|William Novak et.al.|[2609.10935](http://arxiv.org/abs/2609.10935)|null|
+|**2026-09-08**|**Black-Box Membership Inference via Word-Level Probability Estimation**|Shengjie Niu et.al.|[2609.10611](http://arxiv.org/abs/2609.10611)|null|
+|**2026-09-08**|**Adaptive Diffusion Freezing: Privacy-preserving Diffusion Models Against Membership Inference Attacks**|Jialu Guo et.al.|[2609.10608](http://arxiv.org/abs/2609.10608)|null|
 |**2026-09-09**|**Keep Evaluation Fair: Detecting Data Leakage in Code Generation Benchmarks via Membership Inference Attacks**|Dongdong Zhao et.al.|[2609.09865](http://arxiv.org/abs/2609.09865)|null|
 |**2026-09-09**|**Subgroup Membership Inference Audits of Differentially Private Synthetic Text**|Yidan Sun et.al.|[2609.09848](http://arxiv.org/abs/2609.09848)|null|
 |**2026-09-08**|**The BatchNorm Illusion: Diagnosing Normalization Artifacts in Machine Unlearning Evaluation**|Aaryaman Kalani et.al.|[2609.08901](http://arxiv.org/abs/2609.08901)|null|
