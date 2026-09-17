@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.09.16
+## Updated on 2026.09.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-16**|**Beyond Routine Compliance: Cunning Data Cultivates Safety Vigilance in Large Language Models**|Youjia Wang et.al.|[2609.18515](http://arxiv.org/abs/2609.18515)|null|
 |**2026-09-15**|**Can We Stop The Ads? Taxonomy and Characterization of Smartphone Splash Ads and Existing Countermeasures**|Shuhao Zhang et.al.|[2609.17316](http://arxiv.org/abs/2609.17316)|null|
 |**2026-09-14**|**Divide, Consult, Conquer: Capability Laundering Through Aligned LLMs**|Mark Russinovich et.al.|[2609.15383](http://arxiv.org/abs/2609.15383)|null|
 |**2026-09-13**|**Another Blueprint In The Wall: How to Ask Frontier AI Like a Kid?**|Afshin Khadangi et.al.|[2609.14803](http://arxiv.org/abs/2609.14803)|null|
@@ -1171,7 +1172,7 @@ layout: default
 |**2026-08-28**|**Recognition Without Enforcement: Configuration-Dependent Failures in LLM Agent Instruction Arbitration and External Control**|Jun Wen Leong et.al.|[2608.28502](http://arxiv.org/abs/2608.28502)|null|
 |**2026-08-27**|**If Agents Were Angels, No Governance Would Be Necessary: Out-of-Band Policy Enforcement at a Trusted Tool Boundary**|Marc Millstone et.al.|[2608.27646](http://arxiv.org/abs/2608.27646)|null|
 |**2026-09-06**|**RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution**|Junjie Zhang et.al.|[2608.27439](http://arxiv.org/abs/2608.27439)|null|
-|**2026-09-03**|**Safety Does Not Compose: Non-Decaying Loop State for Autonomous LLM Agents**|Chenhao Wu et.al.|[2608.27141](http://arxiv.org/abs/2608.27141)|null|
+|**2026-09-16**|**Safety Does Not Compose: Non-Decaying Loop State for Autonomous LLM Agents**|Chenhao Wu et.al.|[2608.27141](http://arxiv.org/abs/2608.27141)|null|
 |**2026-08-26**|**Confidently Wrong, Silently So: Auditing Undetectable Failures of a Deployed On-Device Language Model**|Shashwat Pandey et.al.|[2608.23663](http://arxiv.org/abs/2608.23663)|null|
 |**2026-08-24**|**PsychJail: Exploring Psychological Jailbreaks via Multi-Turn Persuasion of LLM Policies**|Zeyu Feng et.al.|[2608.23028](http://arxiv.org/abs/2608.23028)|null|
 |**2026-08-16**|**Agentic Security: A Systematization of Tools, Failure Modes, and Design Laws for LLM-Driven Penetration Testing**|Israt Moyeen Noumi et.al.|[2608.21423](http://arxiv.org/abs/2608.21423)|null|
@@ -2044,6 +2045,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-16**|**Beyond Routine Compliance: Cunning Data Cultivates Safety Vigilance in Large Language Models**|Youjia Wang et.al.|[2609.18515](http://arxiv.org/abs/2609.18515)|null|
+|**2026-09-16**|**First Token Matters: Understanding Safety Collapse in Large Reasoning Models**|Yizheng Yang et.al.|[2609.18471](http://arxiv.org/abs/2609.18471)|null|
 |**2026-09-14**|**Decoy Direction Optimization: A Post-Hoc Defense Against LLM Abliteration**|Aashiq Muhamed et.al.|[2609.16204](http://arxiv.org/abs/2609.16204)|null|
 |**2026-09-02**|**ShieldVLA: Feasibility-Aware Safety Alignment for Vision-Language-Action Models**|Manan Tayal et.al.|[2609.13231](http://arxiv.org/abs/2609.13231)|null|
 |**2026-09-11**|**SoK: Rethinking Jailbreaking in the Era of Agentic AI: Attacks, Defenses, and Practical Consideration**|Md Jueal Mia et.al.|[2609.12413](http://arxiv.org/abs/2609.12413)|null|
@@ -3169,6 +3172,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-16**|**AgentLSD: Evaluating AI Security Agents Under Adversarial Task Contamination**|Matteo Golinelli et.al.|[2609.19140](http://arxiv.org/abs/2609.19140)|null|
+|**2026-09-16**|**CaMeLoT: CaMeL orchestrated with Temporal logic for static verification and liveness**|Elia Nikolaou et.al.|[2609.18674](http://arxiv.org/abs/2609.18674)|null|
+|**2026-09-16**|**The Verifiable Action Card: Trustworthy Human-in-the-Loop Control for Secure Autonomous Agents**|Hasnain Irshad et.al.|[2609.18411](http://arxiv.org/abs/2609.18411)|null|
+|**2026-09-15**|**Trust propagation and structural containment in Multi-agent LLM pipelines**|Tanzim Hossain Safin et.al.|[2609.17648](http://arxiv.org/abs/2609.17648)|null|
 |**2026-09-15**|**Emergence World: Adversarial Stress-Testing of Long-Horizon Multi-Agent Systems**|Deepak Akkil et.al.|[2609.17320](http://arxiv.org/abs/2609.17320)|null|
 |**2026-09-14**|**Universal Defenses for Tool-Integrated LLM Agents Against Adversarial Attacks**|Xiaoyan Li et.al.|[2609.16098](http://arxiv.org/abs/2609.16098)|null|
 |**2026-09-14**|**Authorization Architectures for Tool-Using AI Agents**|Rakesh Kumar Surapani et.al.|[2609.15906](http://arxiv.org/abs/2609.15906)|null|
@@ -4979,6 +4986,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-16**|**Measuring and Exploiting Implicit Trust in LLM Tool-Calling Pipelines**|Murali Ediga et.al.|[2609.18217](http://arxiv.org/abs/2609.18217)|null|
 |**2026-08-18**|**When Agents Act on Web3: An Attack-Surface Survey of MCP, Skills, and Tool Calling**|Rabimba Karanjai et.al.|[2608.17275](http://arxiv.org/abs/2608.17275)|null|
 |**2026-07-31**|**Exposed by Design: A Dynamic Security Assessment of Internet-Facing MCP Servers at Scale**|Nicolás Padilla et.al.|[2608.00150](http://arxiv.org/abs/2608.00150)|null|
 |**2026-07-16**|**FlowGuard: From Signals to Evidence for MCP Security Detection**|Baichao An et.al.|[2607.14754](http://arxiv.org/abs/2607.14754)|null|
