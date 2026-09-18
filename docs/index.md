@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.17
+## Updated on 2026.09.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
@@ -1152,6 +1152,7 @@ layout: default
 |**2002-05-07**|**The power spectrum of galaxies in the 2dF 100k redshift survey**|Max Tegmark et.al.|[astro-ph/0111575](http://arxiv.org/abs/astro-ph/0111575)|null|
 |**2001-05-21**|**Reconciliation of the Surface Brightness Fluctuations and Type Ia Supernovae Distance Scales**|Edward A. Ajhar et.al.|[astro-ph/0105366](http://arxiv.org/abs/astro-ph/0105366)|null|
 |**2002-02-27**|**Is cosmology consistent?**|Xiaomin Wang et.al.|[astro-ph/0105091](http://arxiv.org/abs/astro-ph/0105091)|null|
+|**2026-09-17**|**Red-Teaming Auto Mode: Improving Blocking Classifiers Against Malign Coding Agents**|Alex Remedios et.al.|[2609.19587](http://arxiv.org/abs/2609.19587)|null|
 |**2026-09-15**|**Benchmarking Factual Robustness of LLMs via Multi-conversation Persuasion**|Zhuoang Cai et.al.|[2609.16777](http://arxiv.org/abs/2609.16777)|null|
 |**2026-09-15**|**A Cyber Range Evaluation of Autonomous Network Incident Response Agents**|Jakob Nyberg et.al.|[2609.16541](http://arxiv.org/abs/2609.16541)|null|
 |**2026-09-11**|**Mind the Gap: Detecting Description-Execution Mismatch Attacks in DAO Governance**|Bowen Cai et.al.|[2609.13601](http://arxiv.org/abs/2609.13601)|null|
@@ -2045,6 +2046,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-17**|**Local Sparsity Enables Unsupervised LLM Safety Detection**|Xin Chen et.al.|[2609.20129](http://arxiv.org/abs/2609.20129)|null|
+|**2026-09-17**|**From Intent to Action: Benchmarking LLM Safety in Vehicle Voice Command Authorization**|Diba Afroze et.al.|[2609.19630](http://arxiv.org/abs/2609.19630)|null|
+|**2026-09-16**|**The Role of Fine-grained Harm Signals in LLM Safety**|Soyeon Park et.al.|[2609.19366](http://arxiv.org/abs/2609.19366)|null|
+|**2026-09-16**|**AUDITPLAN: Commit, Then Answer for Auditable Safety Alignment**|Sai Sri Pushpa Jampani et.al.|[2609.19325](http://arxiv.org/abs/2609.19325)|null|
 |**2026-09-16**|**Beyond Routine Compliance: Cunning Data Cultivates Safety Vigilance in Large Language Models**|Youjia Wang et.al.|[2609.18515](http://arxiv.org/abs/2609.18515)|null|
 |**2026-09-16**|**First Token Matters: Understanding Safety Collapse in Large Reasoning Models**|Yizheng Yang et.al.|[2609.18471](http://arxiv.org/abs/2609.18471)|null|
 |**2026-09-14**|**Decoy Direction Optimization: A Post-Hoc Defense Against LLM Abliteration**|Aashiq Muhamed et.al.|[2609.16204](http://arxiv.org/abs/2609.16204)|null|
@@ -3172,6 +3177,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-17**|**Deep Noir: Autonomous Steering Discovery via Architectural Chronometry in Transformer Models**|Frank E. Bobe et.al.|[2609.20722](http://arxiv.org/abs/2609.20722)|null|
+|**2026-09-17**|**Red-Teaming Auto Mode: Improving Blocking Classifiers Against Malign Coding Agents**|Alex Remedios et.al.|[2609.19587](http://arxiv.org/abs/2609.19587)|null|
 |**2026-09-16**|**AgentLSD: Evaluating AI Security Agents Under Adversarial Task Contamination**|Matteo Golinelli et.al.|[2609.19140](http://arxiv.org/abs/2609.19140)|null|
 |**2026-09-16**|**CaMeLoT: CaMeL orchestrated with Temporal logic for static verification and liveness**|Elia Nikolaou et.al.|[2609.18674](http://arxiv.org/abs/2609.18674)|null|
 |**2026-09-16**|**The Verifiable Action Card: Trustworthy Human-in-the-Loop Control for Secure Autonomous Agents**|Hasnain Irshad et.al.|[2609.18411](http://arxiv.org/abs/2609.18411)|null|
@@ -3187,7 +3194,7 @@ layout: default
 |**2026-09-11**|**The Agentic Company OS: Substrate Inversion for Sustained Enterprise Agent Deployment**|Oliver Aleksander Larsen et.al.|[2609.13334](http://arxiv.org/abs/2609.13334)|null|
 |**2026-09-08**|**The Computational Primitives of Adaptation**|Jonathan W. Page et.al.|[2609.11989](http://arxiv.org/abs/2609.11989)|null|
 |**2026-09-09**|**DriftNet: A Dual-Head Trajectory Transformer for Detecting and Localizing Prompt Injection in LLM Agents**|Asif Pinjari et.al.|[2609.10892](http://arxiv.org/abs/2609.10892)|null|
-|**2026-09-09**|**No-Box Vulnerability Analysis: Description-only Detection of Indirect Prompt Injection Vulnerabilities in MCP Servers**|Zehua Zhang et.al.|[2609.10854](http://arxiv.org/abs/2609.10854)|null|
+|**2026-09-16**|**No-Box Vulnerability Analysis: Description-only Detection of Indirect Prompt Injection Vulnerabilities in MCP Servers**|Zehua Zhang et.al.|[2609.10854](http://arxiv.org/abs/2609.10854)|null|
 |**2026-09-09**|**Architecting the Secure AI-SOC: A Neurosymbolic Framework for Pipeline Integrity and Threat Mitigation**|Anna Gazani et.al.|[2609.10707](http://arxiv.org/abs/2609.10707)|null|
 |**2026-09-09**|**Kernel-Managed Shared Memory for System-Wide Personalization**|Ryan Lum et.al.|[2609.10144](http://arxiv.org/abs/2609.10144)|null|
 |**2026-09-08**|**An Experimental Evaluation of Multimodal Prompt Injection Attacks on Agentic AI Frameworks**|Viet K. Nguyen et.al.|[2609.09404](http://arxiv.org/abs/2609.09404)|null|
@@ -4986,6 +4993,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-17**|**SoK: Trading Agents or Market Crashers? Dissecting Robustness and Security Failures in Academic Financial LLM Trading Schemes**|Mengxiao Wang et.al.|[2609.19705](http://arxiv.org/abs/2609.19705)|null|
 |**2026-09-16**|**Measuring and Exploiting Implicit Trust in LLM Tool-Calling Pipelines**|Murali Ediga et.al.|[2609.18217](http://arxiv.org/abs/2609.18217)|null|
 |**2026-08-18**|**When Agents Act on Web3: An Attack-Surface Survey of MCP, Skills, and Tool Calling**|Rabimba Karanjai et.al.|[2608.17275](http://arxiv.org/abs/2608.17275)|null|
 |**2026-07-31**|**Exposed by Design: A Dynamic Security Assessment of Internet-Facing MCP Servers at Scale**|Nicolás Padilla et.al.|[2608.00150](http://arxiv.org/abs/2608.00150)|null|
