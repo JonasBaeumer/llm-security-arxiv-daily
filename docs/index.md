@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.09.20
+## Updated on 2026.09.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-18**|**CASCADE Against Jailbreaks: Combination Across Stages with Controlled Attack-Defense Evaluation**|Jiale Luo et.al.|[2609.21793](http://arxiv.org/abs/2609.21793)|null|
+|**2026-09-18**|**HE-Guardrail: A Homomorphic Guardrail Against Jailbreak Attacks for Encrypted Large Language Model Inference**|Byeongseo Min et.al.|[2609.21484](http://arxiv.org/abs/2609.21484)|null|
+|**2026-09-18**|**Hiding in Plain Sight: A Diffusion-based Mitigation of Geolocation Privacy Leakage in Vision-Language Models**|Yining Wang et.al.|[2609.21363](http://arxiv.org/abs/2609.21363)|null|
 |**2026-09-16**|**Beyond Routine Compliance: Cunning Data Cultivates Safety Vigilance in Large Language Models**|Youjia Wang et.al.|[2609.18515](http://arxiv.org/abs/2609.18515)|null|
 |**2026-09-15**|**Can We Stop The Ads? Taxonomy and Characterization of Smartphone Splash Ads and Existing Countermeasures**|Shuhao Zhang et.al.|[2609.17316](http://arxiv.org/abs/2609.17316)|null|
 |**2026-09-14**|**Divide, Consult, Conquer: Capability Laundering Through Aligned LLMs**|Mark Russinovich et.al.|[2609.15383](http://arxiv.org/abs/2609.15383)|null|
@@ -1152,6 +1155,7 @@ layout: default
 |**2002-05-07**|**The power spectrum of galaxies in the 2dF 100k redshift survey**|Max Tegmark et.al.|[astro-ph/0111575](http://arxiv.org/abs/astro-ph/0111575)|null|
 |**2001-05-21**|**Reconciliation of the Surface Brightness Fluctuations and Type Ia Supernovae Distance Scales**|Edward A. Ajhar et.al.|[astro-ph/0105366](http://arxiv.org/abs/astro-ph/0105366)|null|
 |**2002-02-27**|**Is cosmology consistent?**|Xiaomin Wang et.al.|[astro-ph/0105091](http://arxiv.org/abs/astro-ph/0105091)|null|
+|**2026-09-17**|**TPM-Attest: Hardware-Rooted Integrity Attestation as a Kernel-Level Anti-Cheat Alternative for Linux**|Anudeep Gedela et.al.|[2609.20909](http://arxiv.org/abs/2609.20909)|null|
 |**2026-09-17**|**Red-Teaming Auto Mode: Improving Blocking Classifiers Against Malign Coding Agents**|Alex Remedios et.al.|[2609.19587](http://arxiv.org/abs/2609.19587)|null|
 |**2026-09-15**|**Benchmarking Factual Robustness of LLMs via Multi-conversation Persuasion**|Zhuoang Cai et.al.|[2609.16777](http://arxiv.org/abs/2609.16777)|null|
 |**2026-09-15**|**A Cyber Range Evaluation of Autonomous Network Incident Response Agents**|Jakob Nyberg et.al.|[2609.16541](http://arxiv.org/abs/2609.16541)|null|
@@ -2046,9 +2050,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-17**|**SAGE: Safety-Aligned Gradient Enforcement for Human--Robot Collaboration**|Yisen Li et.al.|[2609.21130](http://arxiv.org/abs/2609.21130)|null|
+|**2026-09-17**|**Origin Is All You Need: Provenance-Aware Transformers for Structural Trust-Boundary Separation**|Yuxuan Zhang et.al.|[2609.21088](http://arxiv.org/abs/2609.21088)|null|
 |**2026-09-17**|**Local Sparsity Enables Unsupervised LLM Safety Detection**|Xin Chen et.al.|[2609.20129](http://arxiv.org/abs/2609.20129)|null|
 |**2026-09-17**|**From Intent to Action: Benchmarking LLM Safety in Vehicle Voice Command Authorization**|Diba Afroze et.al.|[2609.19630](http://arxiv.org/abs/2609.19630)|null|
-|**2026-09-16**|**The Role of Fine-grained Harm Signals in LLM Safety**|Soyeon Park et.al.|[2609.19366](http://arxiv.org/abs/2609.19366)|null|
+|**2026-09-18**|**The Role of Fine-grained Harm Signals in LLM Safety**|Soyeon Park et.al.|[2609.19366](http://arxiv.org/abs/2609.19366)|null|
 |**2026-09-16**|**AUDITPLAN: Commit, Then Answer for Auditable Safety Alignment**|Sai Sri Pushpa Jampani et.al.|[2609.19325](http://arxiv.org/abs/2609.19325)|null|
 |**2026-09-16**|**Beyond Routine Compliance: Cunning Data Cultivates Safety Vigilance in Large Language Models**|Youjia Wang et.al.|[2609.18515](http://arxiv.org/abs/2609.18515)|null|
 |**2026-09-16**|**First Token Matters: Understanding Safety Collapse in Large Reasoning Models**|Yizheng Yang et.al.|[2609.18471](http://arxiv.org/abs/2609.18471)|null|
@@ -3177,6 +3183,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-17**|**Origin Is All You Need: Provenance-Aware Transformers for Structural Trust-Boundary Separation**|Yuxuan Zhang et.al.|[2609.21088](http://arxiv.org/abs/2609.21088)|null|
 |**2026-09-17**|**Deep Noir: Autonomous Steering Discovery via Architectural Chronometry in Transformer Models**|Frank E. Bobe et.al.|[2609.20722](http://arxiv.org/abs/2609.20722)|null|
 |**2026-09-17**|**Red-Teaming Auto Mode: Improving Blocking Classifiers Against Malign Coding Agents**|Alex Remedios et.al.|[2609.19587](http://arxiv.org/abs/2609.19587)|null|
 |**2026-09-16**|**AgentLSD: Evaluating AI Security Agents Under Adversarial Task Contamination**|Matteo Golinelli et.al.|[2609.19140](http://arxiv.org/abs/2609.19140)|null|

@@ -1,4 +1,4 @@
-## Updated on 2026.09.20
+## Updated on 2026.09.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,6 +21,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-18**|**CASCADE Against Jailbreaks: Combination Across Stages with Controlled Attack-Defense Evaluation**|Jiale Luo et.al.|[2609.21793](http://arxiv.org/abs/2609.21793)|null|
+|**2026-09-18**|**HE-Guardrail: A Homomorphic Guardrail Against Jailbreak Attacks for Encrypted Large Language Model Inference**|Byeongseo Min et.al.|[2609.21484](http://arxiv.org/abs/2609.21484)|null|
+|**2026-09-18**|**Hiding in Plain Sight: A Diffusion-based Mitigation of Geolocation Privacy Leakage in Vision-Language Models**|Yining Wang et.al.|[2609.21363](http://arxiv.org/abs/2609.21363)|null|
 |**2026-09-16**|**Beyond Routine Compliance: Cunning Data Cultivates Safety Vigilance in Large Language Models**|Youjia Wang et.al.|[2609.18515](http://arxiv.org/abs/2609.18515)|null|
 |**2026-09-15**|**Can We Stop The Ads? Taxonomy and Characterization of Smartphone Splash Ads and Existing Countermeasures**|Shuhao Zhang et.al.|[2609.17316](http://arxiv.org/abs/2609.17316)|null|
 |**2026-09-14**|**Divide, Consult, Conquer: Capability Laundering Through Aligned LLMs**|Mark Russinovich et.al.|[2609.15383](http://arxiv.org/abs/2609.15383)|null|
@@ -1149,7 +1152,7 @@
 |**2025-05-16**|**CARES: Comprehensive Evaluation of Safety and Adversarial Robustness in Medical LLMs**|Sijia Chen et.al.|[2505.11413](http://arxiv.org/abs/2505.11413)|null|
 |**2025-05-16**|**LARGO: Latent Adversarial Reflection through Gradient Optimization for Jailbreaking LLMs**|Ran Li et.al.|[2505.10838](http://arxiv.org/abs/2505.10838)|null|
 
-<p align=right>(<a href=#updated-on-20260920>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
 
 ## Red Teaming
 
@@ -1166,6 +1169,7 @@
 |**2002-05-07**|**The power spectrum of galaxies in the 2dF 100k redshift survey**|Max Tegmark et.al.|[astro-ph/0111575](http://arxiv.org/abs/astro-ph/0111575)|null|
 |**2001-05-21**|**Reconciliation of the Surface Brightness Fluctuations and Type Ia Supernovae Distance Scales**|Edward A. Ajhar et.al.|[astro-ph/0105366](http://arxiv.org/abs/astro-ph/0105366)|null|
 |**2002-02-27**|**Is cosmology consistent?**|Xiaomin Wang et.al.|[astro-ph/0105091](http://arxiv.org/abs/astro-ph/0105091)|null|
+|**2026-09-17**|**TPM-Attest: Hardware-Rooted Integrity Attestation as a Kernel-Level Anti-Cheat Alternative for Linux**|Anudeep Gedela et.al.|[2609.20909](http://arxiv.org/abs/2609.20909)|null|
 |**2026-09-17**|**Red-Teaming Auto Mode: Improving Blocking Classifiers Against Malign Coding Agents**|Alex Remedios et.al.|[2609.19587](http://arxiv.org/abs/2609.19587)|null|
 |**2026-09-15**|**Benchmarking Factual Robustness of LLMs via Multi-conversation Persuasion**|Zhuoang Cai et.al.|[2609.16777](http://arxiv.org/abs/2609.16777)|null|
 |**2026-09-15**|**A Cyber Range Evaluation of Autonomous Network Incident Response Agents**|Jakob Nyberg et.al.|[2609.16541](http://arxiv.org/abs/2609.16541)|null|
@@ -2056,15 +2060,17 @@
 |**2008-06-27**|**Predicting the Yields of Photometric Surveys for Transiting Extrasolar Planets**|Thomas G. Beatty et.al.|[0804.1150](http://arxiv.org/abs/0804.1150)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260920>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
 
 ## LLM Safety Alignment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-17**|**SAGE: Safety-Aligned Gradient Enforcement for Human--Robot Collaboration**|Yisen Li et.al.|[2609.21130](http://arxiv.org/abs/2609.21130)|null|
+|**2026-09-17**|**Origin Is All You Need: Provenance-Aware Transformers for Structural Trust-Boundary Separation**|Yuxuan Zhang et.al.|[2609.21088](http://arxiv.org/abs/2609.21088)|null|
 |**2026-09-17**|**Local Sparsity Enables Unsupervised LLM Safety Detection**|Xin Chen et.al.|[2609.20129](http://arxiv.org/abs/2609.20129)|null|
 |**2026-09-17**|**From Intent to Action: Benchmarking LLM Safety in Vehicle Voice Command Authorization**|Diba Afroze et.al.|[2609.19630](http://arxiv.org/abs/2609.19630)|null|
-|**2026-09-16**|**The Role of Fine-grained Harm Signals in LLM Safety**|Soyeon Park et.al.|[2609.19366](http://arxiv.org/abs/2609.19366)|null|
+|**2026-09-18**|**The Role of Fine-grained Harm Signals in LLM Safety**|Soyeon Park et.al.|[2609.19366](http://arxiv.org/abs/2609.19366)|null|
 |**2026-09-16**|**AUDITPLAN: Commit, Then Answer for Auditable Safety Alignment**|Sai Sri Pushpa Jampani et.al.|[2609.19325](http://arxiv.org/abs/2609.19325)|null|
 |**2026-09-16**|**Beyond Routine Compliance: Cunning Data Cultivates Safety Vigilance in Large Language Models**|Youjia Wang et.al.|[2609.18515](http://arxiv.org/abs/2609.18515)|null|
 |**2026-09-16**|**First Token Matters: Understanding Safety Collapse in Large Reasoning Models**|Yizheng Yang et.al.|[2609.18471](http://arxiv.org/abs/2609.18471)|null|
@@ -3189,12 +3195,13 @@
 |**2025-03-10**|**Graphormer-Guided Task Planning: Beyond Static Rules with LLM Safety Perception**|Wanjing Huang et.al.|[2503.06866](http://arxiv.org/abs/2503.06866)|null|
 |**2026-05-08**|**RedDiffuser: Auditing Multimodal Safety Failures in Vision-Language Models via Reinforced Diffusion**|Ruofan Wang et.al.|[2503.06223](http://arxiv.org/abs/2503.06223)|null|
 
-<p align=right>(<a href=#updated-on-20260920>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
 
 ## Prompt Injection (OWASP LLM01)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-17**|**Origin Is All You Need: Provenance-Aware Transformers for Structural Trust-Boundary Separation**|Yuxuan Zhang et.al.|[2609.21088](http://arxiv.org/abs/2609.21088)|null|
 |**2026-09-17**|**Deep Noir: Autonomous Steering Discovery via Architectural Chronometry in Transformer Models**|Frank E. Bobe et.al.|[2609.20722](http://arxiv.org/abs/2609.20722)|null|
 |**2026-09-17**|**Red-Teaming Auto Mode: Improving Blocking Classifiers Against Malign Coding Agents**|Alex Remedios et.al.|[2609.19587](http://arxiv.org/abs/2609.19587)|null|
 |**2026-09-16**|**AgentLSD: Evaluating AI Security Agents Under Adversarial Task Contamination**|Matteo Golinelli et.al.|[2609.19140](http://arxiv.org/abs/2609.19140)|null|
@@ -4158,7 +4165,7 @@
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|null|
 |**2017-09-29**|**Hydrogen-rich supernovae beyond the neutrino-driven core-collapse paradigm**|G. Terreran et.al.|[1709.10475](http://arxiv.org/abs/1709.10475)|null|
 
-<p align=right>(<a href=#updated-on-20260920>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
 
 ## Sensitive Information Disclosure (OWASP LLM02)
 
@@ -5002,7 +5009,7 @@
 |**2018-08-21**|**LOGAN: Membership Inference Attacks Against Generative Models**|Jamie Hayes et.al.|[1705.07663](http://arxiv.org/abs/1705.07663)|null|
 |**2017-03-31**|**Membership Inference Attacks against Machine Learning Models**|Reza Shokri et.al.|[1610.05820](http://arxiv.org/abs/1610.05820)|null|
 
-<p align=right>(<a href=#updated-on-20260920>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
 
 ## Supply Chain (OWASP LLM03)
 
@@ -5011,7 +5018,7 @@
 |**2025-07-24**|**Understanding the Supply Chain and Risks of Large Language Model Applications**|Yujie Ma et.al.|[2507.18105](http://arxiv.org/abs/2507.18105)|null|
 |**2026-04-02**|**Robot Collapse: Supply Chain Backdoor Attacks Against VLM-based Robotic Manipulation**|Xianlong Wang et.al.|[2411.11683](http://arxiv.org/abs/2411.11683)|null|
 
-<p align=right>(<a href=#updated-on-20260920>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
 
 ## Excessive Agency and Agentic Security (OWASP LLM06)
 
@@ -5052,7 +5059,7 @@
 |**2025-07-05**|**We Urgently Need Privilege Management in MCP: A Measurement of API Usage in MCP Ecosystems**|Zhihao Li et.al.|[2507.06250](http://arxiv.org/abs/2507.06250)|null|
 |**2025-09-14**|**Beyond the Protocol: Unveiling Attack Vectors in the Model Context Protocol (MCP) Ecosystem**|Hao Song et.al.|[2506.02040](http://arxiv.org/abs/2506.02040)|null|
 
-<p align=right>(<a href=#updated-on-20260920>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
 
 ## System Prompt Leakage (OWASP LLM07)
 
@@ -5071,7 +5078,7 @@
 |**2025-08-08**|**LeakAgent: RL-based Red-teaming Agent for LLM Privacy Leakage**|Yuzhou Nie et.al.|[2412.05734](http://arxiv.org/abs/2412.05734)|null|
 |**2024-01-20**|**Jailbreaking GPT-4V via Self-Adversarial Attacks with System Prompts**|Yuanwei Wu et.al.|[2311.09127](http://arxiv.org/abs/2311.09127)|null|
 
-<p align=right>(<a href=#updated-on-20260920>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
 
 ## Vector and Embedding Weaknesses / RAG Security (OWASP LLM08)
 
@@ -5117,7 +5124,7 @@
 |**2018-03-26**|**Rogue Signs: Deceiving Traffic Sign Recognition with Malicious Ads and Logos**|Chawin Sitawarin et.al.|[1801.02780](http://arxiv.org/abs/1801.02780)|null|
 |**2017-04-11**|**A Robust Blind Watermarking Using Convolutional Neural Network**|Seung-Min Mun et.al.|[1704.03248](http://arxiv.org/abs/1704.03248)|null|
 
-<p align=right>(<a href=#updated-on-20260920>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
 
 ## Unbounded Consumption (OWASP LLM10)
 
@@ -5125,7 +5132,7 @@
 |---|---|---|---|---|
 |**2025-05-26**|**Crabs: Consuming Resource via Auto-generation for LLM-DoS Attack under Black-box Settings**|Yuanhe Zhang et.al.|[2412.13879](http://arxiv.org/abs/2412.13879)|null|
 
-<p align=right>(<a href=#updated-on-20260920>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
