@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.09.21
+## Updated on 2026.09.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**Decoding Guardrails: XAI-Guided Perturbation Analysis of Prompt Injection Detection**|Fernando Outeda et.al.|[2609.24801](http://arxiv.org/abs/2609.24801)|null|
+|**2026-09-20**|**On the Efficiency-Safety Dilemma in Large Reasoning Models**|Yifei Yang et.al.|[2609.23587](http://arxiv.org/abs/2609.23587)|null|
 |**2026-09-18**|**CASCADE Against Jailbreaks: Combination Across Stages with Controlled Attack-Defense Evaluation**|Jiale Luo et.al.|[2609.21793](http://arxiv.org/abs/2609.21793)|null|
 |**2026-09-18**|**HE-Guardrail: A Homomorphic Guardrail Against Jailbreak Attacks for Encrypted Large Language Model Inference**|Byeongseo Min et.al.|[2609.21484](http://arxiv.org/abs/2609.21484)|null|
 |**2026-09-18**|**Hiding in Plain Sight: A Diffusion-based Mitigation of Geolocation Privacy Leakage in Vision-Language Models**|Yining Wang et.al.|[2609.21363](http://arxiv.org/abs/2609.21363)|null|
@@ -1155,6 +1157,7 @@ layout: default
 |**2002-05-07**|**The power spectrum of galaxies in the 2dF 100k redshift survey**|Max Tegmark et.al.|[astro-ph/0111575](http://arxiv.org/abs/astro-ph/0111575)|null|
 |**2001-05-21**|**Reconciliation of the Surface Brightness Fluctuations and Type Ia Supernovae Distance Scales**|Edward A. Ajhar et.al.|[astro-ph/0105366](http://arxiv.org/abs/astro-ph/0105366)|null|
 |**2002-02-27**|**Is cosmology consistent?**|Xiaomin Wang et.al.|[astro-ph/0105091](http://arxiv.org/abs/astro-ph/0105091)|null|
+|**2026-09-20**|**Connecting the Dots in Agentic AI Security: A Cross-Dimensional Threat Taxonomy, Evaluation Maturity, and Open Challenges**|Heewon Baek et.al.|[2609.23894](http://arxiv.org/abs/2609.23894)|null|
 |**2026-09-17**|**TPM-Attest: Hardware-Rooted Integrity Attestation as a Kernel-Level Anti-Cheat Alternative for Linux**|Anudeep Gedela et.al.|[2609.20909](http://arxiv.org/abs/2609.20909)|null|
 |**2026-09-17**|**Red-Teaming Auto Mode: Improving Blocking Classifiers Against Malign Coding Agents**|Alex Remedios et.al.|[2609.19587](http://arxiv.org/abs/2609.19587)|null|
 |**2026-09-15**|**Benchmarking Factual Robustness of LLMs via Multi-conversation Persuasion**|Zhuoang Cai et.al.|[2609.16777](http://arxiv.org/abs/2609.16777)|null|
@@ -2050,6 +2053,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**A $^2$ Safe: Counterfactual Evidence-Aligned Adaptive Agent Collaboration for Safe and Effective Visual Question Answering**|Quanxing Xu et.al.|[2609.24098](http://arxiv.org/abs/2609.24098)|null|
+|**2026-09-20**|**On the Efficiency-Safety Dilemma in Large Reasoning Models**|Yifei Yang et.al.|[2609.23587](http://arxiv.org/abs/2609.23587)|null|
+|**2026-09-19**|**Diversity-Guided Search-Based Testing of Large Language Model Applications**|Lev Sorokin et.al.|[2609.23209](http://arxiv.org/abs/2609.23209)|null|
+|**2026-09-06**|**Causal Localization of the Refusal Direction in Audio Language Models**|Leonardo Haw-Yang Foo et.al.|[2609.22260](http://arxiv.org/abs/2609.22260)|null|
+|**2026-09-02**|**The Effect of Quantization on Clinical Benchmarks: Accuracy and Safety Across Model Families**|Leonard Twagirayezu et.al.|[2609.22216](http://arxiv.org/abs/2609.22216)|null|
 |**2026-09-17**|**SAGE: Safety-Aligned Gradient Enforcement for Human--Robot Collaboration**|Yisen Li et.al.|[2609.21130](http://arxiv.org/abs/2609.21130)|null|
 |**2026-09-17**|**Origin Is All You Need: Provenance-Aware Transformers for Structural Trust-Boundary Separation**|Yuxuan Zhang et.al.|[2609.21088](http://arxiv.org/abs/2609.21088)|null|
 |**2026-09-17**|**Local Sparsity Enables Unsupervised LLM Safety Detection**|Xin Chen et.al.|[2609.20129](http://arxiv.org/abs/2609.20129)|null|
@@ -3183,6 +3191,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**Decoding Guardrails: XAI-Guided Perturbation Analysis of Prompt Injection Detection**|Fernando Outeda et.al.|[2609.24801](http://arxiv.org/abs/2609.24801)|null|
+|**2026-09-21**|**ActGov: Governing LLM Agent Actions via Policy-Constrained Validation**|Kaiyuan Zhang et.al.|[2609.24446](http://arxiv.org/abs/2609.24446)|null|
+|**2026-09-19**|**Beyond Single-Model Injection: A Threat Model and Defense Architecture for Prompt Injection in Multi-Agent Systems**|Rudrendu Kumar Paul et.al.|[2609.22949](http://arxiv.org/abs/2609.22949)|null|
+|**2026-09-19**|**Trustworthy Agentic AI: Failure Modes, Mitigation Strategies, and a Lifecycle Framework for Autonomous LLM Systems**|Fayeq Jeelani Syed et.al.|[2609.22712](http://arxiv.org/abs/2609.22712)|null|
+|**2026-09-18**|**Zero-Trust Authorization and Discovery for Enterprise MCP**|Huan Li et.al.|[2609.22573](http://arxiv.org/abs/2609.22573)|null|
+|**2026-09-18**|**Defusing Explosive Prompts: Understanding and Preventing Trigger-Based Prompt Injections in LLM Agents**|Justin Szczepaniak et.al.|[2609.22510](http://arxiv.org/abs/2609.22510)|null|
 |**2026-09-17**|**Origin Is All You Need: Provenance-Aware Transformers for Structural Trust-Boundary Separation**|Yuxuan Zhang et.al.|[2609.21088](http://arxiv.org/abs/2609.21088)|null|
 |**2026-09-17**|**Deep Noir: Autonomous Steering Discovery via Architectural Chronometry in Transformer Models**|Frank E. Bobe et.al.|[2609.20722](http://arxiv.org/abs/2609.20722)|null|
 |**2026-09-17**|**Red-Teaming Auto Mode: Improving Blocking Classifiers Against Malign Coding Agents**|Alex Remedios et.al.|[2609.19587](http://arxiv.org/abs/2609.19587)|null|
@@ -5000,6 +5014,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-20**|**Connecting the Dots in Agentic AI Security: A Cross-Dimensional Threat Taxonomy, Evaluation Maturity, and Open Challenges**|Heewon Baek et.al.|[2609.23894](http://arxiv.org/abs/2609.23894)|null|
 |**2026-09-17**|**SoK: Trading Agents or Market Crashers? Dissecting Robustness and Security Failures in Academic Financial LLM Trading Schemes**|Mengxiao Wang et.al.|[2609.19705](http://arxiv.org/abs/2609.19705)|null|
 |**2026-09-16**|**Measuring and Exploiting Implicit Trust in LLM Tool-Calling Pipelines**|Murali Ediga et.al.|[2609.18217](http://arxiv.org/abs/2609.18217)|null|
 |**2026-08-18**|**When Agents Act on Web3: An Attack-Surface Survey of MCP, Skills, and Tool Calling**|Rabimba Karanjai et.al.|[2608.17275](http://arxiv.org/abs/2608.17275)|null|
@@ -5056,6 +5071,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**DUMA-Bench: A Dual-Control Multi-Agent Benchmark for Evaluating LLM Agent Security**|Ivan Aleksandrov et.al.|[2609.24662](http://arxiv.org/abs/2609.24662)|null|
+|**2026-09-05**|**The Corroboration Illusion: When More News Makes LLM Forecasts Less True**|Yuan Lu et.al.|[2609.22246](http://arxiv.org/abs/2609.22246)|null|
 |**2026-09-11**|**Where to Defend? Layer-Wise Adversarial Training for Robust Transformer-Based Semantic Communications**|Maria Slim et.al.|[2609.13128](http://arxiv.org/abs/2609.13128)|null|
 |**2026-08-07**|**When Context Bites: Detecting RAG Poisoning via Document-Level Attention Collapse**|Yingtao Ren et.al.|[2608.06947](http://arxiv.org/abs/2608.06947)|null|
 |**2026-08-02**|**DenialRAG: Single-Document RAG Poisoning via Embedded Parametric Denial**|Abay Zhurekbay et.al.|[2608.02678](http://arxiv.org/abs/2608.02678)|null|
