@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.09.23
+## Updated on 2026.09.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-23**|**Psychoacoustically Aligned Latent Smoothing for Adversarial Robustness of Full-Duplex Speech-to-Speech Dialogue Models**|Kian Shamsaie et.al.|[2609.27378](http://arxiv.org/abs/2609.27378)|null|
 |**2026-09-21**|**Decoding Guardrails: XAI-Guided Perturbation Analysis of Prompt Injection Detection**|Fernando Outeda et.al.|[2609.24801](http://arxiv.org/abs/2609.24801)|null|
 |**2026-09-20**|**On the Efficiency-Safety Dilemma in Large Reasoning Models**|Yifei Yang et.al.|[2609.23587](http://arxiv.org/abs/2609.23587)|null|
 |**2026-09-18**|**CASCADE Against Jailbreaks: Combination Across Stages with Controlled Attack-Defense Evaluation**|Jiale Luo et.al.|[2609.21793](http://arxiv.org/abs/2609.21793)|null|
@@ -1157,6 +1158,7 @@ layout: default
 |**2002-05-07**|**The power spectrum of galaxies in the 2dF 100k redshift survey**|Max Tegmark et.al.|[astro-ph/0111575](http://arxiv.org/abs/astro-ph/0111575)|null|
 |**2001-05-21**|**Reconciliation of the Surface Brightness Fluctuations and Type Ia Supernovae Distance Scales**|Edward A. Ajhar et.al.|[astro-ph/0105366](http://arxiv.org/abs/astro-ph/0105366)|null|
 |**2002-02-27**|**Is cosmology consistent?**|Xiaomin Wang et.al.|[astro-ph/0105091](http://arxiv.org/abs/astro-ph/0105091)|null|
+|**2026-09-23**|**CART: Closed-Loop Adaptive Red Teaming for Large Language Models**|Dongdong Zhang et.al.|[2609.27336](http://arxiv.org/abs/2609.27336)|null|
 |**2026-07-29**|**Adversarial Course-of-Action Generation: Game-Theoretic Multi-Agent Algorithms for COA matching & COA generation**|Natan Vidra et.al.|[2609.26059](http://arxiv.org/abs/2609.26059)|null|
 |**2026-09-20**|**Connecting the Dots in Agentic AI Security: A Cross-Dimensional Threat Taxonomy, Evaluation Maturity, and Open Challenges**|Heewon Baek et.al.|[2609.23894](http://arxiv.org/abs/2609.23894)|null|
 |**2026-09-17**|**TPM-Attest: Hardware-Rooted Integrity Attestation as a Kernel-Level Anti-Cheat Alternative for Linux**|Anudeep Gedela et.al.|[2609.20909](http://arxiv.org/abs/2609.20909)|null|
@@ -3192,6 +3194,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-23**|**Specifying and Maintaining Agentic Workflows: An Empirical Study of GitHub Agentic Workflows**|Jasem Khelifi et.al.|[2609.27263](http://arxiv.org/abs/2609.27263)|null|
+|**2026-09-22**|**Ajar: Measuring Open Privilege in Agent Defenses**|Reshabh K Sharma et.al.|[2609.26900](http://arxiv.org/abs/2609.26900)|null|
 |**2026-09-21**|**Universal Fractal Natural Language Decision Map: Real-Time Edge Triage Across Heterogeneous Domains**|Volkan Dağlı et.al.|[2609.25498](http://arxiv.org/abs/2609.25498)|null|
 |**2026-09-21**|**Decoding Guardrails: XAI-Guided Perturbation Analysis of Prompt Injection Detection**|Fernando Outeda et.al.|[2609.24801](http://arxiv.org/abs/2609.24801)|null|
 |**2026-09-22**|**ActGov: Governing LLM Agent Actions via Policy-Constrained Validation**|Kaiyuan Zhang et.al.|[2609.24446](http://arxiv.org/abs/2609.24446)|null|
