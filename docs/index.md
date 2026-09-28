@@ -2,14 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.09.27
+## Updated on 2026.09.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-09-24**|**PrivDrift: Auditing User-Secret Leakage Under Topic Drift in Active LLM Conversations**|Luciano Maldonado et.al.|[2609.30094](http://arxiv.org/abs/2609.30094)|null|
+|**2026-09-25**|**Monitor Jailbreaking: Evading Chain-of-Thought Monitoring Without Encoded Reasoning**|Julian Schulz et.al.|[2609.31121](http://arxiv.org/abs/2609.31121)|null|
+|**2026-09-25**|**TempQ-Jail: Query-Constrained Candidate Ranking for Text-to-Video Jailbreak Attacks**|Tianmeng Fang et.al.|[2609.31032](http://arxiv.org/abs/2609.31032)|null|
+|**2026-09-25**|**Why Jailbreaks Succeed in Diffusion Language Models: An Energy Landscape Analysis**|Thong Bach et.al.|[2609.30841](http://arxiv.org/abs/2609.30841)|null|
+|**2026-09-25**|**PrivDrift: Auditing User-Secret Leakage Under Topic Drift in Active LLM Conversations**|Luciano Maldonado et.al.|[2609.30094](http://arxiv.org/abs/2609.30094)|null|
 |**2026-09-24**|**Prefilling the Reasoning Channel: Output-Prefix Attacks on Reasoning LLMs**|Lukáš Brůna et.al.|[2609.29775](http://arxiv.org/abs/2609.29775)|null|
 |**2026-09-24**|**Just Ask Jev: Reinforcement Learning for Calibrated Decisions as a Zero-Shot Detector of AI Alignment Failures**|Ruoqi Guo et.al.|[2609.29429](http://arxiv.org/abs/2609.29429)|null|
 |**2026-09-24**|**AEGIS: Audio Endogenous Guarding via Internal Signals Against Large Audio-Language Model Jailbreaks**|Yu-Ling Liao et.al.|[2609.29287](http://arxiv.org/abs/2609.29287)|null|
@@ -37,7 +40,7 @@ layout: default
 |**2026-09-08**|**Style Over Substance: Content-Invariant Wrappers Flip LLM Safety-Judge Verdicts**|Yongxi Zhou et.al.|[2609.08236](http://arxiv.org/abs/2609.08236)|null|
 |**2026-09-08**|**Does Deeper Reasoning Compromise Alignment? Revealing and Mitigating of Alignment Collapse in Large Reasoning Models**|Yu-Hang Wu et.al.|[2609.08186](http://arxiv.org/abs/2609.08186)|null|
 |**2026-09-07**|**The Price of Consistency: Exploiting Visual Anchors for Multimodal Jailbreaking in Video Generation**|Peng Li et.al.|[2609.07216](http://arxiv.org/abs/2609.07216)|null|
-|**2026-09-07**|**The Geometry of Refusal: Why Post-Hoc Safety Is Fragile and Pretraining-Time Safety Persists**|Srikanth Malla et.al.|[2609.06934](http://arxiv.org/abs/2609.06934)|null|
+|**2026-09-25**|**The Geometry of Refusal: Why Post-Hoc Safety Is Fragile and Pretraining-Time Safety Persists**|Srikanth Malla et.al.|[2609.06934](http://arxiv.org/abs/2609.06934)|null|
 |**2026-09-06**|**SRD-GUARD: A Defense Framework of LLMs via Semantic Rewriting and Joint Multi-Model Scoring for Latent Intent Exposure**|Qi Wang et.al.|[2609.06540](http://arxiv.org/abs/2609.06540)|null|
 |**2026-09-05**|**Agentic Pressure: The Endogenous Entropy of Reliable Autonomy**|Hengle Jiang et.al.|[2609.05995](http://arxiv.org/abs/2609.05995)|null|
 |**2026-09-05**|**SAFEGuard: Detect Optimization-Based Jailbreak Attacks Through Harmful Semantic Analysis and Fluency Measurement**|Quoc Viet Vo et.al.|[2609.05850](http://arxiv.org/abs/2609.05850)|null|
@@ -1162,6 +1165,8 @@ layout: default
 |**2002-05-07**|**The power spectrum of galaxies in the 2dF 100k redshift survey**|Max Tegmark et.al.|[astro-ph/0111575](http://arxiv.org/abs/astro-ph/0111575)|null|
 |**2001-05-21**|**Reconciliation of the Surface Brightness Fluctuations and Type Ia Supernovae Distance Scales**|Edward A. Ajhar et.al.|[astro-ph/0105366](http://arxiv.org/abs/astro-ph/0105366)|null|
 |**2002-02-27**|**Is cosmology consistent?**|Xiaomin Wang et.al.|[astro-ph/0105091](http://arxiv.org/abs/astro-ph/0105091)|null|
+|**2026-09-25**|**AgentXploit: Autonomous Repository-to-Runtime Red-Teaming for AI Agents**|Weida Liang et.al.|[2609.31318](http://arxiv.org/abs/2609.31318)|null|
+|**2026-09-24**|**Stealth Apart, Harm Together: Skill Cascading Attacks on Skill-Based Agent Systems**|Zihao Zhu et.al.|[2609.30383](http://arxiv.org/abs/2609.30383)|null|
 |**2026-09-23**|**CART: Closed-Loop Adaptive Red Teaming for Large Language Models**|Dongdong Zhang et.al.|[2609.27336](http://arxiv.org/abs/2609.27336)|null|
 |**2026-07-29**|**Adversarial Course-of-Action Generation: Game-Theoretic Multi-Agent Algorithms for COA matching & COA generation**|Natan Vidra et.al.|[2609.26059](http://arxiv.org/abs/2609.26059)|null|
 |**2026-09-20**|**Connecting the Dots in Agentic AI Security: A Cross-Dimensional Threat Taxonomy, Evaluation Maturity, and Open Challenges**|Heewon Baek et.al.|[2609.23894](http://arxiv.org/abs/2609.23894)|null|
@@ -2060,8 +2065,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-25**|**Why Jailbreaks Succeed in Diffusion Language Models: An Energy Landscape Analysis**|Thong Bach et.al.|[2609.30841](http://arxiv.org/abs/2609.30841)|null|
+|**2026-09-25**|**Understanding the Role of Prompt Template in Knowledge Distillation for Safety Alignment**|Anjila Budathoki et.al.|[2609.30802](http://arxiv.org/abs/2609.30802)|null|
 |**2026-09-24**|**Hallucination Neurons and Where to Find Them: An Investigation into the existence of Hallucination Neurons**|Huseyin Cavus et.al.|[2609.29781](http://arxiv.org/abs/2609.29781)|null|
-|**2026-09-24**|**ArGuard Shared Task: Harmful Content Detection in Arabic Memes and LLM Prompts**|Firoj Alam et.al.|[2609.29349](http://arxiv.org/abs/2609.29349)|null|
+|**2026-09-25**|**ArGuard Shared Task: Harmful Content Detection in Arabic Memes and LLM Prompts**|Firoj Alam et.al.|[2609.29349](http://arxiv.org/abs/2609.29349)|null|
 |**2026-09-21**|**A $^2$ Safe: Counterfactual Evidence-Aligned Adaptive Agent Collaboration for Safe and Effective Visual Question Answering**|Quanxing Xu et.al.|[2609.24098](http://arxiv.org/abs/2609.24098)|null|
 |**2026-09-20**|**On the Efficiency-Safety Dilemma in Large Reasoning Models**|Yifei Yang et.al.|[2609.23587](http://arxiv.org/abs/2609.23587)|null|
 |**2026-09-19**|**Diversity-Guided Search-Based Testing of Large Language Model Applications**|Lev Sorokin et.al.|[2609.23209](http://arxiv.org/abs/2609.23209)|null|
@@ -3200,6 +3207,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-25**|**MetaPermit: Scalable and Auditable Access Control for AI Agents via LLM-Inferred Meta-Attributes**|Hanzhang Ma et.al.|[2609.31039](http://arxiv.org/abs/2609.31039)|null|
+|**2026-09-25**|**Crypto-bound identity-verified capability tokens for coordinating distributed AI agents: A proposal**|Srikumar Subramanian et.al.|[2609.30824](http://arxiv.org/abs/2609.30824)|null|
+|**2026-09-25**|**Prompt Injection Detection for Email Agents Through Attack Chain Modeling**|Ahmad Hashmi et.al.|[2609.30657](http://arxiv.org/abs/2609.30657)|null|
 |**2026-09-24**|**Instrumental Monitor Evasion Emerges Under Ordinary Task Pressure**|David Schmotz et.al.|[2609.30217](http://arxiv.org/abs/2609.30217)|null|
 |**2026-09-24**|**ENDOPROMPT: Victim-Side Pseudo-References for Utility Degradation**|Qingyu Wu et.al.|[2609.29948](http://arxiv.org/abs/2609.29948)|null|
 |**2026-09-24**|**Prefilling the Reasoning Channel: Output-Prefix Attacks on Reasoning LLMs**|Lukáš Brůna et.al.|[2609.29775](http://arxiv.org/abs/2609.29775)|null|
