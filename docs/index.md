@@ -2,13 +2,21 @@
 layout: default
 ---
 
-## Updated on 2026.09.28
+## Updated on 2026.09.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-28**|**Jailbreaks for Black-Box Uncertainty Quantification in Large Reasoning Models**|Lucas Biechy et.al.|[2609.35350](http://arxiv.org/abs/2609.35350)|null|
+|**2026-09-28**|**Narrow Multimodal Fine-Tuning Can Induce Emergent Misalignment**|Shunchang Liu et.al.|[2609.35291](http://arxiv.org/abs/2609.35291)|null|
+|**2026-09-28**|**Jailbreak Context Lingers: Divergent Safety Routing and Its Cross-Task Predictability in Tool Agents**|Xi Wang et.al.|[2609.34686](http://arxiv.org/abs/2609.34686)|null|
+|**2026-09-27**|**SafeMol: Dual-Modality Safety Alignment for Molecular Multimodal Models**|Xinmiao Wang et.al.|[2609.33640](http://arxiv.org/abs/2609.33640)|null|
+|**2026-09-26**|**LLM Alignment--Utility Asymmetry under Semantic-Preserving Transformations**|Mohan Li et.al.|[2609.32717](http://arxiv.org/abs/2609.32717)|null|
+|**2026-09-26**|**AnchorRep: Defending LLMs Against Cross-Model Adversarial Transfer via Representation Repulsion**|Gal Wertheizer et.al.|[2609.32602](http://arxiv.org/abs/2609.32602)|null|
+|**2026-09-26**|**Escaping Alignment: A Physical Trap Model of Best-of-N Jailbreaking**|Marco Biroli et.al.|[2609.32116](http://arxiv.org/abs/2609.32116)|null|
+|**2026-09-15**|**What Drives Dialectal Jailbreaks? An Ablation of Surface Form, Cultural Framing, and Strategy Banks**|Qingyang Xu et.al.|[2609.31664](http://arxiv.org/abs/2609.31664)|null|
 |**2026-09-25**|**Monitor Jailbreaking: Evading Chain-of-Thought Monitoring Without Encoded Reasoning**|Julian Schulz et.al.|[2609.31121](http://arxiv.org/abs/2609.31121)|null|
 |**2026-09-25**|**TempQ-Jail: Query-Constrained Candidate Ranking for Text-to-Video Jailbreak Attacks**|Tianmeng Fang et.al.|[2609.31032](http://arxiv.org/abs/2609.31032)|null|
 |**2026-09-25**|**Why Jailbreaks Succeed in Diffusion Language Models: An Energy Landscape Analysis**|Thong Bach et.al.|[2609.30841](http://arxiv.org/abs/2609.30841)|null|
@@ -34,7 +42,7 @@ layout: default
 |**2026-09-07**|**An Empirical Measurement of Jailbreaking Evaluators**|Yujie Mu et.al.|[2609.10594](http://arxiv.org/abs/2609.10594)|null|
 |**2026-09-09**|**CS-Guard: Benchmarking LLM Guardrails for Code Generation Security**|Jinyang Li et.al.|[2609.09798](http://arxiv.org/abs/2609.09798)|null|
 |**2026-09-09**|**Arbitrary Cipher Attacks Against Large Language Models Do Not Require Fine-Tuning**|Thomas Rivasseau et.al.|[2609.09553](http://arxiv.org/abs/2609.09553)|null|
-|**2026-09-08**|**DuplexJail: Safety Alignment Breaks Under Spoken Interruption in Full-Duplex Models**|Jaechul Roh et.al.|[2609.09420](http://arxiv.org/abs/2609.09420)|null|
+|**2026-09-28**|**DuplexJail: Spoken Interruption Attacks on Full-Duplex Speech Models**|Jaechul Roh et.al.|[2609.09420](http://arxiv.org/abs/2609.09420)|null|
 |**2026-09-08**|**Compositional Multilingual and Behavioral Attribute Steering**|Hyun Gu Kang et.al.|[2609.08410](http://arxiv.org/abs/2609.08410)|null|
 |**2026-09-08**|**Structural Jailbreaks Generalize but Do Not Compound: A cross-provider and multilingual study of Involuntary In-Context Learning**|Tejasvi C. Addagada et.al.|[2609.08373](http://arxiv.org/abs/2609.08373)|null|
 |**2026-09-08**|**Style Over Substance: Content-Invariant Wrappers Flip LLM Safety-Judge Verdicts**|Yongxi Zhou et.al.|[2609.08236](http://arxiv.org/abs/2609.08236)|null|
@@ -1165,13 +1173,17 @@ layout: default
 |**2002-05-07**|**The power spectrum of galaxies in the 2dF 100k redshift survey**|Max Tegmark et.al.|[astro-ph/0111575](http://arxiv.org/abs/astro-ph/0111575)|null|
 |**2001-05-21**|**Reconciliation of the Surface Brightness Fluctuations and Type Ia Supernovae Distance Scales**|Edward A. Ajhar et.al.|[astro-ph/0105366](http://arxiv.org/abs/astro-ph/0105366)|null|
 |**2002-02-27**|**Is cosmology consistent?**|Xiaomin Wang et.al.|[astro-ph/0105091](http://arxiv.org/abs/astro-ph/0105091)|null|
+|**2026-09-28**|**RISE: Red-teaming via Iterative Strategy Evolution for Modern Text-to-Image Models**|Dmitrii Kharlapenko et.al.|[2609.34920](http://arxiv.org/abs/2609.34920)|null|
+|**2026-09-27**|**Climbing the Hill: Prompt Injection Red-Teaming Against Frontier Models with Curriculum Reinforcement Learning**|Chenlong Yin et.al.|[2609.33628](http://arxiv.org/abs/2609.33628)|null|
+|**2026-09-26**|**SkillDRE: Dual-Stage Red-Team Evolution of Agent Skills via Pre-Execution and Runtime Feedback**|Pengyu Zhu et.al.|[2609.32400](http://arxiv.org/abs/2609.32400)|null|
+|**2026-09-15**|**What Drives Dialectal Jailbreaks? An Ablation of Surface Form, Cultural Framing, and Strategy Banks**|Qingyang Xu et.al.|[2609.31664](http://arxiv.org/abs/2609.31664)|null|
 |**2026-09-25**|**AgentXploit: Autonomous Repository-to-Runtime Red-Teaming for AI Agents**|Weida Liang et.al.|[2609.31318](http://arxiv.org/abs/2609.31318)|null|
 |**2026-09-24**|**Stealth Apart, Harm Together: Skill Cascading Attacks on Skill-Based Agent Systems**|Zihao Zhu et.al.|[2609.30383](http://arxiv.org/abs/2609.30383)|null|
 |**2026-09-23**|**CART: Closed-Loop Adaptive Red Teaming for Large Language Models**|Dongdong Zhang et.al.|[2609.27336](http://arxiv.org/abs/2609.27336)|null|
 |**2026-07-29**|**Adversarial Course-of-Action Generation: Game-Theoretic Multi-Agent Algorithms for COA matching & COA generation**|Natan Vidra et.al.|[2609.26059](http://arxiv.org/abs/2609.26059)|null|
 |**2026-09-20**|**Connecting the Dots in Agentic AI Security: A Cross-Dimensional Threat Taxonomy, Evaluation Maturity, and Open Challenges**|Heewon Baek et.al.|[2609.23894](http://arxiv.org/abs/2609.23894)|null|
 |**2026-09-17**|**TPM-Attest: Hardware-Rooted Integrity Attestation as a Kernel-Level Anti-Cheat Alternative for Linux**|Anudeep Gedela et.al.|[2609.20909](http://arxiv.org/abs/2609.20909)|null|
-|**2026-09-17**|**Red-Teaming Auto Mode: Improving Blocking Classifiers Against Malign Coding Agents**|Alex Remedios et.al.|[2609.19587](http://arxiv.org/abs/2609.19587)|null|
+|**2026-09-27**|**Red-Teaming Auto Mode: Improving Blocking Classifiers Against Malign Coding Agents**|Alex Remedios et.al.|[2609.19587](http://arxiv.org/abs/2609.19587)|null|
 |**2026-09-15**|**Benchmarking Factual Robustness of LLMs via Multi-conversation Persuasion**|Zhuoang Cai et.al.|[2609.16777](http://arxiv.org/abs/2609.16777)|null|
 |**2026-09-15**|**A Cyber Range Evaluation of Autonomous Network Incident Response Agents**|Jakob Nyberg et.al.|[2609.16541](http://arxiv.org/abs/2609.16541)|null|
 |**2026-09-11**|**Mind the Gap: Detecting Description-Execution Mismatch Attacks in DAO Governance**|Bowen Cai et.al.|[2609.13601](http://arxiv.org/abs/2609.13601)|null|
@@ -2065,6 +2077,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-28**|**Reliability Engineering for AI Systems: Challenges, Methods, and Directions**|Rong Pan et.al.|[2609.35316](http://arxiv.org/abs/2609.35316)|null|
+|**2026-09-28**|**ORPG: Reconciling Multiple Reward Objectives through Objective-wise Policy Gradients**|Shicheng Fang et.al.|[2609.34985](http://arxiv.org/abs/2609.34985)|null|
+|**2026-09-28**|**See it, Say it, Sorted: Mechanistic Diagnosis and Parameter-Space Mitigation of Emergent Misalignment in LLMs**|Weiqiao Que et.al.|[2609.34970](http://arxiv.org/abs/2609.34970)|null|
+|**2026-09-28**|**DeShortcut-Align: Decoupling Spurious Shortcuts for Robust Safety Alignment in Large Reasoning Models**|Qirui Liu et.al.|[2609.34896](http://arxiv.org/abs/2609.34896)|null|
+|**2026-09-28**|**When Do Model Internals Help? Exploring the Role of Representation Engineering in LLM Safety**|Tianyi Guan et.al.|[2609.34771](http://arxiv.org/abs/2609.34771)|null|
+|**2026-09-28**|**EOPSA: Efficient On-Policy Self-Distilled Safety Alignment**|Qirui Liu et.al.|[2609.34519](http://arxiv.org/abs/2609.34519)|null|
+|**2026-09-28**|**How to Tame a Multi-Headed Hydra? Adaptive Multi-Category Safety Steering for Large Language Models**|Chenxi Wang et.al.|[2609.34514](http://arxiv.org/abs/2609.34514)|null|
+|**2026-09-27**|**COGNIT-Guard: Calibrated Standalone Direct-Decision Guardrails with Heterogeneous CPU-NPU Confidence Cascading under Explicit Latency and False-Positive Constraints**|Hao Chen et.al.|[2609.33671](http://arxiv.org/abs/2609.33671)|null|
+|**2026-09-27**|**AgentBoundary: Counterfactual Evaluation of Safety in Tool-Using LLM Agents**|Tianzhuo Yang et.al.|[2609.33658](http://arxiv.org/abs/2609.33658)|null|
+|**2026-09-27**|**SafeMol: Dual-Modality Safety Alignment for Molecular Multimodal Models**|Xinmiao Wang et.al.|[2609.33640](http://arxiv.org/abs/2609.33640)|null|
+|**2026-09-27**|**Safety Reconstructed: Generative Modeling via Masked Diffusion Builds Strong Safety Guardrails**|Gert Lek et.al.|[2609.33634](http://arxiv.org/abs/2609.33634)|null|
+|**2026-09-27**|**LLMs Trust Their Own: Identity-Dependent Conformity in Multi-Agent Systems**|Liron Soffer et.al.|[2609.33495](http://arxiv.org/abs/2609.33495)|null|
 |**2026-09-25**|**Why Jailbreaks Succeed in Diffusion Language Models: An Energy Landscape Analysis**|Thong Bach et.al.|[2609.30841](http://arxiv.org/abs/2609.30841)|null|
 |**2026-09-25**|**Understanding the Role of Prompt Template in Knowledge Distillation for Safety Alignment**|Anjila Budathoki et.al.|[2609.30802](http://arxiv.org/abs/2609.30802)|null|
 |**2026-09-24**|**Hallucination Neurons and Where to Find Them: An Investigation into the existence of Hallucination Neurons**|Huseyin Cavus et.al.|[2609.29781](http://arxiv.org/abs/2609.29781)|null|
@@ -3207,6 +3231,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-28**|**Tracekit: Tamper-Evident Intent-Reasoning-Action Auditing for Autonomous Coding Agents**|Bravish Ghosh et.al.|[2609.35659](http://arxiv.org/abs/2609.35659)|null|
+|**2026-09-28**|**Nudgeability: Reasoning Models Follow Confidence Signals Without Tracking Their Own Competence**|Rohit Saxena et.al.|[2609.34572](http://arxiv.org/abs/2609.34572)|null|
+|**2026-09-28**|**CoDeL: Co-Evolutionary Defense against Indirect Prompt Injection in LLM-based Agents**|Xiao Yang et.al.|[2609.34463](http://arxiv.org/abs/2609.34463)|null|
+|**2026-09-28**|**Certified Multi-Source Integrity for Structured Agent Actions**|Anmol Pandey et.al.|[2609.34245](http://arxiv.org/abs/2609.34245)|null|
+|**2026-09-27**|**When Consent Outlives Context: Residual Authority Replay in Long-Lived Agents**|Zhihao Zhang et.al.|[2609.33910](http://arxiv.org/abs/2609.33910)|null|
+|**2026-09-27**|**Climbing the Hill: Prompt Injection Red-Teaming Against Frontier Models with Curriculum Reinforcement Learning**|Chenlong Yin et.al.|[2609.33628](http://arxiv.org/abs/2609.33628)|null|
+|**2026-09-27**|**Evaluating System One Models for Agent Security Decisions: Reliability, Calibration, and Selective Automation**|Yixuan Liu et.al.|[2609.33401](http://arxiv.org/abs/2609.33401)|null|
+|**2026-09-27**|**API Secrets Should Never Become Tokens in the LLM's Vocabulary: A Threat Analysis of API Credential Handling in LLM Agent Systems and an Empirical Evaluation of a Vault-Mediated Execution Boundary**|Patrick Kenney et.al.|[2609.33371](http://arxiv.org/abs/2609.33371)|null|
+|**2026-09-27**|**ORBIT: A Framework for Multi-Agent Safety and Security Evaluations**|Ben Hagag et.al.|[2609.33102](http://arxiv.org/abs/2609.33102)|null|
+|**2026-09-26**|**Silent Failures in Agentic Security Evaluation: A Validated Harness for Tool-Call Mediation Under Indirect Prompt Injection**|Animesh Shaw et.al.|[2609.32691](http://arxiv.org/abs/2609.32691)|null|
 |**2026-09-25**|**MetaPermit: Scalable and Auditable Access Control for AI Agents via LLM-Inferred Meta-Attributes**|Hanzhang Ma et.al.|[2609.31039](http://arxiv.org/abs/2609.31039)|null|
 |**2026-09-25**|**Crypto-bound identity-verified capability tokens for coordinating distributed AI agents: A proposal**|Srikumar Subramanian et.al.|[2609.30824](http://arxiv.org/abs/2609.30824)|null|
 |**2026-09-25**|**Prompt Injection Detection for Email Agents Through Attack Chain Modeling**|Ahmad Hashmi et.al.|[2609.30657](http://arxiv.org/abs/2609.30657)|null|
@@ -3229,7 +3263,7 @@ layout: default
 |**2026-09-18**|**Defusing Explosive Prompts: Understanding and Preventing Trigger-Based Prompt Injections in LLM Agents**|Justin Szczepaniak et.al.|[2609.22510](http://arxiv.org/abs/2609.22510)|null|
 |**2026-09-17**|**Origin Is All You Need: Provenance-Aware Transformers for Structural Trust-Boundary Separation**|Yuxuan Zhang et.al.|[2609.21088](http://arxiv.org/abs/2609.21088)|null|
 |**2026-09-17**|**Deep Noir: Autonomous Steering Discovery via Architectural Chronometry in Transformer Models**|Frank E. Bobe et.al.|[2609.20722](http://arxiv.org/abs/2609.20722)|null|
-|**2026-09-17**|**Red-Teaming Auto Mode: Improving Blocking Classifiers Against Malign Coding Agents**|Alex Remedios et.al.|[2609.19587](http://arxiv.org/abs/2609.19587)|null|
+|**2026-09-27**|**Red-Teaming Auto Mode: Improving Blocking Classifiers Against Malign Coding Agents**|Alex Remedios et.al.|[2609.19587](http://arxiv.org/abs/2609.19587)|null|
 |**2026-09-22**|**Efficient Nash Equilibrium Computation for Cybersecurity Games**|Michael Lanier et.al.|[2609.19399](http://arxiv.org/abs/2609.19399)|null|
 |**2026-09-16**|**AgentLSD: Evaluating AI Security Agents Under Adversarial Task Contamination**|Matteo Golinelli et.al.|[2609.19140](http://arxiv.org/abs/2609.19140)|null|
 |**2026-09-16**|**CaMeLoT: CaMeL orchestrated with Temporal logic for static verification and liveness**|Elia Nikolaou et.al.|[2609.18674](http://arxiv.org/abs/2609.18674)|null|
@@ -4196,6 +4230,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-28**|**Evaluating Machine Unlearning in ASR**|Diogo Dinis et.al.|[2609.34092](http://arxiv.org/abs/2609.34092)|null|
+|**2026-09-27**|**The Privacy Fallacy of Crowdsourced Fine-Tuning: Extracting Proprietary Data via Topic-Based Poisoning**|Sae Furukawa et.al.|[2609.33985](http://arxiv.org/abs/2609.33985)|null|
 |**2026-09-14**|**Don't Send What You Don't Need: Question-Guided Token Pruning as a Privacy Defense for Vision-Language Models**|Md Khalid Syfullah et.al.|[2609.15671](http://arxiv.org/abs/2609.15671)|null|
 |**2026-09-13**|**CIG-MIA: Context-Induced Information Gain Membership Inference Attacks against Retrieval-Augmented Generation**|Tan Xue et.al.|[2609.14649](http://arxiv.org/abs/2609.14649)|null|
 |**2026-09-11**|**Correlation-Guided Fast Machine Unlearning via Hessian Analysis**|Ayushi Thakur et.al.|[2609.12620](http://arxiv.org/abs/2609.12620)|null|
