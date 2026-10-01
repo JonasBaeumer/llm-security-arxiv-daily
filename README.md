@@ -1,4 +1,4 @@
-## Updated on 2026.09.30
+## Updated on 2026.10.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,7 +21,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-09-29**|**actr: aligning thoughts and responses for multilingual safety in reasoning llms**|Xianhui Zhang et.al.|[2609.37054](http://arxiv.org/abs/2609.37054)|null|
+|**2026-09-30**|**CodeMimicry: Exploiting Safety Generalization Lag in Large Language Models via Structured Code Completion**|Zhen Liang et.al.|[2609.39902](http://arxiv.org/abs/2609.39902)|null|
+|**2026-09-30**|**SceneJail: Exploiting Video Scenario Context to Jailbreak Multimodal LLMs**|Wenyu Chen et.al.|[2609.38899](http://arxiv.org/abs/2609.38899)|null|
+|**2026-09-29**|**Alignment via Training Against Probes Without Losing Monitorability**|Lena Libon et.al.|[2609.38645](http://arxiv.org/abs/2609.38645)|null|
+|**2026-09-29**|**CollageAttack: Exploiting Cross-Modal Alignment Flaws in T2I Models through Spatial Text Composition**|Zhiyi Mou et.al.|[2609.38253](http://arxiv.org/abs/2609.38253)|null|
+|**2026-09-29**|**Inference-Layer Security: Defending Against Adversarial Inference and Infrastructure Abuse**|Keifer Lee et.al.|[2609.38239](http://arxiv.org/abs/2609.38239)|null|
+|**2026-09-23**|**The System Prompt Illusion: How Instruction Preambles Modify Computation in Language Models**|Muhammad Usama et.al.|[2609.38205](http://arxiv.org/abs/2609.38205)|null|
+|**2026-09-30**|**ACTR: Aligning Thoughts and Responses for Multilingual Safety in Reasoning LLMs**|Xianhui Zhang et.al.|[2609.37054](http://arxiv.org/abs/2609.37054)|null|
 |**2026-09-29**|**Controlled Decoding Attacks on Black-Box LLMs**|Jesson Wang et.al.|[2609.36956](http://arxiv.org/abs/2609.36956)|null|
 |**2026-09-29**|**Does the Unsafe Gradient Survive a Conversation? On the Fragility of Gradient-Based Jailbreak Detection in Multi-Turn Dialogue**|Omar Sheta et.al.|[2609.36849](http://arxiv.org/abs/2609.36849)|null|
 |**2026-09-29**|**Constitutional adapters: Inference-time interventions for misalignment and misuse**|Adam S. Lowet et.al.|[2609.36657](http://arxiv.org/abs/2609.36657)|null|
@@ -1176,7 +1182,7 @@
 |**2025-05-16**|**CARES: Comprehensive Evaluation of Safety and Adversarial Robustness in Medical LLMs**|Sijia Chen et.al.|[2505.11413](http://arxiv.org/abs/2505.11413)|null|
 |**2025-05-16**|**LARGO: Latent Adversarial Reflection through Gradient Optimization for Jailbreaking LLMs**|Ran Li et.al.|[2505.10838](http://arxiv.org/abs/2505.10838)|null|
 
-<p align=right>(<a href=#updated-on-20260930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
 ## Red Teaming
 
@@ -1193,6 +1199,8 @@
 |**2002-05-07**|**The power spectrum of galaxies in the 2dF 100k redshift survey**|Max Tegmark et.al.|[astro-ph/0111575](http://arxiv.org/abs/astro-ph/0111575)|null|
 |**2001-05-21**|**Reconciliation of the Surface Brightness Fluctuations and Type Ia Supernovae Distance Scales**|Edward A. Ajhar et.al.|[astro-ph/0105366](http://arxiv.org/abs/astro-ph/0105366)|null|
 |**2002-02-27**|**Is cosmology consistent?**|Xiaomin Wang et.al.|[astro-ph/0105091](http://arxiv.org/abs/astro-ph/0105091)|null|
+|**2026-09-30**|**Who Verifies the Graph? Misspecification Attacks on Causal Action Verification for Language Agents**|Fabio Rovai et.al.|[2609.40027](http://arxiv.org/abs/2609.40027)|null|
+|**2026-09-30**|**Refusals That Bend: Measuring and Predicting Task Malleability in Embodied VLM Planners**|Leo Y. Lin et.al.|[2609.38971](http://arxiv.org/abs/2609.38971)|null|
 |**2026-09-29**|**Frontier Autolab: Organizational Memory, Adversarial Dissent and Temporal Leakage in Multi-Agent LLM Firms Across Fifty Years of Technological Change**|Bravish Ghosh et.al.|[2609.36739](http://arxiv.org/abs/2609.36739)|null|
 |**2026-09-29**|**CounterSteer: Suppressing Indirect Prompt Injection with Activation Steering**|Mark Russinovich et.al.|[2609.36570](http://arxiv.org/abs/2609.36570)|null|
 |**2026-09-29**|**FinRT: Distilling Adaptive Red-Teaming Strategies into Reusable Adversarial Generators in Consumer Finance**|Rikhiya Ghosh et.al.|[2609.36474](http://arxiv.org/abs/2609.36474)|null|
@@ -2096,13 +2104,19 @@
 |**2008-06-27**|**Predicting the Yields of Photometric Surveys for Transiting Extrasolar Planets**|Thomas G. Beatty et.al.|[0804.1150](http://arxiv.org/abs/0804.1150)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
 ## LLM Safety Alignment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-09-29**|**actr: aligning thoughts and responses for multilingual safety in reasoning llms**|Xianhui Zhang et.al.|[2609.37054](http://arxiv.org/abs/2609.37054)|null|
+|**2026-09-30**|**CodeMimicry: Exploiting Safety Generalization Lag in Large Language Models via Structured Code Completion**|Zhen Liang et.al.|[2609.39902](http://arxiv.org/abs/2609.39902)|null|
+|**2026-09-30**|**Safety of Latent Communication in Multi-Agent Systems**|Muhammad Huzaifa et.al.|[2609.39788](http://arxiv.org/abs/2609.39788)|null|
+|**2026-09-30**|**ShieldCLIP: Selective Safety Alignment for Harmful Content Mitigation in Multimodal Foundation Models**|Tobia Poppi et.al.|[2609.39688](http://arxiv.org/abs/2609.39688)|null|
+|**2026-09-30**|**Faithful Dual-constrained Erasure for Robust LLM Safety Alignment**|Jiaqing Li et.al.|[2609.39279](http://arxiv.org/abs/2609.39279)|null|
+|**2026-09-30**|**Refusals That Bend: Measuring and Predicting Task Malleability in Embodied VLM Planners**|Leo Y. Lin et.al.|[2609.38971](http://arxiv.org/abs/2609.38971)|null|
+|**2026-09-29**|**The Geometry of Harmfulness in Multi-Turn Attacks**| Yelyzaveta et.al.|[2609.38389](http://arxiv.org/abs/2609.38389)|null|
+|**2026-09-30**|**ACTR: Aligning Thoughts and Responses for Multilingual Safety in Reasoning LLMs**|Xianhui Zhang et.al.|[2609.37054](http://arxiv.org/abs/2609.37054)|null|
 |**2026-09-29**|**Controlled Decoding Attacks on Black-Box LLMs**|Jesson Wang et.al.|[2609.36956](http://arxiv.org/abs/2609.36956)|null|
 |**2026-09-29**|**Safer Content or Firmer Refusals? A Hybrid Perturbation Defense for Alignment under Harmful Fine-tuning**|Muhammad Zeeshan Akram et.al.|[2609.36862](http://arxiv.org/abs/2609.36862)|null|
 |**2026-09-29**|**Does the Unsafe Gradient Survive a Conversation? On the Fragility of Gradient-Based Jailbreak Detection in Multi-Turn Dialogue**|Omar Sheta et.al.|[2609.36849](http://arxiv.org/abs/2609.36849)|null|
@@ -3259,12 +3273,15 @@
 |**2025-03-10**|**Graphormer-Guided Task Planning: Beyond Static Rules with LLM Safety Perception**|Wanjing Huang et.al.|[2503.06866](http://arxiv.org/abs/2503.06866)|null|
 |**2026-05-08**|**RedDiffuser: Auditing Multimodal Safety Failures in Vision-Language Models via Reinforced Diffusion**|Ruofan Wang et.al.|[2503.06223](http://arxiv.org/abs/2503.06223)|null|
 
-<p align=right>(<a href=#updated-on-20260930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
 ## Prompt Injection (OWASP LLM01)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-30**|**Aletheia: Permission-Minimality Testing for Coding-Agent Rules**|Jieke Shi et.al.|[2609.39678](http://arxiv.org/abs/2609.39678)|null|
+|**2026-09-30**|**Towards Efficient HPC Systems for Agents: Challenges and Opportunities**|Yunjia Zheng et.al.|[2609.38723](http://arxiv.org/abs/2609.38723)|null|
+|**2026-09-29**|**ContractWarden: Kernel-Enforced Damage Boundaries for AI Agents via Human-Authorized Contracts**|Dongxu Cui et.al.|[2609.38248](http://arxiv.org/abs/2609.38248)|null|
 |**2026-09-29**|**Where Do LLMs Decide to Break the Rules? Mechanistic Localization of Prompt Injection Compliance**|Rui Wen et.al.|[2609.37737](http://arxiv.org/abs/2609.37737)|null|
 |**2026-09-29**|**ToolFence: Fine-Grained Authorization for Secure Tool-Using LLM Agents**|Yanjie Li et.al.|[2609.37196](http://arxiv.org/abs/2609.37196)|null|
 |**2026-09-29**|**Selecting The Most Informative Tokens in Natural Language Autoencoders**|Federico Torrielli et.al.|[2609.37040](http://arxiv.org/abs/2609.37040)|null|
@@ -3310,7 +3327,7 @@
 |**2026-09-22**|**Efficient Nash Equilibrium Computation for Cybersecurity Games**|Michael Lanier et.al.|[2609.19399](http://arxiv.org/abs/2609.19399)|null|
 |**2026-09-16**|**AgentLSD: Evaluating AI Security Agents Under Adversarial Task Contamination**|Matteo Golinelli et.al.|[2609.19140](http://arxiv.org/abs/2609.19140)|null|
 |**2026-09-16**|**CaMeLoT: CaMeL orchestrated with Temporal logic for static verification and liveness**|Elia Nikolaou et.al.|[2609.18674](http://arxiv.org/abs/2609.18674)|null|
-|**2026-09-16**|**The Verifiable Action Card: Trustworthy Human-in-the-Loop Control for Secure Autonomous Agents**|Hasnain Irshad et.al.|[2609.18411](http://arxiv.org/abs/2609.18411)|null|
+|**2026-09-30**|**The Verifiable Action Card: Trustworthy Human-in-the-Loop Control for Secure Autonomous Agents**|Hasnain Irshad et.al.|[2609.18411](http://arxiv.org/abs/2609.18411)|null|
 |**2026-09-15**|**Trust propagation and structural containment in Multi-agent LLM pipelines**|Tanzim Hossain Safin et.al.|[2609.17648](http://arxiv.org/abs/2609.17648)|null|
 |**2026-09-15**|**Emergence World: Adversarial Stress-Testing of Long-Horizon Multi-Agent Systems**|Deepak Akkil et.al.|[2609.17320](http://arxiv.org/abs/2609.17320)|null|
 |**2026-09-14**|**Universal Defenses for Tool-Integrated LLM Agents Against Adversarial Attacks**|Xiaoyan Li et.al.|[2609.16098](http://arxiv.org/abs/2609.16098)|null|
@@ -4269,7 +4286,7 @@
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|null|
 |**2017-09-29**|**Hydrogen-rich supernovae beyond the neutrino-driven core-collapse paradigm**|G. Terreran et.al.|[1709.10475](http://arxiv.org/abs/1709.10475)|null|
 
-<p align=right>(<a href=#updated-on-20260930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
 ## Sensitive Information Disclosure (OWASP LLM02)
 
@@ -5115,7 +5132,7 @@
 |**2018-08-21**|**LOGAN: Membership Inference Attacks Against Generative Models**|Jamie Hayes et.al.|[1705.07663](http://arxiv.org/abs/1705.07663)|null|
 |**2017-03-31**|**Membership Inference Attacks against Machine Learning Models**|Reza Shokri et.al.|[1610.05820](http://arxiv.org/abs/1610.05820)|null|
 
-<p align=right>(<a href=#updated-on-20260930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
 ## Supply Chain (OWASP LLM03)
 
@@ -5124,7 +5141,7 @@
 |**2025-07-24**|**Understanding the Supply Chain and Risks of Large Language Model Applications**|Yujie Ma et.al.|[2507.18105](http://arxiv.org/abs/2507.18105)|null|
 |**2026-04-02**|**Robot Collapse: Supply Chain Backdoor Attacks Against VLM-based Robotic Manipulation**|Xianlong Wang et.al.|[2411.11683](http://arxiv.org/abs/2411.11683)|null|
 
-<p align=right>(<a href=#updated-on-20260930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
 ## Excessive Agency and Agentic Security (OWASP LLM06)
 
@@ -5168,7 +5185,7 @@
 |**2025-07-05**|**We Urgently Need Privilege Management in MCP: A Measurement of API Usage in MCP Ecosystems**|Zhihao Li et.al.|[2507.06250](http://arxiv.org/abs/2507.06250)|null|
 |**2025-09-14**|**Beyond the Protocol: Unveiling Attack Vectors in the Model Context Protocol (MCP) Ecosystem**|Hao Song et.al.|[2506.02040](http://arxiv.org/abs/2506.02040)|null|
 
-<p align=right>(<a href=#updated-on-20260930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
 ## System Prompt Leakage (OWASP LLM07)
 
@@ -5187,12 +5204,13 @@
 |**2025-08-08**|**LeakAgent: RL-based Red-teaming Agent for LLM Privacy Leakage**|Yuzhou Nie et.al.|[2412.05734](http://arxiv.org/abs/2412.05734)|null|
 |**2024-01-20**|**Jailbreaking GPT-4V via Self-Adversarial Attacks with System Prompts**|Yuanwei Wu et.al.|[2311.09127](http://arxiv.org/abs/2311.09127)|null|
 
-<p align=right>(<a href=#updated-on-20260930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
 ## Vector and Embedding Weaknesses / RAG Security (OWASP LLM08)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-30**|**WARP: A Unified Benchmark for Invisible Image Watermarking -- Robustness and Protection Against Attacks**|Khaled Abud et.al.|[2609.40031](http://arxiv.org/abs/2609.40031)|null|
 |**2026-09-21**|**DUMA-Bench: A Dual-Control Multi-Agent Benchmark for Evaluating LLM Agent Security**|Ivan Aleksandrov et.al.|[2609.24662](http://arxiv.org/abs/2609.24662)|null|
 |**2026-09-05**|**The Corroboration Illusion: When More News Makes LLM Forecasts Less True**|Yuan Lu et.al.|[2609.22246](http://arxiv.org/abs/2609.22246)|null|
 |**2026-09-11**|**Where to Defend? Layer-Wise Adversarial Training for Robust Transformer-Based Semantic Communications**|Maria Slim et.al.|[2609.13128](http://arxiv.org/abs/2609.13128)|null|
@@ -5235,7 +5253,7 @@
 |**2018-03-26**|**Rogue Signs: Deceiving Traffic Sign Recognition with Malicious Ads and Logos**|Chawin Sitawarin et.al.|[1801.02780](http://arxiv.org/abs/1801.02780)|null|
 |**2017-04-11**|**A Robust Blind Watermarking Using Convolutional Neural Network**|Seung-Min Mun et.al.|[1704.03248](http://arxiv.org/abs/1704.03248)|null|
 
-<p align=right>(<a href=#updated-on-20260930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
 ## Unbounded Consumption (OWASP LLM10)
 
@@ -5243,7 +5261,7 @@
 |---|---|---|---|---|
 |**2025-05-26**|**Crabs: Consuming Resource via Auto-generation for LLM-DoS Attack under Black-box Settings**|Yuanhe Zhang et.al.|[2412.13879](http://arxiv.org/abs/2412.13879)|null|
 
-<p align=right>(<a href=#updated-on-20260930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
