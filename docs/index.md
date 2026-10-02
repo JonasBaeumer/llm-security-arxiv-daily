@@ -2,16 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.10.01
+## Updated on 2026.10.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-01**|**Kernelized Activation Steering**|Laziz U. Abdullaev et.al.|[2610.01062](http://arxiv.org/abs/2610.01062)|null|
+|**2026-10-01**|**MOMAT: Mixture of Multiple Atlases for Low-Power Jailbreak Defense of Quantized LLMs**|Boyang Li et.al.|[2610.01058](http://arxiv.org/abs/2610.01058)|null|
 |**2026-09-30**|**CodeMimicry: Exploiting Safety Generalization Lag in Large Language Models via Structured Code Completion**|Zhen Liang et.al.|[2609.39902](http://arxiv.org/abs/2609.39902)|null|
 |**2026-09-30**|**SceneJail: Exploiting Video Scenario Context to Jailbreak Multimodal LLMs**|Wenyu Chen et.al.|[2609.38899](http://arxiv.org/abs/2609.38899)|null|
-|**2026-09-29**|**Alignment via Training Against Probes Without Losing Monitorability**|Lena Libon et.al.|[2609.38645](http://arxiv.org/abs/2609.38645)|null|
+|**2026-10-01**|**Alignment via Training Against Probes Without Losing Monitorability**|Lena Libon et.al.|[2609.38645](http://arxiv.org/abs/2609.38645)|null|
 |**2026-09-29**|**CollageAttack: Exploiting Cross-Modal Alignment Flaws in T2I Models through Spatial Text Composition**|Zhiyi Mou et.al.|[2609.38253](http://arxiv.org/abs/2609.38253)|null|
 |**2026-09-29**|**Inference-Layer Security: Defending Against Adversarial Inference and Infrastructure Abuse**|Keifer Lee et.al.|[2609.38239](http://arxiv.org/abs/2609.38239)|null|
 |**2026-09-23**|**The System Prompt Illusion: How Instruction Preambles Modify Computation in Language Models**|Muhammad Usama et.al.|[2609.38205](http://arxiv.org/abs/2609.38205)|null|
@@ -1185,6 +1187,11 @@ layout: default
 |**2002-05-07**|**The power spectrum of galaxies in the 2dF 100k redshift survey**|Max Tegmark et.al.|[astro-ph/0111575](http://arxiv.org/abs/astro-ph/0111575)|null|
 |**2001-05-21**|**Reconciliation of the Surface Brightness Fluctuations and Type Ia Supernovae Distance Scales**|Edward A. Ajhar et.al.|[astro-ph/0105366](http://arxiv.org/abs/astro-ph/0105366)|null|
 |**2002-02-27**|**Is cosmology consistent?**|Xiaomin Wang et.al.|[astro-ph/0105091](http://arxiv.org/abs/astro-ph/0105091)|null|
+|**2026-10-01**|**MOMAT: Mixture of Multiple Atlases for Low-Power Jailbreak Defense of Quantized LLMs**|Boyang Li et.al.|[2610.01058](http://arxiv.org/abs/2610.01058)|null|
+|**2026-10-01**|**Video-Index: A Curated Meta-Benchmark for Video Understanding**|Enxin Song et.al.|[2610.00960](http://arxiv.org/abs/2610.00960)|null|
+|**2026-09-30**|**Towards Hierarchical Cyber Defense with Large Language Models: From Planning to Execution**|Harshith Doppalapudi et.al.|[2610.00590](http://arxiv.org/abs/2610.00590)|null|
+|**2026-09-30**|**No One Architecture Fits All: A Cross-Environment Evaluation of Hierarchical Red Team Agents**|Ayan Javeed Shaikh et.al.|[2610.00557](http://arxiv.org/abs/2610.00557)|null|
+|**2026-09-30**|**From A2A Attacks to Envelope-Layer Defense: Red-Teaming Evaluation of LLM Agents and a Three-Layer Isomorphic Attack-Defense Model**|Yuelin Han et.al.|[2610.00392](http://arxiv.org/abs/2610.00392)|null|
 |**2026-09-30**|**Who Verifies the Graph? Misspecification Attacks on Causal Action Verification for Language Agents**|Fabio Rovai et.al.|[2609.40027](http://arxiv.org/abs/2609.40027)|null|
 |**2026-09-30**|**Refusals That Bend: Measuring and Predicting Task Malleability in Embodied VLM Planners**|Leo Y. Lin et.al.|[2609.38971](http://arxiv.org/abs/2609.38971)|null|
 |**2026-09-29**|**Frontier Autolab: Organizational Memory, Adversarial Dissent and Temporal Leakage in Multi-Agent LLM Firms Across Fifty Years of Technological Change**|Bravish Ghosh et.al.|[2609.36739](http://arxiv.org/abs/2609.36739)|null|
@@ -2094,8 +2101,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-01**|**Scalable, Transferable Meta-network for Data Selection Requires a Different Loss (and Why the Obvious Choice is Problematic)**|Zilin Du et.al.|[2610.02092](http://arxiv.org/abs/2610.02092)|null|
+|**2026-10-01**|**False Floors: LLM Safety Routing Evaluations Break Under Distribution Shift**|Amit Singh Bhatti et.al.|[2610.01535](http://arxiv.org/abs/2610.01535)|null|
+|**2026-10-01**|**High-quality Data Do not Mean Safe! Poisoning LLMs after Data Selection**|Kaiyang Li et.al.|[2610.01367](http://arxiv.org/abs/2610.01367)|null|
+|**2026-10-01**|**TRACE: Trajectory Return Attribution and Contrastive Erasure for Multi-Turn Safety**|Fengpeng Li et.al.|[2610.01323](http://arxiv.org/abs/2610.01323)|null|
 |**2026-09-30**|**CodeMimicry: Exploiting Safety Generalization Lag in Large Language Models via Structured Code Completion**|Zhen Liang et.al.|[2609.39902](http://arxiv.org/abs/2609.39902)|null|
-|**2026-09-30**|**Safety of Latent Communication in Multi-Agent Systems**|Muhammad Huzaifa et.al.|[2609.39788](http://arxiv.org/abs/2609.39788)|null|
+|**2026-10-01**|**Safety of Latent Communication in Multi-Agent Systems**|Muhammad Huzaifa et.al.|[2609.39788](http://arxiv.org/abs/2609.39788)|null|
 |**2026-09-30**|**ShieldCLIP: Selective Safety Alignment for Harmful Content Mitigation in Multimodal Foundation Models**|Tobia Poppi et.al.|[2609.39688](http://arxiv.org/abs/2609.39688)|null|
 |**2026-09-30**|**Faithful Dual-constrained Erasure for Robust LLM Safety Alignment**|Jiaqing Li et.al.|[2609.39279](http://arxiv.org/abs/2609.39279)|null|
 |**2026-09-30**|**Refusals That Bend: Measuring and Predicting Task Malleability in Embodied VLM Planners**|Leo Y. Lin et.al.|[2609.38971](http://arxiv.org/abs/2609.38971)|null|
@@ -3261,6 +3272,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-01**|**The Innocent Courier: Covert Exfiltration Through Legitimate LLM Web Fetching**|Alessandro Pegoraro et.al.|[2610.01768](http://arxiv.org/abs/2610.01768)|null|
+|**2026-09-30**|**Memetic Trojans: Social Contagions as Carriers of Adversarial Payloads in Agent Networks**|Birk Torpmann-Hagen et.al.|[2610.00430](http://arxiv.org/abs/2610.00430)|null|
+|**2026-09-30**|**From A2A Attacks to Envelope-Layer Defense: Red-Teaming Evaluation of LLM Agents and a Three-Layer Isomorphic Attack-Defense Model**|Yuelin Han et.al.|[2610.00392](http://arxiv.org/abs/2610.00392)|null|
 |**2026-09-30**|**Aletheia: Permission-Minimality Testing for Coding-Agent Rules**|Jieke Shi et.al.|[2609.39678](http://arxiv.org/abs/2609.39678)|null|
 |**2026-09-30**|**Towards Efficient HPC Systems for Agents: Challenges and Opportunities**|Yunjia Zheng et.al.|[2609.38723](http://arxiv.org/abs/2609.38723)|null|
 |**2026-09-29**|**ContractWarden: Kernel-Enforced Damage Boundaries for AI Agents via Human-Authorized Contracts**|Dongxu Cui et.al.|[2609.38248](http://arxiv.org/abs/2609.38248)|null|
@@ -5133,7 +5147,7 @@ layout: default
 |**2026-07-13**|**Rethinking MCP Security: A Large-Scale Study of Runtime MCP Servers and Security Scanner Reliability**|Pei Chen et.al.|[2607.11086](http://arxiv.org/abs/2607.11086)|null|
 |**2026-07-07**|**The Balkanization of Execution-Security Research for AI Coding Agents: Isolation, Access Control, and Time-of-Check-to-Time-of-Use Vulnerabilities**|Mohammadreza Rashidi et.al.|[2607.05743](http://arxiv.org/abs/2607.05743)|null|
 |**2026-06-20**|**AgentRiskBOM: A Risk-Scoping Security Bill of Materials for Agentic AI Systems**|Srimonti Dutta et.al.|[2606.21877](http://arxiv.org/abs/2606.21877)|null|
-|**2026-09-24**|**Analyzing Defensive Misdirection Against Model-Guided Automated Attacks on Agentic AI Systems**|Reza Soosahabi et.al.|[2606.20470](http://arxiv.org/abs/2606.20470)|null|
+|**2026-09-30**|**Analyzing Defensive Misdirection Against Model-Guided Automated Attacks on Agentic AI Systems**|Reza Soosahabi et.al.|[2606.20470](http://arxiv.org/abs/2606.20470)|null|
 |**2026-06-12**|**A Security Analysis of Long-Horizon Agentic AI Systems: Threats, Evaluation, and Framework Development**|Ahmed Mohammed Almalki et.al.|[2606.14816](http://arxiv.org/abs/2606.14816)|null|
 |**2026-05-17**|**ADR: An Agentic Detection System for Enterprise Agentic AI Security**|Chenning Li et.al.|[2605.17380](http://arxiv.org/abs/2605.17380)|null|
 |**2026-05-06**|**Agentic AI and the Industrialization of Cyber Offense: Forecast, Consequences, and Defensive Priorities for Enterprises and the Mittelstand**|Christopher Koch et.al.|[2605.06713](http://arxiv.org/abs/2605.06713)|null|
