@@ -2,13 +2,19 @@
 layout: default
 ---
 
-## Updated on 2026.10.04
+## Updated on 2026.10.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-02**|**CorrectGuard: Eyes-Off Correctness Estimation for Black-Box Security Guardrails**|Adam Faulkner et.al.|[2610.03470](http://arxiv.org/abs/2610.03470)|null|
+|**2026-10-02**|**Bounded Reachability & Jailbreak Detection via Contraction-Constrained State Space Models**|Omanshu Thapliyal et.al.|[2610.02853](http://arxiv.org/abs/2610.02853)|null|
+|**2026-10-02**|**MLCommons Jailbreak Benchmark v1.0**|Carsten Maple et.al.|[2610.02827](http://arxiv.org/abs/2610.02827)|null|
+|**2026-10-01**|**Mitigating Private Data Leakage in LLMs with Whiteout**|Anna Yoo Jeong Ha et.al.|[2610.02418](http://arxiv.org/abs/2610.02418)|null|
+|**2026-10-01**|**Prompted to Discriminate: Generalizing Malicious-Input Probes in the Wild**|Elad David et.al.|[2610.02413](http://arxiv.org/abs/2610.02413)|null|
+|**2026-10-01**|**Intent-Hiding Jailbreaks: An Information-Theoretic Framework for Compositional Attacks**|Fengwei Tian et.al.|[2610.02302](http://arxiv.org/abs/2610.02302)|null|
 |**2026-10-01**|**Kernelized Activation Steering**|Laziz U. Abdullaev et.al.|[2610.01062](http://arxiv.org/abs/2610.01062)|null|
 |**2026-10-01**|**MOMAT: Mixture of Multiple Atlases for Low-Power Jailbreak Defense of Quantized LLMs**|Boyang Li et.al.|[2610.01058](http://arxiv.org/abs/2610.01058)|null|
 |**2026-09-30**|**CodeMimicry: Exploiting Safety Generalization Lag in Large Language Models via Structured Code Completion**|Zhen Liang et.al.|[2609.39902](http://arxiv.org/abs/2609.39902)|null|
@@ -2101,6 +2107,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-02**|**DNAlign: Dynamic Null-Space Safe Alignment for LLMs**|Jisheng Dang et.al.|[2610.02844](http://arxiv.org/abs/2610.02844)|null|
 |**2026-10-01**|**Scalable, Transferable Meta-network for Data Selection Requires a Different Loss (and Why the Obvious Choice is Problematic)**|Zilin Du et.al.|[2610.02092](http://arxiv.org/abs/2610.02092)|null|
 |**2026-10-01**|**False Floors: LLM Safety Routing Evaluations Break Under Distribution Shift**|Amit Singh Bhatti et.al.|[2610.01535](http://arxiv.org/abs/2610.01535)|null|
 |**2026-10-01**|**High-quality Data Do not Mean Safe! Poisoning LLMs after Data Selection**|Kaiyang Li et.al.|[2610.01367](http://arxiv.org/abs/2610.01367)|null|
@@ -3272,6 +3279,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-02**|**CorrectGuard: Eyes-Off Correctness Estimation for Black-Box Security Guardrails**|Adam Faulkner et.al.|[2610.03470](http://arxiv.org/abs/2610.03470)|null|
+|**2026-10-02**|**Passing the Test You Trained On: Re-evaluating Prompt-Injection Detectors for LLM Agents**|Zhuowen Liu et.al.|[2610.03448](http://arxiv.org/abs/2610.03448)|null|
+|**2026-10-02**|**Persona Guardrail: A Production-Grade Defense Framework for Agentic Systems**|Bijeeta Pal et.al.|[2610.03434](http://arxiv.org/abs/2610.03434)|null|
+|**2026-10-02**|**LS-AR: Future-Predictive Latent Steering in Autoregressive LLMs**|Anubha Gupta et.al.|[2610.03093](http://arxiv.org/abs/2610.03093)|null|
+|**2026-10-02**|**Securing Computer-Use Agents Against Branch Steering Attacks**|Giulio Zingrillo et.al.|[2610.03089](http://arxiv.org/abs/2610.03089)|null|
+|**2026-10-02**|**SecJev: Bringing Security Expertise to System One Decision Models**|Zheng Chen et.al.|[2610.03073](http://arxiv.org/abs/2610.03073)|null|
+|**2026-10-02**|**Containing the Autonomous Operator: A Defense-in-Depth Framework and Reference Architecture for Securing AI Agents on Kubernetes**|Simhadri Podala Narasimha et.al.|[2610.02861](http://arxiv.org/abs/2610.02861)|null|
+|**2026-10-01**|**Evaluating and Improving the Robustness of Large Language Models to Input Sequence Variations**|Narek Maloyan et.al.|[2610.02432](http://arxiv.org/abs/2610.02432)|null|
+|**2026-10-01**|**Prompted to Discriminate: Generalizing Malicious-Input Probes in the Wild**|Elad David et.al.|[2610.02413](http://arxiv.org/abs/2610.02413)|null|
 |**2026-10-01**|**The Innocent Courier: Covert Exfiltration Through Legitimate LLM Web Fetching**|Alessandro Pegoraro et.al.|[2610.01768](http://arxiv.org/abs/2610.01768)|null|
 |**2026-09-30**|**Memetic Trojans: Social Contagions as Carriers of Adversarial Payloads in Agent Networks**|Birk Torpmann-Hagen et.al.|[2610.00430](http://arxiv.org/abs/2610.00430)|null|
 |**2026-09-30**|**From A2A Attacks to Envelope-Layer Defense: Red-Teaming Evaluation of LLM Agents and a Three-Layer Isomorphic Attack-Defense Model**|Yuelin Han et.al.|[2610.00392](http://arxiv.org/abs/2610.00392)|null|
@@ -4286,6 +4302,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-02**|**OLMo-Detect: A Multi-Stage, Confounder-Controlled Benchmark for Membership Inference on Large Language Models**|Tao Shi et.al.|[2610.02986](http://arxiv.org/abs/2610.02986)|null|
+|**2026-10-02**|**Kinematics-Induced Multimodal 3D Human Pose Estimation with Subject-Level Privacy**|Kaushik Bhargav Sivangi et.al.|[2610.02943](http://arxiv.org/abs/2610.02943)|null|
 |**2026-09-28**|**Evaluating Machine Unlearning in ASR**|Diogo Dinis et.al.|[2609.34092](http://arxiv.org/abs/2609.34092)|null|
 |**2026-09-27**|**The Privacy Fallacy of Crowdsourced Fine-Tuning: Extracting Proprietary Data via Topic-Based Poisoning**|Sae Furukawa et.al.|[2609.33985](http://arxiv.org/abs/2609.33985)|null|
 |**2026-09-14**|**Don't Send What You Don't Need: Question-Guided Token Pruning as a Privacy Defense for Vision-Language Models**|Md Khalid Syfullah et.al.|[2609.15671](http://arxiv.org/abs/2609.15671)|null|
