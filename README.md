@@ -2133,7 +2133,7 @@
 |**2026-09-30**|**ShieldCLIP: Selective Safety Alignment for Harmful Content Mitigation in Multimodal Foundation Models**|Tobia Poppi et.al.|[2609.39688](http://arxiv.org/abs/2609.39688)|null|
 |**2026-09-30**|**Faithful Dual-constrained Erasure for Robust LLM Safety Alignment**|Jiaqing Li et.al.|[2609.39279](http://arxiv.org/abs/2609.39279)|null|
 |**2026-09-30**|**Refusals That Bend: Measuring and Predicting Task Malleability in Embodied VLM Planners**|Leo Y. Lin et.al.|[2609.38971](http://arxiv.org/abs/2609.38971)|null|
-|**2026-09-29**|**The Geometry of Harmfulness in Multi-Turn Attacks**| Yelyzaveta et.al.|[2609.38389](http://arxiv.org/abs/2609.38389)|null|
+|**2026-09-29**|**The Geometry of Harmfulness in Multi-Turn Attacks**|Yelyzaveta et.al.|[2609.38389](http://arxiv.org/abs/2609.38389)|null|
 |**2026-09-30**|**ACTR: Aligning Thoughts and Responses for Multilingual Safety in Reasoning LLMs**|Xianhui Zhang et.al.|[2609.37054](http://arxiv.org/abs/2609.37054)|null|
 |**2026-09-29**|**Controlled Decoding Attacks on Black-Box LLMs**|Jesson Wang et.al.|[2609.36956](http://arxiv.org/abs/2609.36956)|null|
 |**2026-09-29**|**Safer Content or Firmer Refusals? A Hybrid Perturbation Defense for Alignment under Harmful Fine-tuning**|Muhammad Zeeshan Akram et.al.|[2609.36862](http://arxiv.org/abs/2609.36862)|null|
