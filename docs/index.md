@@ -2,13 +2,20 @@
 layout: default
 ---
 
-## Updated on 2026.10.06
+## Updated on 2026.10.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-06**|**Secure Speculative Decoding for Large Language Models**|Yichi Zhang et.al.|[2610.08678](http://arxiv.org/abs/2610.08678)|null|
+|**2026-10-05**|**Safeguarding LLMs via Model-Agnostic Latent Safety Signals from Dark Knowledge**|Wonjun Lee et.al.|[2610.07532](http://arxiv.org/abs/2610.07532)|null|
+|**2026-10-05**|**Dynamic Budget Allocation for LLM Evaluation under Hard Resource Constraints**|Shai Feldman et.al.|[2610.07362](http://arxiv.org/abs/2610.07362)|null|
+|**2026-10-05**|**Jailbreaking Open-Weight LLMs via Random Embedding Perturbations**|Abhinav Sudhakar Dubey et.al.|[2610.07125](http://arxiv.org/abs/2610.07125)|null|
+|**2026-10-04**|**Beyond Refusal Patterns: Safe-Role Internalization for Robust and Generalizable LLM Safety Alignment**|Jinghao Pang et.al.|[2610.07023](http://arxiv.org/abs/2610.07023)|null|
+|**2026-10-04**|**Which Image Property Carries the Jailbreak? A Controlled Dissection of Image-to-Text Jailbreaks**|Boyuan Chen et.al.|[2610.07009](http://arxiv.org/abs/2610.07009)|null|
+|**2026-10-04**|**Where Does the Audio Jailbreak Live? A Controlled Frequency-Depth Audit of AdvWave-P on Qwen2-Audio**|Boyuan Chen et.al.|[2610.07005](http://arxiv.org/abs/2610.07005)|null|
 |**2026-10-05**|**Benchmarking Jailbreak Guardrails for Embodied Agents**|Xunguang Wang et.al.|[2610.06122](http://arxiv.org/abs/2610.06122)|null|
 |**2026-10-04**|**Don't Judge an LLM Only by Its Activations: Discovering Suppressed Safety Features via Counterfactual Activation Potential**|Swadesh Swain et.al.|[2610.05541](http://arxiv.org/abs/2610.05541)|null|
 |**2026-10-04**|**Red-TTT: Test-Time Training for Automated Jailbreaking Large Language Models**|Tongyan Hu et.al.|[2610.05282](http://arxiv.org/abs/2610.05282)|null|
@@ -1200,6 +1207,7 @@ layout: default
 |**2002-05-07**|**The power spectrum of galaxies in the 2dF 100k redshift survey**|Max Tegmark et.al.|[astro-ph/0111575](http://arxiv.org/abs/astro-ph/0111575)|null|
 |**2001-05-21**|**Reconciliation of the Surface Brightness Fluctuations and Type Ia Supernovae Distance Scales**|Edward A. Ajhar et.al.|[astro-ph/0105366](http://arxiv.org/abs/astro-ph/0105366)|null|
 |**2002-02-27**|**Is cosmology consistent?**|Xiaomin Wang et.al.|[astro-ph/0105091](http://arxiv.org/abs/astro-ph/0105091)|null|
+|**2026-10-05**|**ATLAS-AL: Adaptive Trust-Region for Latent Adversarial Searches via Active Learning**|Marsalis Gibson et.al.|[2610.07323](http://arxiv.org/abs/2610.07323)|null|
 |**2026-10-04**|**Reflections and Fragments: Securing LLMs Against Sequential Mosaic Attacks**|Emanuele La Malfa et.al.|[2610.05346](http://arxiv.org/abs/2610.05346)|null|
 |**2026-10-04**|**Red-TTT: Test-Time Training for Automated Jailbreaking Large Language Models**|Tongyan Hu et.al.|[2610.05282](http://arxiv.org/abs/2610.05282)|null|
 |**2026-10-03**|**Penumbra: Sample-Efficient Adversarial Search for Regulatory Obligations**|Anthony Rhodes et.al.|[2610.04693](http://arxiv.org/abs/2610.04693)|null|
@@ -2119,6 +2127,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-06**|**ASCENT: First-Order Optimal Fine-Tuning with Recalibration for Safety--Utility Co-Enhancement**|Weiwei Qi et.al.|[2610.08061](http://arxiv.org/abs/2610.08061)|null|
+|**2026-10-06**|**SIGMA: Self-Improving Alignment Generalization from a Model Spec**|Jingyu Zhang et.al.|[2610.07935](http://arxiv.org/abs/2610.07935)|null|
+|**2026-10-06**|**The Model Plants the Trigger: Answer-Side Backdoor Attacks in Multi-Turn Large Language Models**|Yibo Zhang et.al.|[2610.07723](http://arxiv.org/abs/2610.07723)|null|
+|**2026-10-06**|**Does On-Policy Distillation for Safety Pose Backdoor Risks?**|Jian Luo et.al.|[2610.07654](http://arxiv.org/abs/2610.07654)|null|
+|**2026-10-05**|**Safeguarding LLMs via Model-Agnostic Latent Safety Signals from Dark Knowledge**|Wonjun Lee et.al.|[2610.07532](http://arxiv.org/abs/2610.07532)|null|
+|**2026-10-04**|**Beyond Refusal Patterns: Safe-Role Internalization for Robust and Generalizable LLM Safety Alignment**|Jinghao Pang et.al.|[2610.07023](http://arxiv.org/abs/2610.07023)|null|
 |**2026-10-05**|**Visual Grounding Safety in Vision-Language Models**|Erfan Shayegani et.al.|[2610.05637](http://arxiv.org/abs/2610.05637)|null|
 |**2026-10-04**|**Safe Context Switching for Agents in the Wild: Mitigating Subspace Interference via Orthogonal Adaptation**|Akash Das et.al.|[2610.05219](http://arxiv.org/abs/2610.05219)|null|
 |**2026-10-04**|**EmoRSS: Mitigating Emotion-Induced Over-Refusal in Large Language Models**|Shuyi Miao et.al.|[2610.04998](http://arxiv.org/abs/2610.04998)|null|
@@ -3297,6 +3311,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-06**|**AdvSim2Real : Training Web Agents Against Adaptive Prompt Injection in a Web World Model**|Sarim Hashmi et.al.|[2610.08773](http://arxiv.org/abs/2610.08773)|null|
+|**2026-10-06**|**Secure Speculative Decoding for Large Language Models**|Yichi Zhang et.al.|[2610.08678](http://arxiv.org/abs/2610.08678)|null|
+|**2026-10-06**|**RAG-PIBench: A Leakage-Aware Benchmark for Prompt-Injection Detection in Trustworthy RAG Systems**|Niveen O. Jaffal et.al.|[2610.08571](http://arxiv.org/abs/2610.08571)|null|
+|**2026-10-06**|**Surviving the Router: Optimizing Skill Injections for Retrieval and Execution**|Haneen Najjar et.al.|[2610.08098](http://arxiv.org/abs/2610.08098)|null|
+|**2026-10-05**|**Towards a Unified Misuse Monitoring Benchmark**|Aniruddh Pramod et.al.|[2610.07089](http://arxiv.org/abs/2610.07089)|null|
+|**2026-10-03**|**APEX: Active Protection at Execution Boundaries for LLM Agents**|Xinran Zheng et.al.|[2610.06966](http://arxiv.org/abs/2610.06966)|null|
 |**2026-10-05**|**RAISED: Self-Distillation for Robustness to Prompt Injection in LLM Agents**|Mohamed Dhouib et.al.|[2610.06401](http://arxiv.org/abs/2610.06401)|null|
 |**2026-10-05**|**TrustMI: Causally controlling how assistants trust their users**|Théo Lasnier et.al.|[2610.06064](http://arxiv.org/abs/2610.06064)|null|
 |**2026-10-05**|**Compromise Is Not Consequence: Evaluating Task-Scoped Authorization in LLM Agents with Paired Replay**|Tural Hagverdiyev et.al.|[2610.05840](http://arxiv.org/abs/2610.05840)|null|
