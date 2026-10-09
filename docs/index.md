@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.10.08
+## Updated on 2026.10.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**One Word Opens the Gate: The Option-Channel Attack on Typed Decision Models as Agent Guardrails**|Seyedarmin Azizi et.al.|[2610.12292](http://arxiv.org/abs/2610.12292)|null|
+|**2026-10-07**|**BRANCH: Bypassing Multi-Scanner AI Guardrails**|William Hackett et.al.|[2610.10742](http://arxiv.org/abs/2610.10742)|null|
+|**2026-10-07**|**Safe at One Loop, Risky at Another: Aligning Safety Across Recurrent Depths in Looped Language Models**|Yi Wang et.al.|[2610.10625](http://arxiv.org/abs/2610.10625)|null|
 |**2026-10-07**|**PatchBench: Measuring Collateral Damage in Activation Patching**|Alexi Canesse et.al.|[2610.10276](http://arxiv.org/abs/2610.10276)|null|
 |**2026-10-07**|**From Expected Harmfulness to Likelihood: A Probabilistic Reformulation of Jailbreaking LLM Agents**|Juanyang Xu et.al.|[2610.09973](http://arxiv.org/abs/2610.09973)|null|
 |**2026-10-07**|**Understanding and Mitigating Token-Pruning-Induced Vulnerabilities in VLMs**|Shuailong Wang et.al.|[2610.09703](http://arxiv.org/abs/2610.09703)|null|
@@ -1211,8 +1214,12 @@ layout: default
 |**2002-05-07**|**The power spectrum of galaxies in the 2dF 100k redshift survey**|Max Tegmark et.al.|[astro-ph/0111575](http://arxiv.org/abs/astro-ph/0111575)|null|
 |**2001-05-21**|**Reconciliation of the Surface Brightness Fluctuations and Type Ia Supernovae Distance Scales**|Edward A. Ajhar et.al.|[astro-ph/0105366](http://arxiv.org/abs/astro-ph/0105366)|null|
 |**2002-02-27**|**Is cosmology consistent?**|Xiaomin Wang et.al.|[astro-ph/0105091](http://arxiv.org/abs/astro-ph/0105091)|null|
+|**2026-10-08**|**Ecology of AI Agents: Collaboration Creates a Population Threshold for Takeoff**|Erin Crawley et.al.|[2610.12436](http://arxiv.org/abs/2610.12436)|null|
+|**2026-10-08**|**Cited but Not Consulted: A Counterfactual Audit of Legal Chain-of-Thought Faithfulness**|Saisab Sadhu et.al.|[2610.12361](http://arxiv.org/abs/2610.12361)|null|
+|**2026-10-08**|**ReSI: Recursive Safety Improvement toward Resistant and Resilient AI**|Jingnan Zheng et.al.|[2610.12233](http://arxiv.org/abs/2610.12233)|null|
+|**2026-10-08**|**False Claims, Credible Images: A Red-Teaming Benchmark for Commercial Image Generators**|Zeyu Ye et.al.|[2610.11112](http://arxiv.org/abs/2610.11112)|null|
 |**2026-10-07**|**Constrained-Action AI Remediation for SIEM/XDR via a NeMo-Guardrails Proxy**|Georgios Koutidis et.al.|[2610.09906](http://arxiv.org/abs/2610.09906)|null|
-|**2026-10-07**|**Defensive Sufficiency in a Stackelberg Model of AI Security**|Subhabrata Majumdar et.al.|[2610.09892](http://arxiv.org/abs/2610.09892)|null|
+|**2026-10-08**|**Defensive Sufficiency in a Stackelberg Model of AI Security**|Subhabrata Majumdar et.al.|[2610.09892](http://arxiv.org/abs/2610.09892)|null|
 |**2026-10-07**|**Adversarial Images Hijack Web Agents from Visual Grounding to Browser Execution**|Wanjing Han et.al.|[2610.09240](http://arxiv.org/abs/2610.09240)|null|
 |**2026-10-06**|**ASPIRE: Agentic Safety & Prompt Injection Red-teaming Engine**|Pengfei He et.al.|[2610.08951](http://arxiv.org/abs/2610.08951)|null|
 |**2026-10-05**|**ATLAS-AL: Adaptive Trust-Region for Latent Adversarial Searches via Active Learning**|Marsalis Gibson et.al.|[2610.07323](http://arxiv.org/abs/2610.07323)|null|
@@ -2135,6 +2142,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**ReSI: Recursive Safety Improvement toward Resistant and Resilient AI**|Jingnan Zheng et.al.|[2610.12233](http://arxiv.org/abs/2610.12233)|null|
+|**2026-10-08**|**Same Outcome, Different Evidence: Intent Recovery in LLM Safety Evaluation**|Haitong Jiang et.al.|[2610.11766](http://arxiv.org/abs/2610.11766)|null|
+|**2026-10-07**|**How Narrative Wrapping Affects LLM Refusal: A Cross-Language Benchmark and Defense**|Zhankai Ye et.al.|[2610.11005](http://arxiv.org/abs/2610.11005)|null|
+|**2026-10-07**|**Safe at One Loop, Risky at Another: Aligning Safety Across Recurrent Depths in Looped Language Models**|Yi Wang et.al.|[2610.10625](http://arxiv.org/abs/2610.10625)|null|
 |**2026-10-07**|**PatchBench: Measuring Collateral Damage in Activation Patching**|Alexi Canesse et.al.|[2610.10276](http://arxiv.org/abs/2610.10276)|null|
 |**2026-10-07**|**SafeEvo: Deciphering the Safety Alignment Mechanism and Evolution in Language Models**|Miao Yu et.al.|[2610.09600](http://arxiv.org/abs/2610.09600)|null|
 |**2026-10-06**|**Careful Judge: Safe and Efficient Human-AI Collaborative Decision Making**|Chenyu Zhang et.al.|[2610.09043](http://arxiv.org/abs/2610.09043)|null|
@@ -3322,6 +3333,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**One Word Opens the Gate: The Option-Channel Attack on Typed Decision Models as Agent Guardrails**|Seyedarmin Azizi et.al.|[2610.12292](http://arxiv.org/abs/2610.12292)|null|
+|**2026-10-08**|**LTBD: Learnable Trust-Boundary Delimiters for Prompt Injection Defense**|Luman Zhao et.al.|[2610.11634](http://arxiv.org/abs/2610.11634)|null|
+|**2026-10-07**|**BRANCH: Bypassing Multi-Scanner AI Guardrails**|William Hackett et.al.|[2610.10742](http://arxiv.org/abs/2610.10742)|null|
 |**2026-10-07**|**AgentTracer: Tracing Indirect Prompt Injection Attack through Fine-Grained Intention-Execution Alignment**|Zitong Yao et.al.|[2610.09935](http://arxiv.org/abs/2610.09935)|null|
 |**2026-10-07**|**Package Hallucination Attacks on Coding Agents through Prompt Injection in Rule Files**|Yupu Wang et.al.|[2610.09264](http://arxiv.org/abs/2610.09264)|null|
 |**2026-10-06**|**ASPIRE: Agentic Safety & Prompt Injection Red-teaming Engine**|Pengfei He et.al.|[2610.08951](http://arxiv.org/abs/2610.08951)|null|
@@ -3350,7 +3364,7 @@ layout: default
 |**2026-10-02**|**Securing Computer-Use Agents Against Branch Steering Attacks**|Giulio Zingrillo et.al.|[2610.03089](http://arxiv.org/abs/2610.03089)|null|
 |**2026-10-02**|**SecJev: Bringing Security Expertise to System One Decision Models**|Zheng Chen et.al.|[2610.03073](http://arxiv.org/abs/2610.03073)|null|
 |**2026-10-02**|**Containing the Autonomous Operator: A Defense-in-Depth Framework and Reference Architecture for Securing AI Agents on Kubernetes**|Simhadri Podala Narasimha et.al.|[2610.02861](http://arxiv.org/abs/2610.02861)|null|
-|**2026-10-01**|**Evaluating and Improving the Robustness of Large Language Models to Input Sequence Variations**|Narek Maloyan et.al.|[2610.02432](http://arxiv.org/abs/2610.02432)|null|
+|**2026-10-08**|**Evaluating and Improving the Robustness of Large Language Models to Input Sequence Variations**|Narek Maloyan et.al.|[2610.02432](http://arxiv.org/abs/2610.02432)|null|
 |**2026-10-01**|**Prompted to Discriminate: Generalizing Malicious-Input Probes in the Wild**|Elad David et.al.|[2610.02413](http://arxiv.org/abs/2610.02413)|null|
 |**2026-10-01**|**The Innocent Courier: Covert Exfiltration Through Legitimate LLM Web Fetching**|Alessandro Pegoraro et.al.|[2610.01768](http://arxiv.org/abs/2610.01768)|null|
 |**2026-10-02**|**Memetic Trojans: Social Contagions as Carriers of Adversarial Payloads in Agent Networks**|Birk Torpmann-Hagen et.al.|[2610.00430](http://arxiv.org/abs/2610.00430)|null|
@@ -4366,6 +4380,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**NanoProof: Open and Efficient Automated Theorem Proving in Lean 4**|Matěj Kripner et.al.|[2610.11605](http://arxiv.org/abs/2610.11605)|null|
+|**2026-10-07**|**Power Side-Channel Membership Inference Attack on Embedded Machine Learning**|Sahan Sanjaya et.al.|[2610.10909](http://arxiv.org/abs/2610.10909)|null|
+|**2026-10-07**|**When Routing Reveals Membership: Privacy Leakage from MoE Router Telemetry**|Yixin Tan et.al.|[2610.10616](http://arxiv.org/abs/2610.10616)|null|
 |**2026-10-07**|**Open-MMUnlearning: Unifying Methods and Evaluation for MLLM Unlearning**|Junkai Chen et.al.|[2610.10358](http://arxiv.org/abs/2610.10358)|null|
 |**2026-10-07**|**Efficient Provably Private Classification with a Tabular Foundation Model**|Talal Alrawajfeh et.al.|[2610.10068](http://arxiv.org/abs/2610.10068)|null|
 |**2026-10-07**|**Closed-Form Noise Calibration Against Membership Inference for Random-Allocation DP-SGD**|Murat Bilgehan Ertan et.al.|[2610.09651](http://arxiv.org/abs/2610.09651)|null|
