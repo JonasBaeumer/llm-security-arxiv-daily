@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.10.11
+## Updated on 2026.10.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-09**|**Attention Sees, MLP Refuses: Tracing the Attention-to-MLP Safety Pathway in LLMs**|Zixuan Weng et.al.|[2610.13078](http://arxiv.org/abs/2610.13078)|null|
 |**2026-10-08**|**One Word Opens the Gate: The Option-Channel Attack on Typed Decision Models as Agent Guardrails**|Seyedarmin Azizi et.al.|[2610.12292](http://arxiv.org/abs/2610.12292)|null|
 |**2026-10-07**|**BRANCH: Bypassing Multi-Scanner AI Guardrails**|William Hackett et.al.|[2610.10742](http://arxiv.org/abs/2610.10742)|null|
 |**2026-10-07**|**Safe at One Loop, Risky at Another: Aligning Safety Across Recurrent Depths in Looped Language Models**|Yi Wang et.al.|[2610.10625](http://arxiv.org/abs/2610.10625)|null|
@@ -1214,6 +1215,8 @@ layout: default
 |**2002-05-07**|**The power spectrum of galaxies in the 2dF 100k redshift survey**|Max Tegmark et.al.|[astro-ph/0111575](http://arxiv.org/abs/astro-ph/0111575)|null|
 |**2001-05-21**|**Reconciliation of the Surface Brightness Fluctuations and Type Ia Supernovae Distance Scales**|Edward A. Ajhar et.al.|[astro-ph/0105366](http://arxiv.org/abs/astro-ph/0105366)|null|
 |**2002-02-27**|**Is cosmology consistent?**|Xiaomin Wang et.al.|[astro-ph/0105091](http://arxiv.org/abs/astro-ph/0105091)|null|
+|**2026-10-09**|**X-AgentRed: Red-Teaming Personal Agents in Evolving Multi-Service Ecosystems**|Yeonsung Jung et.al.|[2610.13886](http://arxiv.org/abs/2610.13886)|null|
+|**2026-10-08**|**DistressBench: Evaluating Multi-Dimensional Crisis Support in Large Language Models**|Drew Rein et.al.|[2610.12758](http://arxiv.org/abs/2610.12758)|null|
 |**2026-10-08**|**Ecology of AI Agents: Collaboration Creates a Population Threshold for Takeoff**|Erin Crawley et.al.|[2610.12436](http://arxiv.org/abs/2610.12436)|null|
 |**2026-10-08**|**Cited but Not Consulted: A Counterfactual Audit of Legal Chain-of-Thought Faithfulness**|Saisab Sadhu et.al.|[2610.12361](http://arxiv.org/abs/2610.12361)|null|
 |**2026-10-08**|**ReSI: Recursive Safety Improvement toward Resistant and Resilient AI**|Jingnan Zheng et.al.|[2610.12233](http://arxiv.org/abs/2610.12233)|null|
@@ -2142,6 +2145,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-09**|**Attention Sees, MLP Refuses: Tracing the Attention-to-MLP Safety Pathway in LLMs**|Zixuan Weng et.al.|[2610.13078](http://arxiv.org/abs/2610.13078)|null|
 |**2026-10-08**|**ReSI: Recursive Safety Improvement toward Resistant and Resilient AI**|Jingnan Zheng et.al.|[2610.12233](http://arxiv.org/abs/2610.12233)|null|
 |**2026-10-08**|**Same Outcome, Different Evidence: Intent Recovery in LLM Safety Evaluation**|Haitong Jiang et.al.|[2610.11766](http://arxiv.org/abs/2610.11766)|null|
 |**2026-10-07**|**How Narrative Wrapping Affects LLM Refusal: A Cross-Language Benchmark and Defense**|Zhankai Ye et.al.|[2610.11005](http://arxiv.org/abs/2610.11005)|null|
@@ -3333,6 +3337,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**An Exploration of Attacks on AI Agent Systems**|Cathleen Qiao et.al.|[2610.12524](http://arxiv.org/abs/2610.12524)|null|
 |**2026-10-08**|**One Word Opens the Gate: The Option-Channel Attack on Typed Decision Models as Agent Guardrails**|Seyedarmin Azizi et.al.|[2610.12292](http://arxiv.org/abs/2610.12292)|null|
 |**2026-10-08**|**LTBD: Learnable Trust-Boundary Delimiters for Prompt Injection Defense**|Luman Zhao et.al.|[2610.11634](http://arxiv.org/abs/2610.11634)|null|
 |**2026-10-07**|**BRANCH: Bypassing Multi-Scanner AI Guardrails**|William Hackett et.al.|[2610.10742](http://arxiv.org/abs/2610.10742)|null|
