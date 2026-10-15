@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.10.14
+## Updated on 2026.10.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-14**|**Diagnose Before You Refine: Multi-Dimensional Judge Feedback for Query-Efficient Jailbreak Attacks**|Yixin Tan et.al.|[2610.19971](http://arxiv.org/abs/2610.19971)|null|
+|**2026-10-14**|**Moral Combat: Exploiting Moral Foundations Theory to Jailbreak LLMs**|Adel Khorramrouz et.al.|[2610.19587](http://arxiv.org/abs/2610.19587)|null|
+|**2026-10-13**|**Did the LLM Answer the Question? A Semantic Reconstruction Game for Jailbreak Evaluation**|Liam Davis et.al.|[2610.19306](http://arxiv.org/abs/2610.19306)|null|
 |**2026-10-13**|**Cross-Lingual Transfer of Evil Vectors Is Directionally Asymmetric**|Juann Kim et.al.|[2610.17880](http://arxiv.org/abs/2610.17880)|null|
 |**2026-10-13**|**The Tokens Strike Back: Safety-Aware Denoising with Directional Embedding-based Revision**|Amman Yusuf et.al.|[2610.17636](http://arxiv.org/abs/2610.17636)|null|
 |**2026-10-12**|**TRAP: Tree-Guided Reinforcement-Augmented Probing for Automated LLM Jailbreaking**|Mohammad Reza Mirbagheri et.al.|[2610.17313](http://arxiv.org/abs/2610.17313)|null|
@@ -1223,6 +1226,7 @@ layout: default
 |**2002-05-07**|**The power spectrum of galaxies in the 2dF 100k redshift survey**|Max Tegmark et.al.|[astro-ph/0111575](http://arxiv.org/abs/astro-ph/0111575)|null|
 |**2001-05-21**|**Reconciliation of the Surface Brightness Fluctuations and Type Ia Supernovae Distance Scales**|Edward A. Ajhar et.al.|[astro-ph/0105366](http://arxiv.org/abs/astro-ph/0105366)|null|
 |**2002-02-27**|**Is cosmology consistent?**|Xiaomin Wang et.al.|[astro-ph/0105091](http://arxiv.org/abs/astro-ph/0105091)|null|
+|**2026-10-14**|**CoRedSkill: Stealthy Skill Composition Attacks via AST-Guided Injection**|Qichen Zhao et.al.|[2610.20049](http://arxiv.org/abs/2610.20049)|null|
 |**2026-10-13**|**SpecCloak: Probing Harmful Code Generation through Engineering Specifications**|Wenbin Chen et.al.|[2610.17907](http://arxiv.org/abs/2610.17907)|null|
 |**2026-10-12**|**ATTCK-R: Knowledge-Aware Long-Horizon Jailbreaking for Protected LLMs**|Md Mushfiqur Rahman et.al.|[2610.16305](http://arxiv.org/abs/2610.16305)|null|
 |**2026-10-11**|**REPRO: Reflective Evolutionary Prompt Optimizer for Automated LLM Red-Teaming**|Abrar Alotaibi et.al.|[2610.15513](http://arxiv.org/abs/2610.15513)|null|
@@ -2157,6 +2161,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-14**|**Manacá-1B-Instruct-2: Reproducible Safety Alignment for a Native Brazilian-Portuguese LLM. Negative DPO Results, a Controlled Composition Scan, and a Silent Failure Mode of the LLM Judge**|Bruno Leonardo Santos Menezes et.al.|[2610.20570](http://arxiv.org/abs/2610.20570)|null|
+|**2026-10-14**|**A Practical Framework for Incremental Testing and Technology Maturation of Spacecraft Autonomy**|Kerianne Hobbs et.al.|[2610.20433](http://arxiv.org/abs/2610.20433)|null|
+|**2026-10-14**|**Moral Combat: Exploiting Moral Foundations Theory to Jailbreak LLMs**|Adel Khorramrouz et.al.|[2610.19587](http://arxiv.org/abs/2610.19587)|null|
+|**2026-10-14**|**SaTPO: Text-to-Image Safety Alignment via Transition Preference Optimization**|Ziyi Fang et.al.|[2610.19563](http://arxiv.org/abs/2610.19563)|null|
+|**2026-10-14**|**AgentSafeEvo: Adversarial Co-Evolution for LLM Agent Safety**|Chenxu Wang et.al.|[2610.19422](http://arxiv.org/abs/2610.19422)|null|
+|**2026-10-14**|**DANGERLENS: Probing Dangerous Representations Hidden by Safety Alignment**|Tianzhuo Yang et.al.|[2610.19365](http://arxiv.org/abs/2610.19365)|null|
 |**2026-10-13**|**Efficient Safety Guardrails through Latent Dual-Hypothesis Reasoning with On-Demand Trace Reconstruction**|Md Asiful Islam et.al.|[2610.18304](http://arxiv.org/abs/2610.18304)|null|
 |**2026-10-13**|**Safety for Whom? Benchmarking Understanding Beyond Refusal in Egocentric Multimodal Assistants**|Yewon Han et.al.|[2610.17728](http://arxiv.org/abs/2610.17728)|null|
 |**2026-10-12**|**TRAP: Tree-Guided Reinforcement-Augmented Probing for Automated LLM Jailbreaking**|Mohammad Reza Mirbagheri et.al.|[2610.17313](http://arxiv.org/abs/2610.17313)|null|
@@ -3360,6 +3370,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-14**|**Are You Reading the Right Thing? Rethinking Internal Signals for Prompt-Injection Detection**|Sarthak Gupta et.al.|[2610.19452](http://arxiv.org/abs/2610.19452)|null|
+|**2026-10-14**|**AgentSafeEvo: Adversarial Co-Evolution for LLM Agent Safety**|Chenxu Wang et.al.|[2610.19422](http://arxiv.org/abs/2610.19422)|null|
+|**2026-10-14**|**Policy-Verified Self-Training: Learning Agent Compliance from Verifiable Policy Rewards**|Min-Young Yu et.al.|[2610.19372](http://arxiv.org/abs/2610.19372)|null|
+|**2026-10-13**|**TRACER: Trace-Regularized Training Against Indirect Prompt Injection**|Kshitij Mishra et.al.|[2610.19133](http://arxiv.org/abs/2610.19133)|null|
+|**2026-10-13**|**DecisionRobust: Benchmarking Robustness for JEV Style Decision Models Across Text and Vision**|Yifan Lan et.al.|[2610.19118](http://arxiv.org/abs/2610.19118)|null|
 |**2026-10-13**|**Towards Safe Autonomy for Computer Use**|Dominik Seip et.al.|[2610.18508](http://arxiv.org/abs/2610.18508)|null|
 |**2026-10-13**|**Kairos: Transactional Security Enforcement at the System Boundary for LLM Agents**|Kristoffer Hempel et.al.|[2610.18457](http://arxiv.org/abs/2610.18457)|null|
 |**2026-10-13**|**Prompt-Injection Probes Learn the Conversation, Not Just the Injection**|Kaan Kale et.al.|[2610.18408](http://arxiv.org/abs/2610.18408)|null|
@@ -3400,7 +3415,7 @@ layout: default
 |**2026-10-02**|**Persona Guardrail: A Production-Grade Defense Framework for Agentic Systems**|Bijeeta Pal et.al.|[2610.03434](http://arxiv.org/abs/2610.03434)|null|
 |**2026-10-02**|**LS-AR: Future-Predictive Latent Steering in Autoregressive LLMs**|Anubha Gupta et.al.|[2610.03093](http://arxiv.org/abs/2610.03093)|null|
 |**2026-10-02**|**Securing Computer-Use Agents Against Branch Steering Attacks**|Giulio Zingrillo et.al.|[2610.03089](http://arxiv.org/abs/2610.03089)|null|
-|**2026-10-02**|**SecJev: Bringing Security Expertise to System One Decision Models**|Zheng Chen et.al.|[2610.03073](http://arxiv.org/abs/2610.03073)|null|
+|**2026-10-14**|**SecJev: Bringing Security Expertise to System One Decision Models**|Zheng Chen et.al.|[2610.03073](http://arxiv.org/abs/2610.03073)|null|
 |**2026-10-02**|**Containing the Autonomous Operator: A Defense-in-Depth Framework and Reference Architecture for Securing AI Agents on Kubernetes**|Simhadri Podala Narasimha et.al.|[2610.02861](http://arxiv.org/abs/2610.02861)|null|
 |**2026-10-08**|**Evaluating and Improving the Robustness of Large Language Models to Input Sequence Variations**|Narek Maloyan et.al.|[2610.02432](http://arxiv.org/abs/2610.02432)|null|
 |**2026-10-01**|**Prompted to Discriminate: Generalizing Malicious-Input Probes in the Wild**|Elad David et.al.|[2610.02413](http://arxiv.org/abs/2610.02413)|null|
