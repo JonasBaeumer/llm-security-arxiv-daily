@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.10.15
+## Updated on 2026.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-14**|**Counterfactual Neighborhood Risk Fields: Evidence-Grounded Selective Safety for Vision-Language Models**|Tianshi Wang et.al.|[2610.20679](http://arxiv.org/abs/2610.20679)|null|
 |**2026-10-14**|**Diagnose Before You Refine: Multi-Dimensional Judge Feedback for Query-Efficient Jailbreak Attacks**|Yixin Tan et.al.|[2610.19971](http://arxiv.org/abs/2610.19971)|null|
 |**2026-10-14**|**Moral Combat: Exploiting Moral Foundations Theory to Jailbreak LLMs**|Adel Khorramrouz et.al.|[2610.19587](http://arxiv.org/abs/2610.19587)|null|
 |**2026-10-13**|**Did the LLM Answer the Question? A Semantic Reconstruction Game for Jailbreak Evaluation**|Liam Davis et.al.|[2610.19306](http://arxiv.org/abs/2610.19306)|null|
@@ -1226,6 +1227,9 @@ layout: default
 |**2002-05-07**|**The power spectrum of galaxies in the 2dF 100k redshift survey**|Max Tegmark et.al.|[astro-ph/0111575](http://arxiv.org/abs/astro-ph/0111575)|null|
 |**2001-05-21**|**Reconciliation of the Surface Brightness Fluctuations and Type Ia Supernovae Distance Scales**|Edward A. Ajhar et.al.|[astro-ph/0105366](http://arxiv.org/abs/astro-ph/0105366)|null|
 |**2002-02-27**|**Is cosmology consistent?**|Xiaomin Wang et.al.|[astro-ph/0105091](http://arxiv.org/abs/astro-ph/0105091)|null|
+|**2026-10-15**|**PROBE: Learning to Audit Policy Compliance in Tool-Using LLM Agents**|Kshitij Mishra et.al.|[2610.22124](http://arxiv.org/abs/2610.22124)|null|
+|**2026-10-14**|**StepSafe: Learning Timely Intervention with Context-Aware Safety Reasoning**|Siyi Gu et.al.|[2610.20960](http://arxiv.org/abs/2610.20960)|null|
+|**2026-10-14**|**Screwtape: Adversarial Transcript Editing for Monitor Red-Teaming**|Gosha Kozhevnikov et.al.|[2610.20941](http://arxiv.org/abs/2610.20941)|null|
 |**2026-10-14**|**CoRedSkill: Stealthy Skill Composition Attacks via AST-Guided Injection**|Qichen Zhao et.al.|[2610.20049](http://arxiv.org/abs/2610.20049)|null|
 |**2026-10-13**|**SpecCloak: Probing Harmful Code Generation through Engineering Specifications**|Wenbin Chen et.al.|[2610.17907](http://arxiv.org/abs/2610.17907)|null|
 |**2026-10-12**|**ATTCK-R: Knowledge-Aware Long-Horizon Jailbreaking for Protected LLMs**|Md Mushfiqur Rahman et.al.|[2610.16305](http://arxiv.org/abs/2610.16305)|null|
@@ -2161,6 +2165,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-15**|**In the Guise of Correction: How Framing and Cultural Adaptation Erode LLM Safety on Real-World Criminal Cases**|Mohsinul Kabir et.al.|[2610.21789](http://arxiv.org/abs/2610.21789)|null|
+|**2026-10-15**|**Resisting Harmful Instructions through Training-Free Weight Editing**|Ali Ebrahimpour-Boroojeny et.al.|[2610.21189](http://arxiv.org/abs/2610.21189)|null|
+|**2026-10-14**|**StepSafe: Learning Timely Intervention with Context-Aware Safety Reasoning**|Siyi Gu et.al.|[2610.20960](http://arxiv.org/abs/2610.20960)|null|
 |**2026-10-14**|**Manacá-1B-Instruct-2: Reproducible Safety Alignment for a Native Brazilian-Portuguese LLM. Negative DPO Results, a Controlled Composition Scan, and a Silent Failure Mode of the LLM Judge**|Bruno Leonardo Santos Menezes et.al.|[2610.20570](http://arxiv.org/abs/2610.20570)|null|
 |**2026-10-14**|**A Practical Framework for Incremental Testing and Technology Maturation of Spacecraft Autonomy**|Kerianne Hobbs et.al.|[2610.20433](http://arxiv.org/abs/2610.20433)|null|
 |**2026-10-14**|**Moral Combat: Exploiting Moral Foundations Theory to Jailbreak LLMs**|Adel Khorramrouz et.al.|[2610.19587](http://arxiv.org/abs/2610.19587)|null|
@@ -3370,6 +3377,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-14**|**From Detection to Decision: Calibration and Deferral for Prompt-Injection Detection**|Qianlong Lan et.al.|[2610.20907](http://arxiv.org/abs/2610.20907)|null|
+|**2026-10-14**|**INFUSE: A Unified Surface Benchmark for Indirect Prompt Injection in Agentic Systems**|Thuy Dung Nguyen et.al.|[2610.20776](http://arxiv.org/abs/2610.20776)|null|
 |**2026-10-14**|**Are You Reading the Right Thing? Rethinking Internal Signals for Prompt-Injection Detection**|Sarthak Gupta et.al.|[2610.19452](http://arxiv.org/abs/2610.19452)|null|
 |**2026-10-14**|**AgentSafeEvo: Adversarial Co-Evolution for LLM Agent Safety**|Chenxu Wang et.al.|[2610.19422](http://arxiv.org/abs/2610.19422)|null|
 |**2026-10-14**|**Policy-Verified Self-Training: Learning Agent Compliance from Verifiable Policy Rewards**|Min-Young Yu et.al.|[2610.19372](http://arxiv.org/abs/2610.19372)|null|
