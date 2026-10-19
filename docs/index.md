@@ -2,13 +2,21 @@
 layout: default
 ---
 
-## Updated on 2026.10.18
+## Updated on 2026.10.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-14**|**RedDarwin: Evolving Jailbreak Skills against Frontier LLMs**|Zhouyuan Ma et.al.|[2610.23726](http://arxiv.org/abs/2610.23726)|null|
+|**2026-10-16**|**Monitor-Validity Failures: LLM Safety Evidence Paths at Evolving Framework Boundaries**|Junchi Liao et.al.|[2610.23362](http://arxiv.org/abs/2610.23362)|null|
+|**2026-10-16**|**MobileJailBench: Red Queen Jailbreak Benchmarking for Mobile Agents**|Songping Wang et.al.|[2610.23303](http://arxiv.org/abs/2610.23303)|null|
+|**2026-10-16**|**ECHO: Replacing the Compliance Proxy with Response Harmfulness in Optimization-Based Jailbreak Attack**|Yuanwei Wu et.al.|[2610.23030](http://arxiv.org/abs/2610.23030)|null|
+|**2026-10-16**|**Multiple Turns, Short Horizons: Measuring Effective-Horizon Compression in Jailbreaks**|Zhipeng Wei et.al.|[2610.22928](http://arxiv.org/abs/2610.22928)|null|
+|**2026-10-15**|**Refusal Is Not Robustness: Measuring Harmful Reachability in Autoregressive Language Models**|Parv Kapoor et.al.|[2610.22754](http://arxiv.org/abs/2610.22754)|null|
+|**2026-10-15**|**LEMON: Equivariant Learning over Attention Maps for Zero-Shot Misbehavior Monitoring on New LLMs**|Guy Bar-Shalom et.al.|[2610.22723](http://arxiv.org/abs/2610.22723)|null|
+|**2026-10-15**|**SAFETYEDIT: Sparse Internal Targets with Prompt-Wide Control for LLM Jailbreak Backdoors**|Yutong Ke et.al.|[2610.22640](http://arxiv.org/abs/2610.22640)|null|
 |**2026-10-14**|**Counterfactual Neighborhood Risk Fields: Evidence-Grounded Selective Safety for Vision-Language Models**|Tianshi Wang et.al.|[2610.20679](http://arxiv.org/abs/2610.20679)|null|
 |**2026-10-14**|**Diagnose Before You Refine: Multi-Dimensional Judge Feedback for Query-Efficient Jailbreak Attacks**|Yixin Tan et.al.|[2610.19971](http://arxiv.org/abs/2610.19971)|null|
 |**2026-10-14**|**Moral Combat: Exploiting Moral Foundations Theory to Jailbreak LLMs**|Adel Khorramrouz et.al.|[2610.19587](http://arxiv.org/abs/2610.19587)|null|
@@ -16,7 +24,7 @@ layout: default
 |**2026-10-13**|**Cross-Lingual Transfer of Evil Vectors Is Directionally Asymmetric**|Juann Kim et.al.|[2610.17880](http://arxiv.org/abs/2610.17880)|null|
 |**2026-10-13**|**The Tokens Strike Back: Safety-Aware Denoising with Directional Embedding-based Revision**|Amman Yusuf et.al.|[2610.17636](http://arxiv.org/abs/2610.17636)|null|
 |**2026-10-12**|**TRAP: Tree-Guided Reinforcement-Augmented Probing for Automated LLM Jailbreaking**|Mohammad Reza Mirbagheri et.al.|[2610.17313](http://arxiv.org/abs/2610.17313)|null|
-|**2026-10-12**|**CT0: Cybersecurity Transformer**|Víctor Mayoral-Vilches et.al.|[2610.16550](http://arxiv.org/abs/2610.16550)|null|
+|**2026-10-15**|**CT0: Cybersecurity Transformer**|Víctor Mayoral-Vilches et.al.|[2610.16550](http://arxiv.org/abs/2610.16550)|null|
 |**2026-10-12**|**ATTCK-R: Knowledge-Aware Long-Horizon Jailbreaking for Protected LLMs**|Md Mushfiqur Rahman et.al.|[2610.16305](http://arxiv.org/abs/2610.16305)|null|
 |**2026-10-12**|**The Sharp Directions Are Against You: Curvature Analysis of Activation Steering**|Seyedarmin Azizi et.al.|[2610.16084](http://arxiv.org/abs/2610.16084)|null|
 |**2026-10-10**|**Exploring Jailbreak Vulnerability Across Depth-Based Dynamic Inference in Large Language Models**|Lass Najmuldeen et.al.|[2610.15207](http://arxiv.org/abs/2610.15207)|null|
@@ -1227,6 +1235,10 @@ layout: default
 |**2002-05-07**|**The power spectrum of galaxies in the 2dF 100k redshift survey**|Max Tegmark et.al.|[astro-ph/0111575](http://arxiv.org/abs/astro-ph/0111575)|null|
 |**2001-05-21**|**Reconciliation of the Surface Brightness Fluctuations and Type Ia Supernovae Distance Scales**|Edward A. Ajhar et.al.|[astro-ph/0105366](http://arxiv.org/abs/astro-ph/0105366)|null|
 |**2002-02-27**|**Is cosmology consistent?**|Xiaomin Wang et.al.|[astro-ph/0105091](http://arxiv.org/abs/astro-ph/0105091)|null|
+|**2026-10-14**|**RedDarwin: Evolving Jailbreak Skills against Frontier LLMs**|Zhouyuan Ma et.al.|[2610.23726](http://arxiv.org/abs/2610.23726)|null|
+|**2026-10-16**|**Trojan Horse: Automated Repository Poisoning against Coding Agents**|Xiao Yang et.al.|[2610.23109](http://arxiv.org/abs/2610.23109)|null|
+|**2026-10-15**|**Refusal Is Not Robustness: Measuring Harmful Reachability in Autoregressive Language Models**|Parv Kapoor et.al.|[2610.22754](http://arxiv.org/abs/2610.22754)|null|
+|**2026-10-15**|**The LLM-Attacker: A Unified Red-Team Framework for Privacy Evaluation of Split and Distributed LLM Systems**|Georgios Politis et.al.|[2610.22722](http://arxiv.org/abs/2610.22722)|null|
 |**2026-10-15**|**PROBE: Learning to Audit Policy Compliance in Tool-Using LLM Agents**|Kshitij Mishra et.al.|[2610.22124](http://arxiv.org/abs/2610.22124)|null|
 |**2026-10-14**|**StepSafe: Learning Timely Intervention with Context-Aware Safety Reasoning**|Siyi Gu et.al.|[2610.20960](http://arxiv.org/abs/2610.20960)|null|
 |**2026-10-14**|**Screwtape: Adversarial Transcript Editing for Monitor Red-Teaming**|Gosha Kozhevnikov et.al.|[2610.20941](http://arxiv.org/abs/2610.20941)|null|
@@ -2165,6 +2177,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-16**|**Monitor-Validity Failures: LLM Safety Evidence Paths at Evolving Framework Boundaries**|Junchi Liao et.al.|[2610.23362](http://arxiv.org/abs/2610.23362)|null|
+|**2026-10-16**|**MobileJailBench: Red Queen Jailbreak Benchmarking for Mobile Agents**|Songping Wang et.al.|[2610.23303](http://arxiv.org/abs/2610.23303)|null|
+|**2026-10-16**|**Rethinking GRPO for Large Reasoning Model Safety Alignment**|Jiawei Chen et.al.|[2610.23085](http://arxiv.org/abs/2610.23085)|null|
+|**2026-10-16**|**ECHO: Replacing the Compliance Proxy with Response Harmfulness in Optimization-Based Jailbreak Attack**|Yuanwei Wu et.al.|[2610.23030](http://arxiv.org/abs/2610.23030)|null|
+|**2026-10-15**|**Refusal Is Not Robustness: Measuring Harmful Reachability in Autoregressive Language Models**|Parv Kapoor et.al.|[2610.22754](http://arxiv.org/abs/2610.22754)|null|
+|**2026-10-15**|**Scaling Online Exploration for Robot Agents**|Runhan Huang et.al.|[2610.22496](http://arxiv.org/abs/2610.22496)|null|
+|**2026-10-15**|**Recoverability-Controlled Safety Miscalibration in Large Language Models**|Yuwei Wang et.al.|[2610.22425](http://arxiv.org/abs/2610.22425)|null|
 |**2026-10-15**|**In the Guise of Correction: How Framing and Cultural Adaptation Erode LLM Safety on Real-World Criminal Cases**|Mohsinul Kabir et.al.|[2610.21789](http://arxiv.org/abs/2610.21789)|null|
 |**2026-10-15**|**Resisting Harmful Instructions through Training-Free Weight Editing**|Ali Ebrahimpour-Boroojeny et.al.|[2610.21189](http://arxiv.org/abs/2610.21189)|null|
 |**2026-10-14**|**StepSafe: Learning Timely Intervention with Context-Aware Safety Reasoning**|Siyi Gu et.al.|[2610.20960](http://arxiv.org/abs/2610.20960)|null|
@@ -3377,6 +3396,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-16**|**MobileInject: Evaluating Reasoning-to-Action Security of MLLM-Based Mobile Agents under Cross-Modal Consistency Injection**|Songping Wang et.al.|[2610.23307](http://arxiv.org/abs/2610.23307)|null|
+|**2026-10-16**|**Ignored, Not Refused: What Low Prompt-Injection Success Rates Hide in Small Tool-Using Agents**|Farhan Zarif et.al.|[2610.23254](http://arxiv.org/abs/2610.23254)|null|
+|**2026-10-16**|**From Approval to Abuse: Privilege Escalation Attacks on Harness-Protected Coding Agents**|Xianglin Yang et.al.|[2610.22987](http://arxiv.org/abs/2610.22987)|null|
+|**2026-10-16**|**Identify, Classify, Act: Per-Instruction Controlled Compliance for LLMs over External Data**|Zesheng Shi et.al.|[2610.22874](http://arxiv.org/abs/2610.22874)|null|
+|**2026-10-16**|**Stealthy Poisoning Attacks via Reused KV Cache of Reasoning**|L. Zhu et.al.|[2610.22873](http://arxiv.org/abs/2610.22873)|null|
+|**2026-10-15**|**The Model Knows Better: Defending Medical Multi-Agent Systems Against Prompt Injection**|Fardin Ahsan Sakib et.al.|[2610.22594](http://arxiv.org/abs/2610.22594)|null|
 |**2026-10-14**|**From Detection to Decision: Calibration and Deferral for Prompt-Injection Detection**|Qianlong Lan et.al.|[2610.20907](http://arxiv.org/abs/2610.20907)|null|
 |**2026-10-14**|**INFUSE: A Unified Surface Benchmark for Indirect Prompt Injection in Agentic Systems**|Thuy Dung Nguyen et.al.|[2610.20776](http://arxiv.org/abs/2610.20776)|null|
 |**2026-10-14**|**Are You Reading the Right Thing? Rethinking Internal Signals for Prompt-Injection Detection**|Sarthak Gupta et.al.|[2610.19452](http://arxiv.org/abs/2610.19452)|null|
