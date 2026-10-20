@@ -2,13 +2,22 @@
 layout: default
 ---
 
-## Updated on 2026.10.19
+## Updated on 2026.10.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-19**|**Concerns in Benchmarking Jailbreaks: An Empirical Study of Attack Success Rates**|Leon Tu Nguyen et.al.|[2610.26595](http://arxiv.org/abs/2610.26595)|null|
+|**2026-10-19**|**Beyond Attack Success Rate: Cost-Aware Metric for Evaluating Iterative LLM Jailbreaks**|Rohan Menon et.al.|[2610.26589](http://arxiv.org/abs/2610.26589)|null|
+|**2026-10-19**|**LLMs Prompted for Legal Context Refuse More: Overrefusal from Small On-Premises LLMs in Criminal Legal Context**|Anastasiia Kucherenko et.al.|[2610.26211](http://arxiv.org/abs/2610.26211)|null|
+|**2026-10-19**|**Budgeted Attack Scheduling for LLM Red-Teaming: The Roles of Static Priors, Semantic Guidance, and Online Feedback**|Zhicheng Fang et.al.|[2610.25897](http://arxiv.org/abs/2610.25897)|null|
+|**2026-10-17**|**Peer Pressure: Execution-Verified Co-Evolution of Attacker and Defender Populations for Code Security**|Khushbu Pahwa et.al.|[2610.24896](http://arxiv.org/abs/2610.24896)|null|
+|**2026-10-17**|**The Missing Compliance Class: LLM Graders That Collapse Jailbreak Success, and a Free Check**|Ruqiya Bin Safi et.al.|[2610.24872](http://arxiv.org/abs/2610.24872)|null|
+|**2026-10-17**|**Pair-Aware Optimization: Coordinating Exploration and Refinement for Jailbreaking LLM Agents**|Juanyang Xu et.al.|[2610.24823](http://arxiv.org/abs/2610.24823)|null|
+|**2026-10-17**|**Refuse the Harm, Complete the Task via Graph-of-Rules Planning for LLM-Enabled Robots**|Ali Taheri et.al.|[2610.24603](http://arxiv.org/abs/2610.24603)|null|
+|**2026-10-17**|**From Stories to Features: Scaling Concept Vectors for AI Alignment & Interpretability**|Dmitry Scherbakov et.al.|[2610.24556](http://arxiv.org/abs/2610.24556)|null|
 |**2026-10-14**|**RedDarwin: Evolving Jailbreak Skills against Frontier LLMs**|Zhouyuan Ma et.al.|[2610.23726](http://arxiv.org/abs/2610.23726)|null|
 |**2026-10-16**|**Monitor-Validity Failures: LLM Safety Evidence Paths at Evolving Framework Boundaries**|Junchi Liao et.al.|[2610.23362](http://arxiv.org/abs/2610.23362)|null|
 |**2026-10-16**|**MobileJailBench: Red Queen Jailbreak Benchmarking for Mobile Agents**|Songping Wang et.al.|[2610.23303](http://arxiv.org/abs/2610.23303)|null|
@@ -1235,6 +1244,12 @@ layout: default
 |**2002-05-07**|**The power spectrum of galaxies in the 2dF 100k redshift survey**|Max Tegmark et.al.|[astro-ph/0111575](http://arxiv.org/abs/astro-ph/0111575)|null|
 |**2001-05-21**|**Reconciliation of the Surface Brightness Fluctuations and Type Ia Supernovae Distance Scales**|Edward A. Ajhar et.al.|[astro-ph/0105366](http://arxiv.org/abs/astro-ph/0105366)|null|
 |**2002-02-27**|**Is cosmology consistent?**|Xiaomin Wang et.al.|[astro-ph/0105091](http://arxiv.org/abs/astro-ph/0105091)|null|
+|**2026-10-19**|**Budgeted Attack Scheduling for LLM Red-Teaming: The Roles of Static Priors, Semantic Guidance, and Online Feedback**|Zhicheng Fang et.al.|[2610.25897](http://arxiv.org/abs/2610.25897)|null|
+|**2026-10-19**|**ACE-Trader: Adversarial Co-Evolution for Generator-Critic Trading Systems**|Chang Zhou et.al.|[2610.25847](http://arxiv.org/abs/2610.25847)|null|
+|**2026-10-19**|**Privacy-Preserving Robust Monitoring of Dense-Time Temporal Logic**|Charles Koll et.al.|[2610.25639](http://arxiv.org/abs/2610.25639)|null|
+|**2026-10-18**|**SoK: PIAtlas: Decomposing the Unbounded Prompt Injection Attack Space**|Stavros Damianakis et.al.|[2610.24999](http://arxiv.org/abs/2610.24999)|null|
+|**2026-10-16**|**Automated Rule Mutation for Emerging Attack Variants using Infrastructure-Aware Technique Proximity**|Sepehr Ghaffarzadegan et.al.|[2610.24162](http://arxiv.org/abs/2610.24162)|null|
+|**2026-10-16**|**Red-Teaming Multi-Agent Attacks for Loss-of-Control Risks**|John Kitaoka et.al.|[2610.24052](http://arxiv.org/abs/2610.24052)|null|
 |**2026-10-14**|**RedDarwin: Evolving Jailbreak Skills against Frontier LLMs**|Zhouyuan Ma et.al.|[2610.23726](http://arxiv.org/abs/2610.23726)|null|
 |**2026-10-16**|**Trojan Horse: Automated Repository Poisoning against Coding Agents**|Xiao Yang et.al.|[2610.23109](http://arxiv.org/abs/2610.23109)|null|
 |**2026-10-15**|**Refusal Is Not Robustness: Measuring Harmful Reachability in Autoregressive Language Models**|Parv Kapoor et.al.|[2610.22754](http://arxiv.org/abs/2610.22754)|null|
@@ -2177,6 +2192,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-19**|**Safety Mid-Training: Internalizing LLM Safety as a Foundational Capability**|Zhengyue Zhao et.al.|[2610.26809](http://arxiv.org/abs/2610.26809)|null|
+|**2026-10-19**|**Towards Architectural-Level Safety Control: Relocating Hazardous Knowledge into Removable Experts in Mixture-of-Experts Models**|Cheng Jin et.al.|[2610.25791](http://arxiv.org/abs/2610.25791)|null|
+|**2026-10-19**|**When Safety Fails Collectively: Robust Alignment Against Harmful Fine-Tuning via Joint Weight Perturbations**|Zhiyuan Wang et.al.|[2610.25683](http://arxiv.org/abs/2610.25683)|null|
+|**2026-10-19**|**Safety Offset Learning: When Benign Fine-Tuning Misaligns LLMs**|Jesson Wang et.al.|[2610.25611](http://arxiv.org/abs/2610.25611)|null|
+|**2026-10-18**|**Selling in the Wild: Benchmark and Randomized Field Evidence for a Sales Agent Trained on Commercial Conversations**|Benjamin Tannenbaum et.al.|[2610.25461](http://arxiv.org/abs/2610.25461)|null|
+|**2026-10-17**|**Safety Kernel: Mechanistic Alignment for Cross-Lingual Defense in LLMs**|Chengyu Xie et.al.|[2610.24614](http://arxiv.org/abs/2610.24614)|null|
+|**2026-10-17**|**Train Locally, Learn Together: Distributed Multi-Agent Training via ADMM**|Yiwei Chen et.al.|[2610.24380](http://arxiv.org/abs/2610.24380)|null|
 |**2026-10-16**|**Monitor-Validity Failures: LLM Safety Evidence Paths at Evolving Framework Boundaries**|Junchi Liao et.al.|[2610.23362](http://arxiv.org/abs/2610.23362)|null|
 |**2026-10-16**|**MobileJailBench: Red Queen Jailbreak Benchmarking for Mobile Agents**|Songping Wang et.al.|[2610.23303](http://arxiv.org/abs/2610.23303)|null|
 |**2026-10-16**|**Rethinking GRPO for Large Reasoning Model Safety Alignment**|Jiawei Chen et.al.|[2610.23085](http://arxiv.org/abs/2610.23085)|null|
@@ -3396,6 +3418,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-19**|**Fake News, Real Crashes: Information Injection Attacks on LLM Financial Trading Agents**|Mengxiao Wang et.al.|[2610.26438](http://arxiv.org/abs/2610.26438)|null|
+|**2026-10-19**|**SpanGuard: Decoupling Instruction Localization from Authorization for Lightweight IPI Defense**|Yinxiang Wang et.al.|[2610.26013](http://arxiv.org/abs/2610.26013)|null|
+|**2026-10-19**|**RAGLeak: Supply-Chain Privacy Backdoors in Retrieval-Augmented Generation**|Yuchen Chen et.al.|[2610.25937](http://arxiv.org/abs/2610.25937)|null|
+|**2026-10-18**|**SoK: PIAtlas: Decomposing the Unbounded Prompt Injection Attack Space**|Stavros Damianakis et.al.|[2610.24999](http://arxiv.org/abs/2610.24999)|null|
+|**2026-10-16**|**RATION: Towards Quantitative Risk-Based Access Control for AI Agents**|Yuntao Du et.al.|[2610.24311](http://arxiv.org/abs/2610.24311)|null|
+|**2026-10-16**|**SPIDES: Information-Flow Control for Browser Agents**|Egor Zverev et.al.|[2610.24277](http://arxiv.org/abs/2610.24277)|null|
+|**2026-10-16**|**The Window Is in the Reasoning: When LLM Agents Decide to Follow Prompt Injections**|Haoxuan Jia et.al.|[2610.24048](http://arxiv.org/abs/2610.24048)|null|
 |**2026-10-16**|**MobileInject: Evaluating Reasoning-to-Action Security of MLLM-Based Mobile Agents under Cross-Modal Consistency Injection**|Songping Wang et.al.|[2610.23307](http://arxiv.org/abs/2610.23307)|null|
 |**2026-10-16**|**Ignored, Not Refused: What Low Prompt-Injection Success Rates Hide in Small Tool-Using Agents**|Farhan Zarif et.al.|[2610.23254](http://arxiv.org/abs/2610.23254)|null|
 |**2026-10-16**|**From Approval to Abuse: Privilege Escalation Attacks on Harness-Protected Coding Agents**|Xianglin Yang et.al.|[2610.22987](http://arxiv.org/abs/2610.22987)|null|
@@ -5332,6 +5361,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-19**|**From TCP/IP to MCP: Security and Governance Lessons from Internet Protocols for Agentic AI**|Ben Bucknall et.al.|[2610.26624](http://arxiv.org/abs/2610.26624)|null|
 |**2026-09-21**|**Attack Success Rate Is Not a Number: On Measurement Validity in Agentic AI Security Evaluation**|Chetan Pathade et.al.|[2609.25173](http://arxiv.org/abs/2609.25173)|null|
 |**2026-09-20**|**Connecting the Dots in Agentic AI Security: A Cross-Dimensional Threat Taxonomy, Evaluation Maturity, and Open Challenges**|Heewon Baek et.al.|[2609.23894](http://arxiv.org/abs/2609.23894)|null|
 |**2026-09-17**|**SoK: Trading Agents or Market Crashers? Dissecting Robustness and Security Failures in Academic Financial LLM Trading Schemes**|Mengxiao Wang et.al.|[2609.19705](http://arxiv.org/abs/2609.19705)|null|
