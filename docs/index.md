@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.10.21
+## Updated on 2026.10.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-21**|**Beyond Binary Labels: Diagnostic Evaluation of LLM Safety with Prompt-Level Rubrics**|Hongyu Li et.al.|[2610.29225](http://arxiv.org/abs/2610.29225)|null|
+|**2026-10-20**|**Combining Long-Term Memory and LLMs Comes at a High Cost: From Prompt Injection to Persistent Compromise**|Pedro H. Barcha Correia et.al.|[2610.28810](http://arxiv.org/abs/2610.28810)|null|
 |**2026-10-19**|**Concerns in Benchmarking Jailbreaks: An Empirical Study of Attack Success Rates**|Leon Tu Nguyen et.al.|[2610.26595](http://arxiv.org/abs/2610.26595)|null|
 |**2026-10-19**|**Beyond Attack Success Rate: Cost-Aware Metric for Evaluating Iterative LLM Jailbreaks**|Rohan Menon et.al.|[2610.26589](http://arxiv.org/abs/2610.26589)|null|
 |**2026-10-19**|**LLMs Prompted for Legal Context Refuse More: Overrefusal from Small On-Premises LLMs in Criminal Legal Context**|Anastasiia Kucherenko et.al.|[2610.26211](http://arxiv.org/abs/2610.26211)|null|
@@ -36,7 +38,7 @@ layout: default
 |**2026-10-15**|**CT0: Cybersecurity Transformer**|Víctor Mayoral-Vilches et.al.|[2610.16550](http://arxiv.org/abs/2610.16550)|null|
 |**2026-10-12**|**ATTCK-R: Knowledge-Aware Long-Horizon Jailbreaking for Protected LLMs**|Md Mushfiqur Rahman et.al.|[2610.16305](http://arxiv.org/abs/2610.16305)|null|
 |**2026-10-12**|**The Sharp Directions Are Against You: Curvature Analysis of Activation Steering**|Seyedarmin Azizi et.al.|[2610.16084](http://arxiv.org/abs/2610.16084)|null|
-|**2026-10-10**|**Exploring Jailbreak Vulnerability Across Depth-Based Dynamic Inference in Large Language Models**|Lass Najmuldeen et.al.|[2610.15207](http://arxiv.org/abs/2610.15207)|null|
+|**2026-10-20**|**Exploring Jailbreak Vulnerability Across Depth-Based Dynamic Inference in Large Language Models**|Lass Najmuldeen et.al.|[2610.15207](http://arxiv.org/abs/2610.15207)|null|
 |**2026-10-08**|**Scenes as an Attack Surface: Uncovering Scene-Grounded Safety Failures in MLLMs**|Tongxi Wu et.al.|[2610.14094](http://arxiv.org/abs/2610.14094)|null|
 |**2026-10-09**|**Attention Sees, MLP Refuses: Tracing the Attention-to-MLP Safety Pathway in LLMs**|Zixuan Weng et.al.|[2610.13078](http://arxiv.org/abs/2610.13078)|null|
 |**2026-10-08**|**One Word Opens the Gate: The Option-Channel Attack on Typed Decision Models as Agent Guardrails**|Seyedarmin Azizi et.al.|[2610.12292](http://arxiv.org/abs/2610.12292)|null|
@@ -1244,6 +1246,7 @@ layout: default
 |**2002-05-07**|**The power spectrum of galaxies in the 2dF 100k redshift survey**|Max Tegmark et.al.|[astro-ph/0111575](http://arxiv.org/abs/astro-ph/0111575)|null|
 |**2001-05-21**|**Reconciliation of the Surface Brightness Fluctuations and Type Ia Supernovae Distance Scales**|Edward A. Ajhar et.al.|[astro-ph/0105366](http://arxiv.org/abs/astro-ph/0105366)|null|
 |**2002-02-27**|**Is cosmology consistent?**|Xiaomin Wang et.al.|[astro-ph/0105091](http://arxiv.org/abs/astro-ph/0105091)|null|
+|**2026-10-20**|**Black-Box Red-Teaming of Multi-Agent Systems via Reinforcement Learning**|Yuqi Jia et.al.|[2610.28966](http://arxiv.org/abs/2610.28966)|null|
 |**2026-10-19**|**AutoRedClaw: Automated Red-Teaming for Claw-Style Agents**|Hao Li et.al.|[2610.27244](http://arxiv.org/abs/2610.27244)|null|
 |**2026-10-19**|**Budgeted Attack Scheduling for LLM Red-Teaming: The Roles of Static Priors, Semantic Guidance, and Online Feedback**|Zhicheng Fang et.al.|[2610.25897](http://arxiv.org/abs/2610.25897)|null|
 |**2026-10-19**|**ACE-Trader: Adversarial Co-Evolution for Generator-Critic Trading Systems**|Chang Zhou et.al.|[2610.25847](http://arxiv.org/abs/2610.25847)|null|
@@ -2193,6 +2196,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-21**|**Differentially Private Sparse Reward Estimation with Preference Feedback**|Meng Ding et.al.|[2610.30099](http://arxiv.org/abs/2610.30099)|null|
+|**2026-10-21**|**Beyond Binary Labels: Diagnostic Evaluation of LLM Safety with Prompt-Level Rubrics**|Hongyu Li et.al.|[2610.29225](http://arxiv.org/abs/2610.29225)|null|
+|**2026-10-20**|**SLoSa: Small, Low-Power, and Safe Foundation Models for Robotic Task Planning**|Weizhe Xu et.al.|[2610.28955](http://arxiv.org/abs/2610.28955)|null|
+|**2026-10-20**|**Is Refusal Direction Universal across Low-Resourced Languages?**|Anastasiia Ivanova et.al.|[2610.28897](http://arxiv.org/abs/2610.28897)|null|
 |**2026-10-20**|**Toolflation: Seller Agents Distort Tool Markets Through Spontaneous Generative Engine Optimization**|Zhenwei Tang et.al.|[2610.28454](http://arxiv.org/abs/2610.28454)|null|
 |**2026-10-20**|**Polarity Blindness in LLM Safety: A Systematic Study of Negation, Antonym Substitution, and Adversarial Framing**|Diego Miguel Lozano et.al.|[2610.27908](http://arxiv.org/abs/2610.27908)|null|
 |**2026-10-20**|**When LLMs Manipulate: Measuring Behavioral, Social, and Temporal Effects**|Sadia Asif et.al.|[2610.27573](http://arxiv.org/abs/2610.27573)|null|
@@ -2226,7 +2233,7 @@ layout: default
 |**2026-10-12**|**Separating Prompt Harmfulness from Interaction Safety via Partial Generation**|Ram Vikas Mishra et.al.|[2610.16761](http://arxiv.org/abs/2610.16761)|null|
 |**2026-10-12**|**AuthGateBench: Benchmarking LLMs as Authorization Gate**|Zhixiong Zhuang et.al.|[2610.16426](http://arxiv.org/abs/2610.16426)|null|
 |**2026-10-11**|**REPRO: Reflective Evolutionary Prompt Optimizer for Automated LLM Red-Teaming**|Abrar Alotaibi et.al.|[2610.15513](http://arxiv.org/abs/2610.15513)|null|
-|**2026-10-10**|**Exploring Jailbreak Vulnerability Across Depth-Based Dynamic Inference in Large Language Models**|Lass Najmuldeen et.al.|[2610.15207](http://arxiv.org/abs/2610.15207)|null|
+|**2026-10-20**|**Exploring Jailbreak Vulnerability Across Depth-Based Dynamic Inference in Large Language Models**|Lass Najmuldeen et.al.|[2610.15207](http://arxiv.org/abs/2610.15207)|null|
 |**2026-10-10**|**Social Bias in Chinese Large Language Models under Social Media Expressions**|Mo Zhou et.al.|[2610.14879](http://arxiv.org/abs/2610.14879)|null|
 |**2026-10-10**|**Specification-Based Testing of Large Language Models**|Kausar Moshood et.al.|[2610.14443](http://arxiv.org/abs/2610.14443)|null|
 |**2026-10-08**|**Scenes as an Attack Surface: Uncovering Scene-Grounded Safety Failures in MLLMs**|Tongxi Wu et.al.|[2610.14094](http://arxiv.org/abs/2610.14094)|null|
@@ -3423,6 +3430,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-21**|**Prompt Injection Through Forensic Evidence: A Taxonomy and Proof of Concept of Anti-Forensic Attacks on LLM-Assisted Digital Investigations**|Frank Breitinger et.al.|[2610.29747](http://arxiv.org/abs/2610.29747)|null|
+|**2026-10-21**|**Where AI Vulnerability Discovery Harnesses Go Quiet: Structural False Negatives and Hidden Vulnerabilities**|Gadi Evron et.al.|[2610.29379](http://arxiv.org/abs/2610.29379)|null|
+|**2026-10-20**|**Attention-based Classification for Indirect Prompt Injection**|Amelia Kawasaki et.al.|[2610.28988](http://arxiv.org/abs/2610.28988)|null|
+|**2026-10-20**|**Combining Long-Term Memory and LLMs Comes at a High Cost: From Prompt Injection to Persistent Compromise**|Pedro H. Barcha Correia et.al.|[2610.28810](http://arxiv.org/abs/2610.28810)|null|
 |**2026-10-20**|**After the Attacker Leaves: Benchmarking Carryover Attacks on LLM Agents**|Zhiyue Xu et.al.|[2610.28425](http://arxiv.org/abs/2610.28425)|null|
 |**2026-10-20**|**Context-Aware Prompt Injection Detection via Small Language Models in RAG Pipelines: nokast-secureRAG**|Abhishek Rai et.al.|[2610.28364](http://arxiv.org/abs/2610.28364)|null|
 |**2026-10-20**|**KNOX: Hardware-assisted Regulatory Sandbox for Generative Models**|Vasisht Duddu et.al.|[2610.27543](http://arxiv.org/abs/2610.27543)|null|
@@ -5413,6 +5424,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-20**|**Black-Box Red-Teaming of Multi-Agent Systems via Reinforcement Learning**|Yuqi Jia et.al.|[2610.28966](http://arxiv.org/abs/2610.28966)|null|
 |**2026-06-01**|**Which Defense Closes Which Threat? Attributing OWASP-LLM-Top-10 Coverage and Its Brittleness Under Paraphrasing**|Alexandre Cristovão Maiorano et.al.|[2606.02822](http://arxiv.org/abs/2606.02822)|null|
 |**2026-05-02**|**Trace: Unmasking AI Attack Agents Through Terminal Behavior Fingerprinting**|Murali Ediga et.al.|[2605.01186](http://arxiv.org/abs/2605.01186)|null|
 |**2026-04-07**|**Swiss-Bench 003: Evaluating LLM Reliability and Adversarial Security for Swiss Regulatory Contexts**|Fatih Uenal et.al.|[2604.05872](http://arxiv.org/abs/2604.05872)|null|
