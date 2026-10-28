@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.10.27
+## Updated on 2026.10.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-27**|**Probabilistic Sequential Safety for Stochastic Dynamical Systems**|Abhijit Mazumdar et.al.|[2610.37311](http://arxiv.org/abs/2610.37311)|null|
+|**2026-10-27**|**PrivacyEvalClaw: A Tool-Augmented Deliberative Agent for Auditing Privacy Leakage in LLM Jailbreak Responses**|Krishna Kanth Nakka et.al.|[2610.36711](http://arxiv.org/abs/2610.36711)|null|
+|**2026-10-26**|**SpecGuard: Detecting Multi-Turn LLM Jailbreaks via Specification-Based Runtime Monitoring**|Junle Li et.al.|[2610.36258](http://arxiv.org/abs/2610.36258)|null|
 |**2026-10-26**|**SEMA-Auto: Sighted and Efficient Multi-Turn Attack with Autonomy**|Mingqian Feng et.al.|[2610.35743](http://arxiv.org/abs/2610.35743)|null|
 |**2026-10-25**|**SentryBench: A Cost-Sensitive Benchmark for Adversarial Robustness of Tool-Using LLM Agents in Public-Safety Deployments**|Md Abu Yusuf et.al.|[2610.34535](http://arxiv.org/abs/2610.34535)|null|
 |**2026-10-25**|**Identically Trained Language Models Break on Different Jailbreaks**|Chi-Wei Chang et.al.|[2610.34074](http://arxiv.org/abs/2610.34074)|null|
@@ -1255,10 +1258,12 @@ layout: default
 |**2002-05-07**|**The power spectrum of galaxies in the 2dF 100k redshift survey**|Max Tegmark et.al.|[astro-ph/0111575](http://arxiv.org/abs/astro-ph/0111575)|null|
 |**2001-05-21**|**Reconciliation of the Surface Brightness Fluctuations and Type Ia Supernovae Distance Scales**|Edward A. Ajhar et.al.|[astro-ph/0105366](http://arxiv.org/abs/astro-ph/0105366)|null|
 |**2002-02-27**|**Is cosmology consistent?**|Xiaomin Wang et.al.|[astro-ph/0105091](http://arxiv.org/abs/astro-ph/0105091)|null|
+|**2026-10-27**|**PrivacyEvalClaw: A Tool-Augmented Deliberative Agent for Auditing Privacy Leakage in LLM Jailbreak Responses**|Krishna Kanth Nakka et.al.|[2610.36711](http://arxiv.org/abs/2610.36711)|null|
+|**2026-10-27**|**What Victims Take Away: Attack Reuse and Defense Revision after Prompt-Injection Attacks**|Zihan Chen et.al.|[2610.36422](http://arxiv.org/abs/2610.36422)|null|
 |**2026-10-26**|**The Watchtower Imperative: Lifespan-Calibrated Evaluation for Frontier AI**|Casey M. Williams et.al.|[2610.35725](http://arxiv.org/abs/2610.35725)|null|
 |**2026-10-26**|**The Target Agent Is Its Own Best Critic but a Poor Proposer: Self-Improved Red Teaming**|Mintong Kang et.al.|[2610.34965](http://arxiv.org/abs/2610.34965)|null|
 |**2026-10-26**|**Safe by Benchmark, Unsafe in Practice: Lessons from 1331 Child-Related AI Incidents**|Junfeng Jiao et.al.|[2610.34705](http://arxiv.org/abs/2610.34705)|null|
-|**2026-10-25**|**SEEK: Skill Extraction with Evolving Knowledge against Frontier Science Agents**|Cheng Gui et.al.|[2610.34365](http://arxiv.org/abs/2610.34365)|null|
+|**2026-10-27**|**SEEK: Skill Extraction with Evolving Knowledge against Frontier Science Agents**|Cheng Gui et.al.|[2610.34365](http://arxiv.org/abs/2610.34365)|null|
 |**2026-10-23**|**Standing on Open Shoulders: Regional Fine-Tuning of Open-Weight Camera-Trap Models for UK Wildlife with Modest Data and Compute**|Paul Fergus et.al.|[2610.32573](http://arxiv.org/abs/2610.32573)|null|
 |**2026-10-22**|**$M^3$ : A Multi-LLM System for Multi-Turn Jailbreaking as a Markov Decision Process**|Yuqing Huang et.al.|[2610.31937](http://arxiv.org/abs/2610.31937)|null|
 |**2026-10-20**|**Black-Box Red-Teaming of Multi-Agent Systems via Reinforcement Learning**|Yuqi Jia et.al.|[2610.28966](http://arxiv.org/abs/2610.28966)|null|
@@ -2211,6 +2216,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-27**|**Aligning Large Language Models for Safety in African Languages: A Case Study of Hausa**|Valdini Douglace Lemofouet et.al.|[2610.37245](http://arxiv.org/abs/2610.37245)|null|
+|**2026-10-26**|**SpecGuard: Detecting Multi-Turn LLM Jailbreaks via Specification-Based Runtime Monitoring**|Junle Li et.al.|[2610.36258](http://arxiv.org/abs/2610.36258)|null|
 |**2026-10-26**|**C-SafeGen: Certified Safe LLM Generation with Claim-Based Streaming Guardrails**|Mintong Kang et.al.|[2610.34961](http://arxiv.org/abs/2610.34961)|null|
 |**2026-10-22**|**Omni-UBench: Benchmarking Omni-Modal LLM-based Guardrails Across Safety, Utility, and Reliability**|Junhao Wang et.al.|[2610.31713](http://arxiv.org/abs/2610.31713)|null|
 |**2026-10-20**|**Fooling LLM Safety Guards into Judging the Wrong Text**|Utkarsh Kanwat et.al.|[2610.31695](http://arxiv.org/abs/2610.31695)|null|
@@ -3450,6 +3457,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-27**|**Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness**|Igor Shilov et.al.|[2610.37657](http://arxiv.org/abs/2610.37657)|null|
+|**2026-10-27**|**What Victims Take Away: Attack Reuse and Defense Revision after Prompt-Injection Attacks**|Zihan Chen et.al.|[2610.36422](http://arxiv.org/abs/2610.36422)|null|
+|**2026-10-26**|**Log-To-Leak: Prompt Injection Attacks on Tool-Using LLM Agents via the Model Context Protocol**|Yuepeng Hu et.al.|[2610.36108](http://arxiv.org/abs/2610.36108)|null|
 |**2026-10-26**|**Then there is prompt injection, a malicious email, ...: The Wild Wide West of OpenClaw Agentic System Security**|Mostafijur Rahman Akhond et.al.|[2610.35451](http://arxiv.org/abs/2610.35451)|null|
 |**2026-10-26**|**Scope-Gap Injection: Exploiting Evaluator Channel Blind Spots in the OpenClaw Agent Security Competition**|Weihang Niu et.al.|[2610.34777](http://arxiv.org/abs/2610.34777)|null|
 |**2026-10-25**|**SentryBench: A Cost-Sensitive Benchmark for Adversarial Robustness of Tool-Using LLM Agents in Public-Safety Deployments**|Md Abu Yusuf et.al.|[2610.34535](http://arxiv.org/abs/2610.34535)|null|
@@ -4544,6 +4554,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-27**|**Revisiting Privacy Risks in Quantized Deep Neural Networks**|Jie Fu et.al.|[2610.37488](http://arxiv.org/abs/2610.37488)|null|
+|**2026-10-27**|**A Simple Presentation of Robust Membership Inference Attacks**|Renaud Gaucher et.al.|[2610.36458](http://arxiv.org/abs/2610.36458)|null|
+|**2026-10-26**|**Characterizing Privacy Leakage in Spiking Neural Networks: A Systematic Analysis of Temporal Dynamics, Stochasticity, Neuronal Dynamics and Learning Mechanisms**|Ayana Moshruba et.al.|[2610.36243](http://arxiv.org/abs/2610.36243)|null|
 |**2026-10-22**|**OP-Print: Tracing Membership Imprints in On-Policy Self-Distillation**|Qi Li et.al.|[2610.31616](http://arxiv.org/abs/2610.31616)|null|
 |**2026-10-22**|**Shift-aware score transport for privacy auditing without retraining**|Yaohong Yang et.al.|[2610.31549](http://arxiv.org/abs/2610.31549)|null|
 |**2026-10-21**|**Membership Inference Attack on Private Evolution**|Daniil Filienko et.al.|[2610.30514](http://arxiv.org/abs/2610.30514)|null|
@@ -5457,6 +5470,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-26**|**Detecting and Mitigating Query-Based System Prompt Leakage Attacks**|Tushar Nayan et.al.|[2610.36295](http://arxiv.org/abs/2610.36295)|null|
 |**2026-10-20**|**Black-Box Red-Teaming of Multi-Agent Systems via Reinforcement Learning**|Yuqi Jia et.al.|[2610.28966](http://arxiv.org/abs/2610.28966)|null|
 |**2026-06-01**|**Which Defense Closes Which Threat? Attributing OWASP-LLM-Top-10 Coverage and Its Brittleness Under Paraphrasing**|Alexandre Cristovão Maiorano et.al.|[2606.02822](http://arxiv.org/abs/2606.02822)|null|
 |**2026-05-02**|**Trace: Unmasking AI Attack Agents Through Terminal Behavior Fingerprinting**|Murali Ediga et.al.|[2605.01186](http://arxiv.org/abs/2605.01186)|null|
