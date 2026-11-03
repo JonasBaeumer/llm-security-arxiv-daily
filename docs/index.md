@@ -2,16 +2,21 @@
 layout: default
 ---
 
-## Updated on 2026.11.02
+## Updated on 2026.11.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-02**|**VeriHarm-Bench: Measuring Harmful Success in LLM Coding Agents Verifiably**|Wei-Lin Chen et.al.|[2611.03575](http://arxiv.org/abs/2611.03575)|null|
+|**2026-11-02**|**PGuard: A Native, Streaming, and Plug-in Guardrail for Multimodal Large Language Models**|Junyu Lin et.al.|[2611.02791](http://arxiv.org/abs/2611.02791)|null|
+|**2026-11-01**|**HaloGuard 2.0: An Open-Weights Constitutional Output Guard for Multilingual Response Safety**|Ashmiya Lenin et.al.|[2611.02134](http://arxiv.org/abs/2611.02134)|null|
+|**2026-10-31**|**J-Anchor: Defending Against Prefill Attacks via J-Space Selective Refusal Restoration**|Running Yang et.al.|[2611.01342](http://arxiv.org/abs/2611.01342)|null|
+|**2026-10-30**|**Circuit Oracle: Automating Attribution Graph Analysis via Natural-Language Queries**|Shariar Kabir et.al.|[2611.00420](http://arxiv.org/abs/2611.00420)|null|
 |**2026-10-29**|**CoFiBreak: A Coarse-to-Fine Diversity Reward for Effective Multi-Turn Jailbreak**|Jialin Song et.al.|[2610.40926](http://arxiv.org/abs/2610.40926)|null|
 |**2026-10-29**|**ChatGPT as a Surveillance Assistant? An Exploratory Case Study of AI-Assisted Surveillance Risks**|Ayana Hussain et.al.|[2610.40890](http://arxiv.org/abs/2610.40890)|null|
-|**2026-10-29**|**Systematic Evaluation of Adversarial Jailbreaking Attacks and Defenses Across Seven Large Language Models**|Md. Robiul Islam Niloy et.al.|[2610.39509](http://arxiv.org/abs/2610.39509)|null|
+|**2026-11-01**|**Systematic Evaluation of Adversarial Jailbreaking Attacks and Defenses Across Seven Large Language Models**|Md. Robiul Islam Niloy et.al.|[2610.39509](http://arxiv.org/abs/2610.39509)|null|
 |**2026-10-28**|**Discovering Jailbreaks via Curriculum of Models**|Michał Burzyński et.al.|[2610.38833](http://arxiv.org/abs/2610.38833)|null|
 |**2026-10-28**|**Rethinking LLM Jailbreak Evaluation: Continuous Risk Landscapes Beyond Binary Outcomes**|Yukai Zhou et.al.|[2610.38595](http://arxiv.org/abs/2610.38595)|null|
 |**2026-10-28**|**Jailbreak Connectivity: Towards Diverse, Transferable, and Universal Multimodal Large Language Model Jailbreak**|Xu Zhang et.al.|[2610.38091](http://arxiv.org/abs/2610.38091)|null|
@@ -1265,6 +1270,8 @@ layout: default
 |**2002-05-07**|**The power spectrum of galaxies in the 2dF 100k redshift survey**|Max Tegmark et.al.|[astro-ph/0111575](http://arxiv.org/abs/astro-ph/0111575)|null|
 |**2001-05-21**|**Reconciliation of the Surface Brightness Fluctuations and Type Ia Supernovae Distance Scales**|Edward A. Ajhar et.al.|[astro-ph/0105366](http://arxiv.org/abs/astro-ph/0105366)|null|
 |**2002-02-27**|**Is cosmology consistent?**|Xiaomin Wang et.al.|[astro-ph/0105091](http://arxiv.org/abs/astro-ph/0105091)|null|
+|**2026-11-01**|**HaloGuard 2.0: An Open-Weights Constitutional Output Guard for Multilingual Response Safety**|Ashmiya Lenin et.al.|[2611.02134](http://arxiv.org/abs/2611.02134)|null|
+|**2026-10-30**|**On the Framing Effect of AI Red-Teaming Instructions: Evidence from Prior Exercises and Controlled Simulations**|Michael Feffer et.al.|[2611.00412](http://arxiv.org/abs/2611.00412)|null|
 |**2026-10-30**|**ANGLER: Verifier-Grounded Benchmarking with an Adaptive Attacker for Web Agents**|Yini Huang et.al.|[2610.41272](http://arxiv.org/abs/2610.41272)|null|
 |**2026-10-29**|**CoFiBreak: A Coarse-to-Fine Diversity Reward for Effective Multi-Turn Jailbreak**|Jialin Song et.al.|[2610.40926](http://arxiv.org/abs/2610.40926)|null|
 |**2026-10-29**|**Red-Teaming Large Language Models in Low-Resource African Languages: A Case Study of Yoruba and Nigerian Pidgin**|Paula Chikaodinaka Anyanwu et.al.|[2610.39590](http://arxiv.org/abs/2610.39590)|null|
@@ -2228,6 +2235,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-02**|**Predictive Safety Guardrails Do Not Always Make LLM Agents Safer**|Weixiang Zhao et.al.|[2611.02815](http://arxiv.org/abs/2611.02815)|null|
+|**2026-11-01**|**Step-Zero Attack: Agent Safety Before Observability**|Tian Qin et.al.|[2611.01953](http://arxiv.org/abs/2611.01953)|null|
+|**2026-10-31**|**J-Anchor: Defending Against Prefill Attacks via J-Space Selective Refusal Restoration**|Running Yang et.al.|[2611.01342](http://arxiv.org/abs/2611.01342)|null|
 |**2026-10-29**|**ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender**|Qiyao Ma et.al.|[2610.40627](http://arxiv.org/abs/2610.40627)|null|
 |**2026-10-29**|**How I Aligned Your Model: Scaling Up Multilingual Safety Training with Templates**|Max Neuwinger et.al.|[2610.40516](http://arxiv.org/abs/2610.40516)|null|
 |**2026-10-29**|**Revisiting Over-refusal in Safety-aligned Large Language Models: A Representation and Optimization Perspective**|Chao Chen et.al.|[2610.39802](http://arxiv.org/abs/2610.39802)|null|
@@ -3477,6 +3487,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-02**|**ATrust: Adaptive Trust Boundary Expansion for Securing LLM Agents**|Xu Zhang et.al.|[2611.02741](http://arxiv.org/abs/2611.02741)|null|
+|**2026-11-02**|**SearchInject: Retrieval Exposure Control for Indirect Prompt Injection in Language-Model Search**|Kainan Zhou et.al.|[2611.02643](http://arxiv.org/abs/2611.02643)|null|
+|**2026-11-02**|**Where Does MCP Security End? A Three-Tier Mitigation Mapping Framework for the OWASP MCP Top 10**|Christopher Krakauer et.al.|[2611.02611](http://arxiv.org/abs/2611.02611)|null|
+|**2026-11-02**|**StateFence: Task-State Protection Against Evidence-Chain Contamination in Blue-Team LLM Agents**|Haowen Dai et.al.|[2611.02605](http://arxiv.org/abs/2611.02605)|null|
+|**2026-11-02**|**Ranked but Not Stopped: Detecting Prompt-Injection Hijacks from Typed Decision Models' Output Probabilities**|Junwei Yao et.al.|[2611.02522](http://arxiv.org/abs/2611.02522)|null|
+|**2026-11-02**|**Benchmark of THReD: Evaluating an LLM Agent and Its Preprocessing Tools for Turning Electronic Health Records into AI-Ready Datasets**|Javad Mohammad Alizadeh et.al.|[2611.02484](http://arxiv.org/abs/2611.02484)|null|
+|**2026-11-02**|**LEANGUARD: Lean-Verified Guardrails for Tool-Using Agents**|Sreehari Sankar et.al.|[2611.02332](http://arxiv.org/abs/2611.02332)|null|
+|**2026-11-01**|**Beyond Prompt Injection: The Tool Update Gap in LLM Agent Security**|Shiyu Kan et.al.|[2611.01976](http://arxiv.org/abs/2611.01976)|null|
+|**2026-11-01**|**MemHarmBench: Evaluating Cross-Session Prompt Injection in Memory-Persistent AI Agents**|Zhihua Wang et.al.|[2611.01700](http://arxiv.org/abs/2611.01700)|null|
+|**2026-10-31**|**AgentCap: Capability-Based Runtime Authorization for Secure LLM Agent Execution**|Aravinda Kashyap Kabbinamakki Suresh et.al.|[2611.00729](http://arxiv.org/abs/2611.00729)|null|
+|**2026-10-31**|**The Long Con on the Web: Earn-then-Exploit Fraud Attacks against Coding Agents**|Xingling Xu et.al.|[2611.00725](http://arxiv.org/abs/2611.00725)|null|
 |**2026-10-30**|**SecPO: Principled Adversarial Training for Prompt Injection Security**|Sizhe Chen et.al.|[2610.41998](http://arxiv.org/abs/2610.41998)|null|
 |**2026-10-30**|**Erase the Injected Region: Multimodal Prompt-Injection Defense with On-Policy Self-Distillation**|Shuo Hong et.al.|[2610.41307](http://arxiv.org/abs/2610.41307)|null|
 |**2026-10-30**|**AgentShield: Fortifying Web Applications Against AI Agents and Agentic Browsers**|Moiz Ali et.al.|[2610.41181](http://arxiv.org/abs/2610.41181)|null|
@@ -5461,6 +5482,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-02**|**Where Does MCP Security End? A Three-Tier Mitigation Mapping Framework for the OWASP MCP Top 10**|Christopher Krakauer et.al.|[2611.02611](http://arxiv.org/abs/2611.02611)|null|
 |**2026-10-19**|**From TCP/IP to MCP: Security and Governance Lessons from Internet Protocols for Agentic AI**|Ben Bucknall et.al.|[2610.26624](http://arxiv.org/abs/2610.26624)|null|
 |**2026-09-21**|**Attack Success Rate Is Not a Number: On Measurement Validity in Agentic AI Security Evaluation**|Chetan Pathade et.al.|[2609.25173](http://arxiv.org/abs/2609.25173)|null|
 |**2026-09-20**|**Connecting the Dots in Agentic AI Security: A Cross-Dimensional Threat Taxonomy, Evaluation Maturity, and Open Challenges**|Heewon Baek et.al.|[2609.23894](http://arxiv.org/abs/2609.23894)|null|
@@ -5523,6 +5545,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-02**|**IAMRAGBENCH: Benchmarking Authorization Expansions in LLM-Generated AWS IAM Policies under RAG Poisoning**|Hasan Kaplan et.al.|[2611.03431](http://arxiv.org/abs/2611.03431)|null|
 |**2026-10-29**|**Prevented is Not Protected: What Attack Success Rate Hides about RAG**|Chahana Dahal et.al.|[2610.40742](http://arxiv.org/abs/2610.40742)|null|
 |**2026-10-24**|**Ranking Is Not Deciding: Benchmark Shortcuts and Operating-Point Collapse in Query-Time RAG Poisoning Defenses**|Pushkal Kumar et.al.|[2610.33849](http://arxiv.org/abs/2610.33849)|null|
 |**2026-09-30**|**WARP: A Unified Benchmark for Invisible Image Watermarking -- Robustness and Protection Against Attacks**|Khaled Abud et.al.|[2609.40031](http://arxiv.org/abs/2609.40031)|null|
