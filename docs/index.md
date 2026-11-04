@@ -2,20 +2,24 @@
 layout: default
 ---
 
-## Updated on 2026.11.03
+## Updated on 2026.11.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-03**|**TraceRouter++: Causal Semantic Routing Realignment via Optimal Transport**|Chuancheng Shi et.al.|[2611.04878](http://arxiv.org/abs/2611.04878)|null|
+|**2026-11-03**|**BrainwashedLLM: Jailbreaking via Automated Adversarial Chain of Thoughts Discovery**|Masoud Poorghaffar Aghdam et.al.|[2611.04717](http://arxiv.org/abs/2611.04717)|null|
+|**2026-11-03**|**From Guidelines to Practice: Defining Requirements for AI Red-Teaming Tools**|Gia Phong Tran et.al.|[2611.04271](http://arxiv.org/abs/2611.04271)|null|
+|**2026-11-02**|**VagueBench: Benchmarking the Robustness of Embodied Agents on Ambient Context Illusions**|Yang Qu et.al.|[2611.03765](http://arxiv.org/abs/2611.03765)|null|
 |**2026-11-02**|**VeriHarm-Bench: Measuring Harmful Success in LLM Coding Agents Verifiably**|Wei-Lin Chen et.al.|[2611.03575](http://arxiv.org/abs/2611.03575)|null|
-|**2026-11-02**|**PGuard: A Native, Streaming, and Plug-in Guardrail for Multimodal Large Language Models**|Junyu Lin et.al.|[2611.02791](http://arxiv.org/abs/2611.02791)|null|
+|**2026-11-03**|**PGuard: A Native, Streaming, and Plug-in Guardrail for Multimodal Large Language Models**|Junyu Lin et.al.|[2611.02791](http://arxiv.org/abs/2611.02791)|null|
 |**2026-11-01**|**HaloGuard 2.0: An Open-Weights Constitutional Output Guard for Multilingual Response Safety**|Ashmiya Lenin et.al.|[2611.02134](http://arxiv.org/abs/2611.02134)|null|
 |**2026-10-31**|**J-Anchor: Defending Against Prefill Attacks via J-Space Selective Refusal Restoration**|Running Yang et.al.|[2611.01342](http://arxiv.org/abs/2611.01342)|null|
 |**2026-10-30**|**Circuit Oracle: Automating Attribution Graph Analysis via Natural-Language Queries**|Shariar Kabir et.al.|[2611.00420](http://arxiv.org/abs/2611.00420)|null|
 |**2026-10-29**|**CoFiBreak: A Coarse-to-Fine Diversity Reward for Effective Multi-Turn Jailbreak**|Jialin Song et.al.|[2610.40926](http://arxiv.org/abs/2610.40926)|null|
-|**2026-10-29**|**ChatGPT as a Surveillance Assistant? An Exploratory Case Study of AI-Assisted Surveillance Risks**|Ayana Hussain et.al.|[2610.40890](http://arxiv.org/abs/2610.40890)|null|
+|**2026-11-03**|**ChatGPT as a Surveillance Assistant? An Exploratory Case Study of AI-Assisted Surveillance Risks**|Ayana Hussain et.al.|[2610.40890](http://arxiv.org/abs/2610.40890)|null|
 |**2026-11-01**|**Systematic Evaluation of Adversarial Jailbreaking Attacks and Defenses Across Seven Large Language Models**|Md. Robiul Islam Niloy et.al.|[2610.39509](http://arxiv.org/abs/2610.39509)|null|
 |**2026-10-28**|**Discovering Jailbreaks via Curriculum of Models**|Michał Burzyński et.al.|[2610.38833](http://arxiv.org/abs/2610.38833)|null|
 |**2026-10-28**|**Rethinking LLM Jailbreak Evaluation: Continuous Risk Landscapes Beyond Binary Outcomes**|Yukai Zhou et.al.|[2610.38595](http://arxiv.org/abs/2610.38595)|null|
@@ -1270,6 +1274,8 @@ layout: default
 |**2002-05-07**|**The power spectrum of galaxies in the 2dF 100k redshift survey**|Max Tegmark et.al.|[astro-ph/0111575](http://arxiv.org/abs/astro-ph/0111575)|null|
 |**2001-05-21**|**Reconciliation of the Surface Brightness Fluctuations and Type Ia Supernovae Distance Scales**|Edward A. Ajhar et.al.|[astro-ph/0105366](http://arxiv.org/abs/astro-ph/0105366)|null|
 |**2002-02-27**|**Is cosmology consistent?**|Xiaomin Wang et.al.|[astro-ph/0105091](http://arxiv.org/abs/astro-ph/0105091)|null|
+|**2026-11-03**|**CloakFEM: Agentic FEM Code Generation for Red-Teaming Computational Resource Exhaustion**|Li Zheng et.al.|[2611.04356](http://arxiv.org/abs/2611.04356)|null|
+|**2026-11-03**|**From Guidelines to Practice: Defining Requirements for AI Red-Teaming Tools**|Gia Phong Tran et.al.|[2611.04271](http://arxiv.org/abs/2611.04271)|null|
 |**2026-11-01**|**HaloGuard 2.0: An Open-Weights Constitutional Output Guard for Multilingual Response Safety**|Ashmiya Lenin et.al.|[2611.02134](http://arxiv.org/abs/2611.02134)|null|
 |**2026-10-30**|**On the Framing Effect of AI Red-Teaming Instructions: Evidence from Prior Exercises and Controlled Simulations**|Michael Feffer et.al.|[2611.00412](http://arxiv.org/abs/2611.00412)|null|
 |**2026-10-30**|**ANGLER: Verifier-Grounded Benchmarking with an Adaptive Attacker for Web Agents**|Yini Huang et.al.|[2610.41272](http://arxiv.org/abs/2610.41272)|null|
@@ -2235,6 +2241,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-03**|**Extracting System Prompt of LLM Services in Complex (Agentic) Settings: Hierarchical Optimization and Reliable Evaluation Metrics**|Shuaidong Li et.al.|[2611.04803](http://arxiv.org/abs/2611.04803)|null|
+|**2026-11-03**|**BrainwashedLLM: Jailbreaking via Automated Adversarial Chain of Thoughts Discovery**|Masoud Poorghaffar Aghdam et.al.|[2611.04717](http://arxiv.org/abs/2611.04717)|null|
 |**2026-11-02**|**Predictive Safety Guardrails Do Not Always Make LLM Agents Safer**|Weixiang Zhao et.al.|[2611.02815](http://arxiv.org/abs/2611.02815)|null|
 |**2026-11-01**|**Step-Zero Attack: Agent Safety Before Observability**|Tian Qin et.al.|[2611.01953](http://arxiv.org/abs/2611.01953)|null|
 |**2026-10-31**|**J-Anchor: Defending Against Prefill Attacks via J-Space Selective Refusal Restoration**|Running Yang et.al.|[2611.01342](http://arxiv.org/abs/2611.01342)|null|
@@ -3487,6 +3495,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-03**|**ScamWorld: An Interactive Environment for Evaluating Web Agents Against Online Fraud**|Yutao Wu et.al.|[2611.04879](http://arxiv.org/abs/2611.04879)|null|
+|**2026-11-03**|**Right Tool, Wrong Parameters: Defending LLM Agents Against Parameter Poisoning**|Yao Wang et.al.|[2611.04673](http://arxiv.org/abs/2611.04673)|null|
+|**2026-11-03**|**The Devil is in the Context: Nine Dimensions of Prompt Injection Attacks**|Jiamin Chang et.al.|[2611.04672](http://arxiv.org/abs/2611.04672)|null|
+|**2026-11-03**|**From Guidelines to Practice: Defining Requirements for AI Red-Teaming Tools**|Gia Phong Tran et.al.|[2611.04271](http://arxiv.org/abs/2611.04271)|null|
 |**2026-11-02**|**ATrust: Adaptive Trust Boundary Expansion for Securing LLM Agents**|Xu Zhang et.al.|[2611.02741](http://arxiv.org/abs/2611.02741)|null|
 |**2026-11-02**|**SearchInject: Retrieval Exposure Control for Indirect Prompt Injection in Language-Model Search**|Kainan Zhou et.al.|[2611.02643](http://arxiv.org/abs/2611.02643)|null|
 |**2026-11-02**|**Where Does MCP Security End? A Three-Tier Mitigation Mapping Framework for the OWASP MCP Top 10**|Christopher Krakauer et.al.|[2611.02611](http://arxiv.org/abs/2611.02611)|null|
