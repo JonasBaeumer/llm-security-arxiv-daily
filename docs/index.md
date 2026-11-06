@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.11.05
+## Updated on 2026.11.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**"Blind Compliance": Coercive Control in AI Jailbreaking**|Acacia L. Ackles et.al.|[2611.08226](http://arxiv.org/abs/2611.08226)|null|
+|**2026-11-05**|**JailBound: FOL-Guided Jailbreak Evaluation for Exploring LLM Behavioral Boundaries**|Fazong Wu et.al.|[2611.07530](http://arxiv.org/abs/2611.07530)|null|
 |**2026-11-04**|**Addition by Subtraction: Toward Mitigating Fragile Safety Alignment in Large Language Models**|Hamid Dashtbani et.al.|[2611.06553](http://arxiv.org/abs/2611.06553)|null|
 |**2026-11-04**|**SafeStart: Mitigating the Overlooked Safety Cost of Active Expert Reduction in MoE LLM Serving**|Erfan Baghaei Potraghloo et.al.|[2611.06147](http://arxiv.org/abs/2611.06147)|null|
 |**2026-11-04**|**TraceRouter++: Causal Semantic Routing Realignment via Optimal Transport**|Chuancheng Shi et.al.|[2611.04878](http://arxiv.org/abs/2611.04878)|null|
@@ -22,7 +24,7 @@ layout: default
 |**2026-10-30**|**Circuit Oracle: Automating Attribution Graph Analysis via Natural-Language Queries**|Shariar Kabir et.al.|[2611.00420](http://arxiv.org/abs/2611.00420)|null|
 |**2026-10-29**|**CoFiBreak: A Coarse-to-Fine Diversity Reward for Effective Multi-Turn Jailbreak**|Jialin Song et.al.|[2610.40926](http://arxiv.org/abs/2610.40926)|null|
 |**2026-11-03**|**ChatGPT as a Surveillance Assistant? An Exploratory Case Study of AI-Assisted Surveillance Risks**|Ayana Hussain et.al.|[2610.40890](http://arxiv.org/abs/2610.40890)|null|
-|**2026-11-04**|**Systematic Evaluation of Adversarial Jailbreaking Attacks and Defenses Across Seven Large Language Models**|Md. Robiul Islam Niloy et.al.|[2610.39509](http://arxiv.org/abs/2610.39509)|null|
+|**2026-11-05**|**Systematic Evaluation of Adversarial Jailbreaking Attacks and Defenses Across Seven Large Language Models**|Md. Robiul Islam Niloy et.al.|[2610.39509](http://arxiv.org/abs/2610.39509)|null|
 |**2026-10-28**|**Discovering Jailbreaks via Curriculum of Models**|Michał Burzyński et.al.|[2610.38833](http://arxiv.org/abs/2610.38833)|null|
 |**2026-10-28**|**Rethinking LLM Jailbreak Evaluation: Continuous Risk Landscapes Beyond Binary Outcomes**|Yukai Zhou et.al.|[2610.38595](http://arxiv.org/abs/2610.38595)|null|
 |**2026-10-28**|**Jailbreak Connectivity: Towards Diverse, Transferable, and Universal Multimodal Large Language Model Jailbreak**|Xu Zhang et.al.|[2610.38091](http://arxiv.org/abs/2610.38091)|null|
@@ -1276,6 +1278,10 @@ layout: default
 |**2002-05-07**|**The power spectrum of galaxies in the 2dF 100k redshift survey**|Max Tegmark et.al.|[astro-ph/0111575](http://arxiv.org/abs/astro-ph/0111575)|null|
 |**2001-05-21**|**Reconciliation of the Surface Brightness Fluctuations and Type Ia Supernovae Distance Scales**|Edward A. Ajhar et.al.|[astro-ph/0105366](http://arxiv.org/abs/astro-ph/0105366)|null|
 |**2002-02-27**|**Is cosmology consistent?**|Xiaomin Wang et.al.|[astro-ph/0105091](http://arxiv.org/abs/astro-ph/0105091)|null|
+|**2026-11-05**|**Benchmarks as Software: Terminal-Bench and the Case for Continuous Benchmarks**|E. Kelly Buchanan et.al.|[2611.08417](http://arxiv.org/abs/2611.08417)|null|
+|**2026-11-05**|**Multimodal-SEA: Benchmarking AI Agent Security under Multimodal Social Engineering Attacks**|Zhitao He et.al.|[2611.08281](http://arxiv.org/abs/2611.08281)|null|
+|**2026-11-05**|**Building Barricades: Red-Teaming Agentic Biosynthesis Planning**|Nicholas Roehner et.al.|[2611.08218](http://arxiv.org/abs/2611.08218)|null|
+|**2026-11-05**|**Stress Testing Chain-of-Thought Monitoring Against Covert Misalignment**|Yao Huang et.al.|[2611.07586](http://arxiv.org/abs/2611.07586)|null|
 |**2026-11-03**|**CloakFEM: Agentic FEM Code Generation for Red-Teaming Computational Resource Exhaustion**|Li Zheng et.al.|[2611.04356](http://arxiv.org/abs/2611.04356)|null|
 |**2026-11-03**|**From Guidelines to Practice: Defining Requirements for AI Red-Teaming Tools**|Gia Phong Tran et.al.|[2611.04271](http://arxiv.org/abs/2611.04271)|null|
 |**2026-11-01**|**HaloGuard 2.0: An Open-Weights Constitutional Output Guard for Multilingual Response Safety**|Ashmiya Lenin et.al.|[2611.02134](http://arxiv.org/abs/2611.02134)|null|
@@ -2243,6 +2249,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**SAVeR $^2$ : Reasoning-based Safety Alignment for Large Reasoning Models via Verifiable Rewards**|Yichen Sun et.al.|[2611.07482](http://arxiv.org/abs/2611.07482)|null|
 |**2026-11-04**|**Addition by Subtraction: Toward Mitigating Fragile Safety Alignment in Large Language Models**|Hamid Dashtbani et.al.|[2611.06553](http://arxiv.org/abs/2611.06553)|null|
 |**2026-11-03**|**Extracting System Prompt of LLM Services in Complex (Agentic) Settings: Hierarchical Optimization and Reliable Evaluation Metrics**|Shuaidong Li et.al.|[2611.04803](http://arxiv.org/abs/2611.04803)|null|
 |**2026-11-03**|**BrainwashedLLM: Jailbreaking via Automated Adversarial Chain of Thoughts Discovery**|Masoud Poorghaffar Aghdam et.al.|[2611.04717](http://arxiv.org/abs/2611.04717)|null|
@@ -3498,6 +3505,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI**|Julian Kunkel et.al.|[2611.08428](http://arxiv.org/abs/2611.08428)|null|
+|**2026-11-05**|**Beyond Instruction Override: Benchmarking Indirect Prompt Injection with Task-Tampering Attacks**|Rongting Zhang et.al.|[2611.07640](http://arxiv.org/abs/2611.07640)|null|
+|**2026-11-04**|**SPILLWAY: Separating Target Admission from Sanitization to Defend Tool-Using Agents against Prompt Injection**|Woosang Lim et.al.|[2611.07222](http://arxiv.org/abs/2611.07222)|null|
 |**2026-11-04**|**SecureGARD: Dynamic Ontology-Guided Governance for Secure Tool-Using LLM Agents**|Guoqin Xiong et.al.|[2611.06682](http://arxiv.org/abs/2611.06682)|null|
 |**2026-11-04**|**Securing Web Agents with the Compile-Then-Execute Paradigm**|Annabella Chow et.al.|[2611.06039](http://arxiv.org/abs/2611.06039)|null|
 |**2026-11-04**|**ScamWorld: An Interactive Environment for Evaluating Web Agents Against Online Fraud**|Yutao Wu et.al.|[2611.04879](http://arxiv.org/abs/2611.04879)|null|
