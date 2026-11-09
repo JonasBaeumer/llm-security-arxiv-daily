@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.11.08
+## Updated on 2026.11.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-06**|**GuardrailAgent: An Agentic Framework for Jailbreak Defense**|Tianze Chang et.al.|[2611.09734](http://arxiv.org/abs/2611.09734)|null|
+|**2026-11-05**|**AttentionSwitch: Jailbreak Defense for LLMs via Joint Learning of Sparse Attention-Head Selection and Scaling**|Doniyorkhon Obidov et.al.|[2611.08752](http://arxiv.org/abs/2611.08752)|null|
 |**2026-11-05**|**"Blind Compliance": Coercive Control in AI Jailbreaking**|Acacia L. Ackles et.al.|[2611.08226](http://arxiv.org/abs/2611.08226)|null|
 |**2026-11-05**|**JailBound: FOL-Guided Jailbreak Evaluation for Exploring LLM Behavioral Boundaries**|Fazong Wu et.al.|[2611.07530](http://arxiv.org/abs/2611.07530)|null|
 |**2026-11-04**|**Addition by Subtraction: Toward Mitigating Fragile Safety Alignment in Large Language Models**|Hamid Dashtbani et.al.|[2611.06553](http://arxiv.org/abs/2611.06553)|null|
@@ -29,7 +31,7 @@ layout: default
 |**2026-10-28**|**Rethinking LLM Jailbreak Evaluation: Continuous Risk Landscapes Beyond Binary Outcomes**|Yukai Zhou et.al.|[2610.38595](http://arxiv.org/abs/2610.38595)|null|
 |**2026-10-28**|**Jailbreak Connectivity: Towards Diverse, Transferable, and Universal Multimodal Large Language Model Jailbreak**|Xu Zhang et.al.|[2610.38091](http://arxiv.org/abs/2610.38091)|null|
 |**2026-10-27**|**Poisoned Skills: Propagating Jailbreaks Through Agent Markdown Files**|Kashyap R Manjusha et.al.|[2610.37738](http://arxiv.org/abs/2610.37738)|null|
-|**2026-10-27**|**Probabilistic Sequential Safety for Stochastic Dynamical Systems**|Abhijit Mazumdar et.al.|[2610.37311](http://arxiv.org/abs/2610.37311)|null|
+|**2026-11-06**|**Probabilistic Sequential Safety for Stochastic Dynamical Systems**|Abhijit Mazumdar et.al.|[2610.37311](http://arxiv.org/abs/2610.37311)|null|
 |**2026-10-27**|**PrivacyEvalClaw: A Tool-Augmented Deliberative Agent for Auditing Privacy Leakage in LLM Jailbreak Responses**|Krishna Kanth Nakka et.al.|[2610.36711](http://arxiv.org/abs/2610.36711)|null|
 |**2026-10-26**|**SpecGuard: Detecting Multi-Turn LLM Jailbreaks via Specification-Based Runtime Monitoring**|Junle Li et.al.|[2610.36258](http://arxiv.org/abs/2610.36258)|null|
 |**2026-10-27**|**SEMA-Auto: Sighted and Efficient Multi-Turn Attack with Autonomy**|Mingqian Feng et.al.|[2610.35743](http://arxiv.org/abs/2610.35743)|null|
@@ -1278,6 +1280,8 @@ layout: default
 |**2002-05-07**|**The power spectrum of galaxies in the 2dF 100k redshift survey**|Max Tegmark et.al.|[astro-ph/0111575](http://arxiv.org/abs/astro-ph/0111575)|null|
 |**2001-05-21**|**Reconciliation of the Surface Brightness Fluctuations and Type Ia Supernovae Distance Scales**|Edward A. Ajhar et.al.|[astro-ph/0105366](http://arxiv.org/abs/astro-ph/0105366)|null|
 |**2002-02-27**|**Is cosmology consistent?**|Xiaomin Wang et.al.|[astro-ph/0105091](http://arxiv.org/abs/astro-ph/0105091)|null|
+|**2026-11-06**|**AUTEUR: Acoustic Plan Learning for Red-Teaming Text-to-Audio Models**|Jiashu Zhang et.al.|[2611.09351](http://arxiv.org/abs/2611.09351)|null|
+|**2026-11-06**|**GreyZone: Production-quality Agentic Application Threats**|Ruoyu Zhou et.al.|[2611.09161](http://arxiv.org/abs/2611.09161)|null|
 |**2026-11-05**|**Benchmarks as Software: Terminal-Bench and the Case for Continuous Benchmarks**|E. Kelly Buchanan et.al.|[2611.08417](http://arxiv.org/abs/2611.08417)|null|
 |**2026-11-05**|**Multimodal-SEA: Benchmarking AI Agent Security under Multimodal Social Engineering Attacks**|Zhitao He et.al.|[2611.08281](http://arxiv.org/abs/2611.08281)|null|
 |**2026-11-05**|**Building Barricades: Red-Teaming Agentic Biosynthesis Planning**|Nicholas Roehner et.al.|[2611.08218](http://arxiv.org/abs/2611.08218)|null|
@@ -2249,6 +2253,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-06**|**GuardrailAgent: An Agentic Framework for Jailbreak Defense**|Tianze Chang et.al.|[2611.09734](http://arxiv.org/abs/2611.09734)|null|
+|**2026-11-06**|**When Routine Operations Break Architectural Pattern Relationships in LLM Agent Harnesses**|Boming Xia et.al.|[2611.09088](http://arxiv.org/abs/2611.09088)|null|
+|**2026-11-06**|**Jev as an LLM Safety Guardrail: An Empirical Study of Input Filtering, Selective Output Review, and Over-Refusal**|Olivia Cognetti et.al.|[2611.08845](http://arxiv.org/abs/2611.08845)|null|
+|**2026-11-05**|**Guardrail Erosion in Domain Fine-Tuned Large Language Models: A Paired Audit of Knowledge-Centric Abstention in Biomedical LLMs**|Stephen Peng et.al.|[2611.08780](http://arxiv.org/abs/2611.08780)|null|
 |**2026-11-05**|**SAVeR $^2$ : Reasoning-based Safety Alignment for Large Reasoning Models via Verifiable Rewards**|Yichen Sun et.al.|[2611.07482](http://arxiv.org/abs/2611.07482)|null|
 |**2026-11-04**|**Addition by Subtraction: Toward Mitigating Fragile Safety Alignment in Large Language Models**|Hamid Dashtbani et.al.|[2611.06553](http://arxiv.org/abs/2611.06553)|null|
 |**2026-11-03**|**Extracting System Prompt of LLM Services in Complex (Agentic) Settings: Hierarchical Optimization and Reliable Evaluation Metrics**|Shuaidong Li et.al.|[2611.04803](http://arxiv.org/abs/2611.04803)|null|
@@ -3505,6 +3513,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-06**|**Notwithstanding Anything to the Contrary, Ignore All Instructions: Measuring Prompt Injection Guards on Legal Contract Review Attacks**|Mark Heimann et.al.|[2611.08834](http://arxiv.org/abs/2611.08834)|null|
+|**2026-11-06**|**I Think, Therefore I Attack: Evaluating Thought Injection Attacks on Reasoning Agents**|Parth Illendula et.al.|[2611.08811](http://arxiv.org/abs/2611.08811)|null|
+|**2026-10-22**|**Aegis OS: A Transactional Multi-Tenant Operating System Runtime for Eliminating Authorization Fatigue in Autonomous Coding Agents**|Hui Zhao et.al.|[2611.08516](http://arxiv.org/abs/2611.08516)|null|
 |**2026-11-05**|**The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI**|Julian Kunkel et.al.|[2611.08428](http://arxiv.org/abs/2611.08428)|null|
 |**2026-11-05**|**Beyond Instruction Override: Benchmarking Indirect Prompt Injection with Task-Tampering Attacks**|Rongting Zhang et.al.|[2611.07640](http://arxiv.org/abs/2611.07640)|null|
 |**2026-11-04**|**SPILLWAY: Separating Target Admission from Sanitization to Defend Tool-Using Agents against Prompt Injection**|Woosang Lim et.al.|[2611.07222](http://arxiv.org/abs/2611.07222)|null|
