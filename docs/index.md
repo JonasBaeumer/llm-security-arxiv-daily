@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.11.10
+## Updated on 2026.11.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**POEM: Output-Relative Block-Sparse Attention for Long-Context Prefilling**|Haoyi Wu et.al.|[2611.13578](http://arxiv.org/abs/2611.13578)|null|
+|**2026-11-10**|**TERM: Target-Free Jailbreak Defense via Entropy-Guided Residual Modulation**|Yunkai Dang et.al.|[2611.13577](http://arxiv.org/abs/2611.13577)|null|
 |**2026-11-09**|**AnyBreak: Towards Jailbreaking Any T2I Model for Any Concept**|Qi Lu et.al.|[2611.11980](http://arxiv.org/abs/2611.11980)|null|
 |**2026-11-08**|**Beyond AUROC: Deployment-Aware Evaluation of Model-Internal Jailbreak Detectors**|Mohammad Tehabsim et.al.|[2611.11067](http://arxiv.org/abs/2611.11067)|null|
 |**2026-11-06**|**Beyond the Prompt: Leveraging Pre-Decoding States for Jailbreak Detection in dLLMs**|Adam Hazimeh et.al.|[2611.10258](http://arxiv.org/abs/2611.10258)|null|
@@ -1284,6 +1286,7 @@ layout: default
 |**2002-05-07**|**The power spectrum of galaxies in the 2dF 100k redshift survey**|Max Tegmark et.al.|[astro-ph/0111575](http://arxiv.org/abs/astro-ph/0111575)|null|
 |**2001-05-21**|**Reconciliation of the Surface Brightness Fluctuations and Type Ia Supernovae Distance Scales**|Edward A. Ajhar et.al.|[astro-ph/0105366](http://arxiv.org/abs/astro-ph/0105366)|null|
 |**2002-02-27**|**Is cosmology consistent?**|Xiaomin Wang et.al.|[astro-ph/0105091](http://arxiv.org/abs/astro-ph/0105091)|null|
+|**2026-11-10**|**Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents**|Howard Zhang et.al.|[2611.14493](http://arxiv.org/abs/2611.14493)|null|
 |**2026-11-09**|**Scaling Adaptive Prompt Injection Attacks with Agent Swarms**|Alexey Kurakin et.al.|[2611.11861](http://arxiv.org/abs/2611.11861)|null|
 |**2026-11-07**|**Generating Diverse and Verified Synthetic Clinical Notes with Labels by Construction**|Matthias Lehmann et.al.|[2611.10789](http://arxiv.org/abs/2611.10789)|null|
 |**2026-11-06**|**AUTEUR: Acoustic Plan Learning for Red-Teaming Text-to-Audio Models**|Jiashu Zhang et.al.|[2611.09351](http://arxiv.org/abs/2611.09351)|null|
@@ -2259,6 +2262,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**TreeAgent: Structure-Aware Memory Agent for Processing Long Hierarchical Data**|Wei Gu et.al.|[2611.13946](http://arxiv.org/abs/2611.13946)|null|
 |**2026-11-08**|**System Prompts Affect Response Bias More Than Discriminability in LLM Safety**|Mohan W. Gupta et.al.|[2611.11074](http://arxiv.org/abs/2611.11074)|null|
 |**2026-11-07**|**When Safety Becomes An Outlier: Understanding the Retention of LLM Safety Behaviors**|Binchi Zhang et.al.|[2611.10971](http://arxiv.org/abs/2611.10971)|null|
 |**2026-11-06**|**Restoring General and Improving Domain-Specific Safety in Fine-Tuned LLMs Without Retraining**|Vishnu Kabir Chhabra et.al.|[2611.10279](http://arxiv.org/abs/2611.10279)|null|
@@ -4672,7 +4676,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-11-09**|**XposedMIA: Exploiting Explainable Artificial Intelligence (XAI) for One-Shot Membership Inference Attacks**|Omar Hamdache et.al.|[2611.12067](http://arxiv.org/abs/2611.12067)|null|
+|**2026-11-10**|**XposedMIA: Exploiting Explainable Artificial Intelligence (XAI) for One-Shot Membership Inference Attacks**|Omar Hamdache et.al.|[2611.12067](http://arxiv.org/abs/2611.12067)|null|
 |**2026-11-07**|**Bayesian Low-Rank Posteriors for Scalable Membership Inference**|Khanh Nguyen et.al.|[2611.10455](http://arxiv.org/abs/2611.10455)|null|
 |**2026-11-04**|**Auditable Unlearning for LLMs**|Piyush Tiwary et.al.|[2611.05866](http://arxiv.org/abs/2611.05866)|null|
 |**2026-11-04**|**Timing is Everything: Inferring Temporal Membership in Continually Updated Models**|Jie Fu et.al.|[2611.05781](http://arxiv.org/abs/2611.05781)|null|
