@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.12
+## Updated on 2026.11.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
@@ -32,7 +32,7 @@ layout: default
 |**2026-10-30**|**Circuit Oracle: Automating Attribution Graph Analysis via Natural-Language Queries**|Shariar Kabir et.al.|[2611.00420](http://arxiv.org/abs/2611.00420)|null|
 |**2026-10-29**|**CoFiBreak: A Coarse-to-Fine Diversity Reward for Effective Multi-Turn Jailbreak**|Jialin Song et.al.|[2610.40926](http://arxiv.org/abs/2610.40926)|null|
 |**2026-11-03**|**ChatGPT as a Surveillance Assistant? An Exploratory Case Study of AI-Assisted Surveillance Risks**|Ayana Hussain et.al.|[2610.40890](http://arxiv.org/abs/2610.40890)|null|
-|**2026-11-05**|**Systematic Evaluation of Adversarial Jailbreaking Attacks and Defenses Across Seven Large Language Models**|Md. Robiul Islam Niloy et.al.|[2610.39509](http://arxiv.org/abs/2610.39509)|null|
+|**2026-11-12**|**Systematic Evaluation of Adversarial Jailbreaking Attacks and Defenses Across Seven Large Language Models**|Md. Robiul Islam Niloy et.al.|[2610.39509](http://arxiv.org/abs/2610.39509)|null|
 |**2026-10-28**|**Discovering Jailbreaks via Curriculum of Models**|Michał Burzyński et.al.|[2610.38833](http://arxiv.org/abs/2610.38833)|null|
 |**2026-10-28**|**Rethinking LLM Jailbreak Evaluation: Continuous Risk Landscapes Beyond Binary Outcomes**|Yukai Zhou et.al.|[2610.38595](http://arxiv.org/abs/2610.38595)|null|
 |**2026-10-28**|**Jailbreak Connectivity: Towards Diverse, Transferable, and Universal Multimodal Large Language Model Jailbreak**|Xu Zhang et.al.|[2610.38091](http://arxiv.org/abs/2610.38091)|null|
@@ -1286,6 +1286,10 @@ layout: default
 |**2002-05-07**|**The power spectrum of galaxies in the 2dF 100k redshift survey**|Max Tegmark et.al.|[astro-ph/0111575](http://arxiv.org/abs/astro-ph/0111575)|null|
 |**2001-05-21**|**Reconciliation of the Surface Brightness Fluctuations and Type Ia Supernovae Distance Scales**|Edward A. Ajhar et.al.|[astro-ph/0105366](http://arxiv.org/abs/astro-ph/0105366)|null|
 |**2002-02-27**|**Is cosmology consistent?**|Xiaomin Wang et.al.|[astro-ph/0105091](http://arxiv.org/abs/astro-ph/0105091)|null|
+|**2026-11-12**|**MobileProbe: Adaptive Security Evaluation of Mobile Agents via Trajectory-Aware Injection**|Yingbin Jin et.al.|[2611.16693](http://arxiv.org/abs/2611.16693)|null|
+|**2026-11-12**|**Singularity-Bench: Can Agents Build Agents?**|Yang Zhou et.al.|[2611.16591](http://arxiv.org/abs/2611.16591)|null|
+|**2026-11-12**|**ReA-Bench: Benchmarking Responsible Agent Auditing**|Zipeng Ye et.al.|[2611.16493](http://arxiv.org/abs/2611.16493)|null|
+|**2026-11-12**|**Contain, Conform, Compare (Extended Version): A Red-Teamed Evaluation Kit for Small Coding Agents and the Full Record of Its Experiments**|Nguyen Minh Thang et.al.|[2611.16485](http://arxiv.org/abs/2611.16485)|null|
 |**2026-11-10**|**Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents**|Howard Zhang et.al.|[2611.14493](http://arxiv.org/abs/2611.14493)|null|
 |**2026-11-09**|**Scaling Adaptive Prompt Injection Attacks with Agent Swarms**|Alexey Kurakin et.al.|[2611.11861](http://arxiv.org/abs/2611.11861)|null|
 |**2026-11-07**|**Generating Diverse and Verified Synthetic Clinical Notes with Labels by Construction**|Matthias Lehmann et.al.|[2611.10789](http://arxiv.org/abs/2611.10789)|null|
@@ -2262,6 +2266,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-12**|**Bait: Mitigating Harmful Agentic Reinforcement Learning via Probing Reward Function**|Tiansheng Huang et.al.|[2611.16369](http://arxiv.org/abs/2611.16369)|null|
+|**2026-11-12**|**Data-Efficient LLM Safety Alignment Guided by Interpretable Features**|Hongyu Li et.al.|[2611.16183](http://arxiv.org/abs/2611.16183)|null|
+|**2026-11-11**|**From Concepts to Interactions: Dynamic Graph Semantic Recomposition for Safe Visual Generation**|Qinghui Gong et.al.|[2611.15149](http://arxiv.org/abs/2611.15149)|null|
 |**2026-11-10**|**TreeAgent: Structure-Aware Memory Agent for Processing Long Hierarchical Data**|Wei Gu et.al.|[2611.13946](http://arxiv.org/abs/2611.13946)|null|
 |**2026-11-08**|**System Prompts Affect Response Bias More Than Discriminability in LLM Safety**|Mohan W. Gupta et.al.|[2611.11074](http://arxiv.org/abs/2611.11074)|null|
 |**2026-11-07**|**When Safety Becomes An Outlier: Understanding the Retention of LLM Safety Behaviors**|Binchi Zhang et.al.|[2611.10971](http://arxiv.org/abs/2611.10971)|null|
@@ -3529,6 +3536,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-12**|**CapLite: Prompt-Injection Defense for Small Language Model Agents without Model-Written Security Artifacts**|Zimo Xu et.al.|[2611.17115](http://arxiv.org/abs/2611.17115)|null|
+|**2026-11-12**|**Scale-Induced Semantic Shift in Visual Prompt Injection Against VLMs and Web Agents**|Yiheng Zhao et.al.|[2611.16744](http://arxiv.org/abs/2611.16744)|null|
+|**2026-11-12**|**Intent-Aware Protection for AI Agents**|Fady Copty et.al.|[2611.16122](http://arxiv.org/abs/2611.16122)|null|
+|**2026-11-11**|**Smart Model Routing for Order-of-Magnitude LLM Cost Reduction**|Hesham Elbakoury et.al.|[2611.15911](http://arxiv.org/abs/2611.15911)|null|
 |**2026-11-09**|**Can the Confidence and Decisions of System 1 Models Be Trusted? An Explainability and Perturbation Audit of Jev-Style Decision Models**|Julien Delaunay et.al.|[2611.12521](http://arxiv.org/abs/2611.12521)|null|
 |**2026-11-09**|**Say Shibboleth: Fingerprinting the LLMs and Harnesses Behind Agentic Attacks**|Dario Pasquini et.al.|[2611.12386](http://arxiv.org/abs/2611.12386)|null|
 |**2026-11-09**|**Harness Matters: Measuring and Dissecting Security Resilience in Web Agents**|Xinyi Wu et.al.|[2611.11971](http://arxiv.org/abs/2611.11971)|null|

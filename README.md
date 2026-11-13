@@ -1,4 +1,4 @@
-## Updated on 2026.11.12
+## Updated on 2026.11.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -44,7 +44,7 @@
 |**2026-10-30**|**Circuit Oracle: Automating Attribution Graph Analysis via Natural-Language Queries**|Shariar Kabir et.al.|[2611.00420](http://arxiv.org/abs/2611.00420)|null|
 |**2026-10-29**|**CoFiBreak: A Coarse-to-Fine Diversity Reward for Effective Multi-Turn Jailbreak**|Jialin Song et.al.|[2610.40926](http://arxiv.org/abs/2610.40926)|null|
 |**2026-11-03**|**ChatGPT as a Surveillance Assistant? An Exploratory Case Study of AI-Assisted Surveillance Risks**|Ayana Hussain et.al.|[2610.40890](http://arxiv.org/abs/2610.40890)|null|
-|**2026-11-05**|**Systematic Evaluation of Adversarial Jailbreaking Attacks and Defenses Across Seven Large Language Models**|Md. Robiul Islam Niloy et.al.|[2610.39509](http://arxiv.org/abs/2610.39509)|null|
+|**2026-11-12**|**Systematic Evaluation of Adversarial Jailbreaking Attacks and Defenses Across Seven Large Language Models**|Md. Robiul Islam Niloy et.al.|[2610.39509](http://arxiv.org/abs/2610.39509)|null|
 |**2026-10-28**|**Discovering Jailbreaks via Curriculum of Models**|Michał Burzyński et.al.|[2610.38833](http://arxiv.org/abs/2610.38833)|null|
 |**2026-10-28**|**Rethinking LLM Jailbreak Evaluation: Continuous Risk Landscapes Beyond Binary Outcomes**|Yukai Zhou et.al.|[2610.38595](http://arxiv.org/abs/2610.38595)|null|
 |**2026-10-28**|**Jailbreak Connectivity: Towards Diverse, Transferable, and Universal Multimodal Large Language Model Jailbreak**|Xu Zhang et.al.|[2610.38091](http://arxiv.org/abs/2610.38091)|null|
@@ -1283,7 +1283,7 @@
 |**2025-05-16**|**CARES: Comprehensive Evaluation of Safety and Adversarial Robustness in Medical LLMs**|Sijia Chen et.al.|[2505.11413](http://arxiv.org/abs/2505.11413)|null|
 |**2025-05-16**|**LARGO: Latent Adversarial Reflection through Gradient Optimization for Jailbreaking LLMs**|Ran Li et.al.|[2505.10838](http://arxiv.org/abs/2505.10838)|null|
 
-<p align=right>(<a href=#updated-on-20261112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261113>back to top</a>)</p>
 
 ## Red Teaming
 
@@ -1300,6 +1300,10 @@
 |**2002-05-07**|**The power spectrum of galaxies in the 2dF 100k redshift survey**|Max Tegmark et.al.|[astro-ph/0111575](http://arxiv.org/abs/astro-ph/0111575)|null|
 |**2001-05-21**|**Reconciliation of the Surface Brightness Fluctuations and Type Ia Supernovae Distance Scales**|Edward A. Ajhar et.al.|[astro-ph/0105366](http://arxiv.org/abs/astro-ph/0105366)|null|
 |**2002-02-27**|**Is cosmology consistent?**|Xiaomin Wang et.al.|[astro-ph/0105091](http://arxiv.org/abs/astro-ph/0105091)|null|
+|**2026-11-12**|**MobileProbe: Adaptive Security Evaluation of Mobile Agents via Trajectory-Aware Injection**|Yingbin Jin et.al.|[2611.16693](http://arxiv.org/abs/2611.16693)|null|
+|**2026-11-12**|**Singularity-Bench: Can Agents Build Agents?**|Yang Zhou et.al.|[2611.16591](http://arxiv.org/abs/2611.16591)|null|
+|**2026-11-12**|**ReA-Bench: Benchmarking Responsible Agent Auditing**|Zipeng Ye et.al.|[2611.16493](http://arxiv.org/abs/2611.16493)|null|
+|**2026-11-12**|**Contain, Conform, Compare (Extended Version): A Red-Teamed Evaluation Kit for Small Coding Agents and the Full Record of Its Experiments**|Nguyen Minh Thang et.al.|[2611.16485](http://arxiv.org/abs/2611.16485)|null|
 |**2026-11-10**|**Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents**|Howard Zhang et.al.|[2611.14493](http://arxiv.org/abs/2611.14493)|null|
 |**2026-11-09**|**Scaling Adaptive Prompt Injection Attacks with Agent Swarms**|Alexey Kurakin et.al.|[2611.11861](http://arxiv.org/abs/2611.11861)|null|
 |**2026-11-07**|**Generating Diverse and Verified Synthetic Clinical Notes with Labels by Construction**|Matthias Lehmann et.al.|[2611.10789](http://arxiv.org/abs/2611.10789)|null|
@@ -2272,12 +2276,15 @@
 |**2008-06-27**|**Predicting the Yields of Photometric Surveys for Transiting Extrasolar Planets**|Thomas G. Beatty et.al.|[0804.1150](http://arxiv.org/abs/0804.1150)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20261112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261113>back to top</a>)</p>
 
 ## LLM Safety Alignment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-12**|**Bait: Mitigating Harmful Agentic Reinforcement Learning via Probing Reward Function**|Tiansheng Huang et.al.|[2611.16369](http://arxiv.org/abs/2611.16369)|null|
+|**2026-11-12**|**Data-Efficient LLM Safety Alignment Guided by Interpretable Features**|Hongyu Li et.al.|[2611.16183](http://arxiv.org/abs/2611.16183)|null|
+|**2026-11-11**|**From Concepts to Interactions: Dynamic Graph Semantic Recomposition for Safe Visual Generation**|Qinghui Gong et.al.|[2611.15149](http://arxiv.org/abs/2611.15149)|null|
 |**2026-11-10**|**TreeAgent: Structure-Aware Memory Agent for Processing Long Hierarchical Data**|Wei Gu et.al.|[2611.13946](http://arxiv.org/abs/2611.13946)|null|
 |**2026-11-08**|**System Prompts Affect Response Bias More Than Discriminability in LLM Safety**|Mohan W. Gupta et.al.|[2611.11074](http://arxiv.org/abs/2611.11074)|null|
 |**2026-11-07**|**When Safety Becomes An Outlier: Understanding the Retention of LLM Safety Behaviors**|Binchi Zhang et.al.|[2611.10971](http://arxiv.org/abs/2611.10971)|null|
@@ -3541,12 +3548,16 @@
 |**2025-03-10**|**Graphormer-Guided Task Planning: Beyond Static Rules with LLM Safety Perception**|Wanjing Huang et.al.|[2503.06866](http://arxiv.org/abs/2503.06866)|null|
 |**2026-05-08**|**RedDiffuser: Auditing Multimodal Safety Failures in Vision-Language Models via Reinforced Diffusion**|Ruofan Wang et.al.|[2503.06223](http://arxiv.org/abs/2503.06223)|null|
 
-<p align=right>(<a href=#updated-on-20261112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261113>back to top</a>)</p>
 
 ## Prompt Injection (OWASP LLM01)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-12**|**CapLite: Prompt-Injection Defense for Small Language Model Agents without Model-Written Security Artifacts**|Zimo Xu et.al.|[2611.17115](http://arxiv.org/abs/2611.17115)|null|
+|**2026-11-12**|**Scale-Induced Semantic Shift in Visual Prompt Injection Against VLMs and Web Agents**|Yiheng Zhao et.al.|[2611.16744](http://arxiv.org/abs/2611.16744)|null|
+|**2026-11-12**|**Intent-Aware Protection for AI Agents**|Fady Copty et.al.|[2611.16122](http://arxiv.org/abs/2611.16122)|null|
+|**2026-11-11**|**Smart Model Routing for Order-of-Magnitude LLM Cost Reduction**|Hesham Elbakoury et.al.|[2611.15911](http://arxiv.org/abs/2611.15911)|null|
 |**2026-11-09**|**Can the Confidence and Decisions of System 1 Models Be Trusted? An Explainability and Perturbation Audit of Jev-Style Decision Models**|Julien Delaunay et.al.|[2611.12521](http://arxiv.org/abs/2611.12521)|null|
 |**2026-11-09**|**Say Shibboleth: Fingerprinting the LLMs and Harnesses Behind Agentic Attacks**|Dario Pasquini et.al.|[2611.12386](http://arxiv.org/abs/2611.12386)|null|
 |**2026-11-09**|**Harness Matters: Measuring and Dissecting Security Resilience in Web Agents**|Xinyi Wu et.al.|[2611.11971](http://arxiv.org/abs/2611.11971)|null|
@@ -4690,7 +4701,7 @@
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|null|
 |**2017-09-29**|**Hydrogen-rich supernovae beyond the neutrino-driven core-collapse paradigm**|G. Terreran et.al.|[1709.10475](http://arxiv.org/abs/1709.10475)|null|
 
-<p align=right>(<a href=#updated-on-20261112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261113>back to top</a>)</p>
 
 ## Sensitive Information Disclosure (OWASP LLM02)
 
@@ -5564,7 +5575,7 @@
 |**2018-08-21**|**LOGAN: Membership Inference Attacks Against Generative Models**|Jamie Hayes et.al.|[1705.07663](http://arxiv.org/abs/1705.07663)|null|
 |**2017-03-31**|**Membership Inference Attacks against Machine Learning Models**|Reza Shokri et.al.|[1610.05820](http://arxiv.org/abs/1610.05820)|null|
 
-<p align=right>(<a href=#updated-on-20261112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261113>back to top</a>)</p>
 
 ## Supply Chain (OWASP LLM03)
 
@@ -5573,7 +5584,7 @@
 |**2025-07-24**|**Understanding the Supply Chain and Risks of Large Language Model Applications**|Yujie Ma et.al.|[2507.18105](http://arxiv.org/abs/2507.18105)|null|
 |**2026-04-02**|**Robot Collapse: Supply Chain Backdoor Attacks Against VLM-based Robotic Manipulation**|Xianlong Wang et.al.|[2411.11683](http://arxiv.org/abs/2411.11683)|null|
 
-<p align=right>(<a href=#updated-on-20261112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261113>back to top</a>)</p>
 
 ## Excessive Agency and Agentic Security (OWASP LLM06)
 
@@ -5620,7 +5631,7 @@
 |**2025-07-05**|**We Urgently Need Privilege Management in MCP: A Measurement of API Usage in MCP Ecosystems**|Zhihao Li et.al.|[2507.06250](http://arxiv.org/abs/2507.06250)|null|
 |**2025-09-14**|**Beyond the Protocol: Unveiling Attack Vectors in the Model Context Protocol (MCP) Ecosystem**|Hao Song et.al.|[2506.02040](http://arxiv.org/abs/2506.02040)|null|
 
-<p align=right>(<a href=#updated-on-20261112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261113>back to top</a>)</p>
 
 ## System Prompt Leakage (OWASP LLM07)
 
@@ -5641,7 +5652,7 @@
 |**2025-08-08**|**LeakAgent: RL-based Red-teaming Agent for LLM Privacy Leakage**|Yuzhou Nie et.al.|[2412.05734](http://arxiv.org/abs/2412.05734)|null|
 |**2024-01-20**|**Jailbreaking GPT-4V via Self-Adversarial Attacks with System Prompts**|Yuanwei Wu et.al.|[2311.09127](http://arxiv.org/abs/2311.09127)|null|
 
-<p align=right>(<a href=#updated-on-20261112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261113>back to top</a>)</p>
 
 ## Vector and Embedding Weaknesses / RAG Security (OWASP LLM08)
 
@@ -5693,7 +5704,7 @@
 |**2018-03-26**|**Rogue Signs: Deceiving Traffic Sign Recognition with Malicious Ads and Logos**|Chawin Sitawarin et.al.|[1801.02780](http://arxiv.org/abs/1801.02780)|null|
 |**2017-04-11**|**A Robust Blind Watermarking Using Convolutional Neural Network**|Seung-Min Mun et.al.|[1704.03248](http://arxiv.org/abs/1704.03248)|null|
 
-<p align=right>(<a href=#updated-on-20261112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261113>back to top</a>)</p>
 
 ## Unbounded Consumption (OWASP LLM10)
 
@@ -5701,7 +5712,7 @@
 |---|---|---|---|---|
 |**2025-05-26**|**Crabs: Consuming Resource via Auto-generation for LLM-DoS Attack under Black-box Settings**|Yuanhe Zhang et.al.|[2412.13879](http://arxiv.org/abs/2412.13879)|null|
 
-<p align=right>(<a href=#updated-on-20261112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261113>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
