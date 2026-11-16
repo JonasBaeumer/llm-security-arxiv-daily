@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.11.15
+## Updated on 2026.11.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-13**|**LLMs are Vulnerable to Malicious Requests with Indistinguishable Intent**|Wenzhuo Xu et.al.|[2611.17818](http://arxiv.org/abs/2611.17818)|null|
+|**2026-11-12**|**Creating Steering Vectors via Input Optimisation**|Batuhan Akar et.al.|[2611.17481](http://arxiv.org/abs/2611.17481)|null|
+|**2026-11-12**|**Alignment with Reflect-Reasoning: Learning How To Follow Principles**|Henry Bell et.al.|[2611.17398](http://arxiv.org/abs/2611.17398)|null|
 |**2026-11-10**|**POEM: Output-Relative Block-Sparse Attention for Long-Context Prefilling**|Haoyi Wu et.al.|[2611.13578](http://arxiv.org/abs/2611.13578)|null|
 |**2026-11-10**|**TERM: Target-Free Jailbreak Defense via Entropy-Guided Residual Modulation**|Yunkai Dang et.al.|[2611.13577](http://arxiv.org/abs/2611.13577)|null|
 |**2026-11-09**|**AnyBreak: Towards Jailbreaking Any T2I Model for Any Concept**|Qi Lu et.al.|[2611.11980](http://arxiv.org/abs/2611.11980)|null|
@@ -16,7 +19,7 @@ layout: default
 |**2026-11-06**|**Beyond the Prompt: Leveraging Pre-Decoding States for Jailbreak Detection in dLLMs**|Adam Hazimeh et.al.|[2611.10258](http://arxiv.org/abs/2611.10258)|null|
 |**2026-11-06**|**META-IR: Meta-Introspective Reasoning for Adaptive Safety Alignment in LLM**|Mahabubur Rahman Miraj et.al.|[2611.10089](http://arxiv.org/abs/2611.10089)|null|
 |**2026-11-06**|**GuardrailAgent: An Agentic Framework for Jailbreak Defense**|Tianze Chang et.al.|[2611.09734](http://arxiv.org/abs/2611.09734)|null|
-|**2026-11-05**|**AttentionSwitch: Jailbreak Defense for LLMs via Joint Learning of Sparse Attention-Head Selection and Scaling**|Doniyorkhon Obidov et.al.|[2611.08752](http://arxiv.org/abs/2611.08752)|null|
+|**2026-11-13**|**AttentionSwitch: Jailbreak Defense for LLMs via Joint Learning of Sparse Attention-Head Selection and Scaling**|Doniyorkhon Obidov et.al.|[2611.08752](http://arxiv.org/abs/2611.08752)|null|
 |**2026-11-05**|**"Blind Compliance": Coercive Control in AI Jailbreaking**|Acacia L. Ackles et.al.|[2611.08226](http://arxiv.org/abs/2611.08226)|null|
 |**2026-11-05**|**JailBound: FOL-Guided Jailbreak Evaluation for Exploring LLM Behavioral Boundaries**|Fazong Wu et.al.|[2611.07530](http://arxiv.org/abs/2611.07530)|null|
 |**2026-11-04**|**Addition by Subtraction: Toward Mitigating Fragile Safety Alignment in Large Language Models**|Hamid Dashtbani et.al.|[2611.06553](http://arxiv.org/abs/2611.06553)|null|
