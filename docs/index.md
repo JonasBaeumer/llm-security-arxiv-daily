@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.11.16
+## Updated on 2026.11.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-14**|**Hardening Agentic Web Populations Through Multi-Criterion Competitive Co-Evolution: Lessons from Wargame Strategy Optimization**|Shashank Raj et.al.|[2611.19319](http://arxiv.org/abs/2611.19319)|null|
 |**2026-11-13**|**LLMs are Vulnerable to Malicious Requests with Indistinguishable Intent**|Wenzhuo Xu et.al.|[2611.17818](http://arxiv.org/abs/2611.17818)|null|
 |**2026-11-12**|**Creating Steering Vectors via Input Optimisation**|Batuhan Akar et.al.|[2611.17481](http://arxiv.org/abs/2611.17481)|null|
 |**2026-11-12**|**Alignment with Reflect-Reasoning: Learning How To Follow Principles**|Henry Bell et.al.|[2611.17398](http://arxiv.org/abs/2611.17398)|null|
@@ -1289,9 +1290,12 @@ layout: default
 |**2002-05-07**|**The power spectrum of galaxies in the 2dF 100k redshift survey**|Max Tegmark et.al.|[astro-ph/0111575](http://arxiv.org/abs/astro-ph/0111575)|null|
 |**2001-05-21**|**Reconciliation of the Surface Brightness Fluctuations and Type Ia Supernovae Distance Scales**|Edward A. Ajhar et.al.|[astro-ph/0105366](http://arxiv.org/abs/astro-ph/0105366)|null|
 |**2002-02-27**|**Is cosmology consistent?**|Xiaomin Wang et.al.|[astro-ph/0105091](http://arxiv.org/abs/astro-ph/0105091)|null|
+|**2026-11-15**|**Attacker Diversity Reduction in Adaptive LLM Red Teaming**|Chris Tava et.al.|[2611.19680](http://arxiv.org/abs/2611.19680)|null|
+|**2026-11-14**|**VAST: Compiling Grounded Vulnerability Scenarios into Verifiable, Multi-Step Environments for Evaluating LLM Red-Team Agents**|Zhen Wan et.al.|[2611.19465](http://arxiv.org/abs/2611.19465)|null|
+|**2026-10-30**|**Not All Steps Matter: Temporally Adaptive Spectral Control for Concept Removal in Diffusion Models**|Chanaka Thushitha Bandara et.al.|[2611.18678](http://arxiv.org/abs/2611.18678)|null|
 |**2026-11-12**|**MobileProbe: Adaptive Security Evaluation of Mobile Agents via Trajectory-Aware Injection**|Yingbin Jin et.al.|[2611.16693](http://arxiv.org/abs/2611.16693)|null|
-|**2026-11-12**|**Singularity-Bench: Can Agents Build Agents?**|Yang Zhou et.al.|[2611.16591](http://arxiv.org/abs/2611.16591)|null|
-|**2026-11-12**|**ReA-Bench: Benchmarking Responsible Agent Auditing**|Zipeng Ye et.al.|[2611.16493](http://arxiv.org/abs/2611.16493)|null|
+|**2026-11-16**|**Singularity-Bench: Can Agents Build Agents?**|Yang Zhou et.al.|[2611.16591](http://arxiv.org/abs/2611.16591)|null|
+|**2026-11-16**|**ReA-Bench: Benchmarking Responsible Agent Auditing**|Zipeng Ye et.al.|[2611.16493](http://arxiv.org/abs/2611.16493)|null|
 |**2026-11-12**|**Contain, Conform, Compare (Extended Version): A Red-Teamed Evaluation Kit for Small Coding Agents and the Full Record of Its Experiments**|Nguyen Minh Thang et.al.|[2611.16485](http://arxiv.org/abs/2611.16485)|null|
 |**2026-11-10**|**Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents**|Howard Zhang et.al.|[2611.14493](http://arxiv.org/abs/2611.14493)|null|
 |**2026-11-09**|**Scaling Adaptive Prompt Injection Attacks with Agent Swarms**|Alexey Kurakin et.al.|[2611.11861](http://arxiv.org/abs/2611.11861)|null|
@@ -2269,6 +2273,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-16**|**Safety-Preserving Medical LLM Fine-Tuning via Bilevel Data Selection**|Ruoxuan Shi et.al.|[2611.20643](http://arxiv.org/abs/2611.20643)|null|
+|**2026-11-16**|**Model Immunization Beyond Condition Numbers: The Importance of Plateau Regions**|Quoc Nguyen et.al.|[2611.20472](http://arxiv.org/abs/2611.20472)|null|
+|**2026-11-16**|**Abstention Direction in Large Language Models: Mechanistic Interpretability of Abstention Across Query Ambiguity, Knowledge Limits, and Safety Alignment**|Koki Itai et.al.|[2611.20441](http://arxiv.org/abs/2611.20441)|null|
+|**2026-11-15**|**Protecting Safety during Reasoning Training with Low-Rank Fisher Regularisation**|Neel Rajani et.al.|[2611.20288](http://arxiv.org/abs/2611.20288)|null|
+|**2026-11-15**|**Fine-Grained RLAIF for Visual Safety: Learning to Zoom into Hazards for Multimodal Safety Alignment**|Chunxue Xu et.al.|[2611.19786](http://arxiv.org/abs/2611.19786)|null|
+|**2026-11-14**|**Hardening Agentic Web Populations Through Multi-Criterion Competitive Co-Evolution: Lessons from Wargame Strategy Optimization**|Shashank Raj et.al.|[2611.19319](http://arxiv.org/abs/2611.19319)|null|
 |**2026-11-12**|**Bait: Mitigating Harmful Agentic Reinforcement Learning via Probing Reward Function**|Tiansheng Huang et.al.|[2611.16369](http://arxiv.org/abs/2611.16369)|null|
 |**2026-11-12**|**Data-Efficient LLM Safety Alignment Guided by Interpretable Features**|Hongyu Li et.al.|[2611.16183](http://arxiv.org/abs/2611.16183)|null|
 |**2026-11-11**|**From Concepts to Interactions: Dynamic Graph Semantic Recomposition for Safe Visual Generation**|Qinghui Gong et.al.|[2611.15149](http://arxiv.org/abs/2611.15149)|null|
@@ -3539,6 +3549,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-16**|**Evaluating Authorization and Trust Boundaries in Agentic Orchestration Frameworks**|Sahaya Jestus Lazer et.al.|[2611.21259](http://arxiv.org/abs/2611.21259)|null|
+|**2026-11-15**|**Risk-certified prompt optimization for LLM-as-a-judge guardrails**|Hussein Jawad et.al.|[2611.20156](http://arxiv.org/abs/2611.20156)|null|
+|**2026-11-15**|**Security of Deep Research Agents: Attack Surface, Defenses, Benchmarks, and Agenda Seeding against Research Planning**|Yang Luo et.al.|[2611.20045](http://arxiv.org/abs/2611.20045)|null|
+|**2026-11-14**|**Agent Authenticator: Passkey-Grade, Hardware-Bound Authentication for AI Agents**|Harish Santhanalakshmi Ganesan et.al.|[2611.19536](http://arxiv.org/abs/2611.19536)|null|
+|**2026-11-14**|**Do Rule-Based Tools Help LLMs Translate Endangered Uralic Languages in the Prompt or over MCP?**|Iaroslav Chelombitko et.al.|[2611.19439](http://arxiv.org/abs/2611.19439)|null|
+|**2026-11-14**|**When the Spec Sheet Lies: Injection Attacks on LLM-Generated Compliance Artifacts**|Adriana Watson et.al.|[2611.19090](http://arxiv.org/abs/2611.19090)|null|
 |**2026-11-12**|**CapLite: Prompt-Injection Defense for Small Language Model Agents without Model-Written Security Artifacts**|Zimo Xu et.al.|[2611.17115](http://arxiv.org/abs/2611.17115)|null|
 |**2026-11-12**|**Scale-Induced Semantic Shift in Visual Prompt Injection Against VLMs and Web Agents**|Yiheng Zhao et.al.|[2611.16744](http://arxiv.org/abs/2611.16744)|null|
 |**2026-11-12**|**Intent-Aware Protection for AI Agents**|Fady Copty et.al.|[2611.16122](http://arxiv.org/abs/2611.16122)|null|
@@ -3562,7 +3578,7 @@ layout: default
 |**2026-10-22**|**Aegis OS: A Transactional Multi-Tenant Operating System Runtime for Eliminating Authorization Fatigue in Autonomous Coding Agents**|Hui Zhao et.al.|[2611.08516](http://arxiv.org/abs/2611.08516)|null|
 |**2026-11-05**|**The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI**|Julian Kunkel et.al.|[2611.08428](http://arxiv.org/abs/2611.08428)|null|
 |**2026-11-05**|**Beyond Instruction Override: Benchmarking Indirect Prompt Injection with Task-Tampering Attacks**|Rongting Zhang et.al.|[2611.07640](http://arxiv.org/abs/2611.07640)|null|
-|**2026-11-04**|**SPILLWAY: Separating Target Admission from Sanitization to Defend Tool-Using Agents against Prompt Injection**|Woosang Lim et.al.|[2611.07222](http://arxiv.org/abs/2611.07222)|null|
+|**2026-11-16**|**SPILLWAY: Separating Target Admission from Sanitization to Defend Tool-Using Agents against Prompt Injection**|Woosang Lim et.al.|[2611.07222](http://arxiv.org/abs/2611.07222)|null|
 |**2026-11-07**|**SecureGARD: Dynamic Ontology-Guided Governance for Secure Tool-Using LLM Agents**|Guoqin Xiong et.al.|[2611.06682](http://arxiv.org/abs/2611.06682)|null|
 |**2026-11-04**|**Securing Web Agents with the Compile-Then-Execute Paradigm**|Annabella Chow et.al.|[2611.06039](http://arxiv.org/abs/2611.06039)|null|
 |**2026-11-04**|**ScamWorld: An Interactive Environment for Evaluating Web Agents Against Online Fraud**|Yutao Wu et.al.|[2611.04879](http://arxiv.org/abs/2611.04879)|null|
@@ -4690,6 +4706,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-16**|**AudioTrace: File-Level Membership Detection for Audio Large Language Models**|Guangzhi Sun et.al.|[2611.21088](http://arxiv.org/abs/2611.21088)|null|
+|**2026-11-13**|**Privacy-Preserving Clustering Algorithm and Parameter Selection for Collaborative Population Stratification Using Distributed PCA**|Maryam Ghasemian et.al.|[2611.18925](http://arxiv.org/abs/2611.18925)|null|
+|**2026-11-13**|**Quantifying Membership Inference Risks in Genomic Data Sharing: The Role of Attacker's Auxiliary Information**|Maryam Ghasemian et.al.|[2611.18909](http://arxiv.org/abs/2611.18909)|null|
 |**2026-11-10**|**XposedMIA: Exploiting Explainable Artificial Intelligence (XAI) for One-Shot Membership Inference Attacks**|Omar Hamdache et.al.|[2611.12067](http://arxiv.org/abs/2611.12067)|null|
 |**2026-11-07**|**Bayesian Low-Rank Posteriors for Scalable Membership Inference**|Khanh Nguyen et.al.|[2611.10455](http://arxiv.org/abs/2611.10455)|null|
 |**2026-11-04**|**Auditable Unlearning for LLMs**|Piyush Tiwary et.al.|[2611.05866](http://arxiv.org/abs/2611.05866)|null|
@@ -5614,6 +5633,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-15**|**Risk-certified prompt optimization for LLM-as-a-judge guardrails**|Hussein Jawad et.al.|[2611.20156](http://arxiv.org/abs/2611.20156)|null|
 |**2026-10-26**|**Detecting and Mitigating Query-Based System Prompt Leakage Attacks**|Tushar Nayan et.al.|[2610.36295](http://arxiv.org/abs/2610.36295)|null|
 |**2026-10-20**|**Black-Box Red-Teaming of Multi-Agent Systems via Reinforcement Learning**|Yuqi Jia et.al.|[2610.28966](http://arxiv.org/abs/2610.28966)|null|
 |**2026-06-01**|**Which Defense Closes Which Threat? Attributing OWASP-LLM-Top-10 Coverage and Its Brittleness Under Paraphrasing**|Alexandre Cristovão Maiorano et.al.|[2606.02822](http://arxiv.org/abs/2606.02822)|null|
@@ -5633,6 +5653,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-15**|**Security of Deep Research Agents: Attack Surface, Defenses, Benchmarks, and Agenda Seeding against Research Planning**|Yang Luo et.al.|[2611.20045](http://arxiv.org/abs/2611.20045)|null|
 |**2026-11-02**|**IAMRAGBENCH: Benchmarking Authorization Expansions in LLM-Generated AWS IAM Policies under RAG Poisoning**|Hasan Kaplan et.al.|[2611.03431](http://arxiv.org/abs/2611.03431)|null|
 |**2026-10-29**|**Prevented is Not Protected: What Attack Success Rate Hides about RAG**|Chahana Dahal et.al.|[2610.40742](http://arxiv.org/abs/2610.40742)|null|
 |**2026-10-24**|**Ranking Is Not Deciding: Benchmark Shortcuts and Operating-Point Collapse in Query-Time RAG Poisoning Defenses**|Pushkal Kumar et.al.|[2610.33849](http://arxiv.org/abs/2610.33849)|null|
