@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.11.17
+## Updated on 2026.11.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-17**|**Dressed in Authority: Practical Black-Box Jailbreaking of MLLMs via Visual Trust Bias**|Weihang Liu et.al.|[2611.22292](http://arxiv.org/abs/2611.22292)|null|
+|**2026-11-17**|**EGS: A Complementary Safety Framework for Educational LLMs**|Zexuan Fei et.al.|[2611.22203](http://arxiv.org/abs/2611.22203)|null|
+|**2026-11-17**|**Is 4-Bit Quantization More Than Noise to a Chat Model's Safety Behaviour? Attributing Behavioural Shifts with Matched Perturbations**|Ege Kaya et.al.|[2611.22186](http://arxiv.org/abs/2611.22186)|null|
+|**2026-11-16**|**Eight in Ten LLMs Leak System-Prompt Secrets: Nevan, an Agentic Capture-the-Flag Study**|Ana Clara Zoppi Serpa et.al.|[2611.21956](http://arxiv.org/abs/2611.21956)|null|
 |**2026-11-14**|**Hardening Agentic Web Populations Through Multi-Criterion Competitive Co-Evolution: Lessons from Wargame Strategy Optimization**|Shashank Raj et.al.|[2611.19319](http://arxiv.org/abs/2611.19319)|null|
 |**2026-11-13**|**LLMs are Vulnerable to Malicious Requests with Indistinguishable Intent**|Wenzhuo Xu et.al.|[2611.17818](http://arxiv.org/abs/2611.17818)|null|
 |**2026-11-12**|**Creating Steering Vectors via Input Optimisation**|Batuhan Akar et.al.|[2611.17481](http://arxiv.org/abs/2611.17481)|null|
@@ -1290,6 +1294,7 @@ layout: default
 |**2002-05-07**|**The power spectrum of galaxies in the 2dF 100k redshift survey**|Max Tegmark et.al.|[astro-ph/0111575](http://arxiv.org/abs/astro-ph/0111575)|null|
 |**2001-05-21**|**Reconciliation of the Surface Brightness Fluctuations and Type Ia Supernovae Distance Scales**|Edward A. Ajhar et.al.|[astro-ph/0105366](http://arxiv.org/abs/astro-ph/0105366)|null|
 |**2002-02-27**|**Is cosmology consistent?**|Xiaomin Wang et.al.|[astro-ph/0105091](http://arxiv.org/abs/astro-ph/0105091)|null|
+|**2026-11-16**|**Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research**|Keshav Shenoy et.al.|[2611.21832](http://arxiv.org/abs/2611.21832)|null|
 |**2026-11-15**|**Attacker Diversity Reduction in Adaptive LLM Red Teaming**|Chris Tava et.al.|[2611.19680](http://arxiv.org/abs/2611.19680)|null|
 |**2026-11-14**|**VAST: Compiling Grounded Vulnerability Scenarios into Verifiable, Multi-Step Environments for Evaluating LLM Red-Team Agents**|Zhen Wan et.al.|[2611.19465](http://arxiv.org/abs/2611.19465)|null|
 |**2026-10-30**|**Not All Steps Matter: Temporally Adaptive Spectral Control for Concept Removal in Diffusion Models**|Chanaka Thushitha Bandara et.al.|[2611.18678](http://arxiv.org/abs/2611.18678)|null|
@@ -2273,6 +2278,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-17**|**Dressed in Authority: Practical Black-Box Jailbreaking of MLLMs via Visual Trust Bias**|Weihang Liu et.al.|[2611.22292](http://arxiv.org/abs/2611.22292)|null|
+|**2026-11-17**|**DACE: Diversity-Driven Adversarial Co-Evolution for Robust LLM Safety Alignment**|Peng Yu et.al.|[2611.22278](http://arxiv.org/abs/2611.22278)|null|
 |**2026-11-16**|**Safety-Preserving Medical LLM Fine-Tuning via Bilevel Data Selection**|Ruoxuan Shi et.al.|[2611.20643](http://arxiv.org/abs/2611.20643)|null|
 |**2026-11-16**|**Model Immunization Beyond Condition Numbers: The Importance of Plateau Regions**|Quoc Nguyen et.al.|[2611.20472](http://arxiv.org/abs/2611.20472)|null|
 |**2026-11-16**|**Abstention Direction in Large Language Models: Mechanistic Interpretability of Abstention Across Query Ambiguity, Knowledge Limits, and Safety Alignment**|Koki Itai et.al.|[2611.20441](http://arxiv.org/abs/2611.20441)|null|
@@ -3549,6 +3556,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-17**|**Network-Exposed Configuration Attacks on LLM-Controlled Social Robots**|Stanley Akingbola et.al.|[2611.22761](http://arxiv.org/abs/2611.22761)|null|
+|**2026-11-17**|**GapLeak: When Privacy-Preserving LLM-based Web Agents Become a Privacy Risk**|Chaklam Cheong et.al.|[2611.22223](http://arxiv.org/abs/2611.22223)|null|
+|**2026-11-16**|**Threat Landscape of Vibe Coding and the Road to Secure Autonomy**|Devki Nandan Jha et.al.|[2611.21822](http://arxiv.org/abs/2611.21822)|null|
 |**2026-11-16**|**Evaluating Authorization and Trust Boundaries in Agentic Orchestration Frameworks**|Sahaya Jestus Lazer et.al.|[2611.21259](http://arxiv.org/abs/2611.21259)|null|
 |**2026-11-15**|**Risk-certified prompt optimization for LLM-as-a-judge guardrails**|Hussein Jawad et.al.|[2611.20156](http://arxiv.org/abs/2611.20156)|null|
 |**2026-11-15**|**Security of Deep Research Agents: Attack Surface, Defenses, Benchmarks, and Agenda Seeding against Research Planning**|Yang Luo et.al.|[2611.20045](http://arxiv.org/abs/2611.20045)|null|
