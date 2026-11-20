@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.11.19
+## Updated on 2026.11.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Jailbreak Attacks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-19**|**SEOYUN: Refusal-Inducing Exam Documents for AI-Glasses Pipelines**|Dohyeon Kwon et.al.|[2611.26033](http://arxiv.org/abs/2611.26033)|null|
 |**2026-11-18**|**Jailbreak Detection on Large Language Models via Contrastive Prototype Structures**|Yan Qiu et.al.|[2611.24936](http://arxiv.org/abs/2611.24936)|null|
 |**2026-11-17**|**Dressed in Authority: Practical Black-Box Jailbreaking of MLLMs via Visual Trust Bias**|Weihang Liu et.al.|[2611.22292](http://arxiv.org/abs/2611.22292)|null|
 |**2026-11-17**|**EGS: A Complementary Safety Framework for Educational LLMs**|Zexuan Fei et.al.|[2611.22203](http://arxiv.org/abs/2611.22203)|null|
@@ -1295,11 +1296,12 @@ layout: default
 |**2002-05-07**|**The power spectrum of galaxies in the 2dF 100k redshift survey**|Max Tegmark et.al.|[astro-ph/0111575](http://arxiv.org/abs/astro-ph/0111575)|null|
 |**2001-05-21**|**Reconciliation of the Surface Brightness Fluctuations and Type Ia Supernovae Distance Scales**|Edward A. Ajhar et.al.|[astro-ph/0105366](http://arxiv.org/abs/astro-ph/0105366)|null|
 |**2002-02-27**|**Is cosmology consistent?**|Xiaomin Wang et.al.|[astro-ph/0105091](http://arxiv.org/abs/astro-ph/0105091)|null|
+|**2026-11-19**|**VisualJevBench: A Benchmark and Black-Box Attacks for Visual Typed Decision Models**|Li Zeng et.al.|[2611.25435](http://arxiv.org/abs/2611.25435)|null|
 |**2026-11-18**|**PIPETTE: Prompt Injection Purple-Teaming for Robust LLM Agents**|Lipeng He et.al.|[2611.24362](http://arxiv.org/abs/2611.24362)|null|
 |**2026-11-18**|**AutoPI: Taxonomy-Guided Adaptive Red Teaming for Prompt Injection in LLM Agents**|Stavros Damianakis et.al.|[2611.24313](http://arxiv.org/abs/2611.24313)|null|
 |**2026-11-18**|**Learning to Coordinate: LLM-Guided Workflow Evolution for Token-Efficient Red Teaming**|Xiaoyang Xing et.al.|[2611.24221](http://arxiv.org/abs/2611.24221)|null|
 |**2026-11-18**|**Incremental Speciation in Evolutionary Red Teaming of Large Language Models**|Onkar Shelar et.al.|[2611.23949](http://arxiv.org/abs/2611.23949)|null|
-|**2026-11-16**|**Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research**|Keshav Shenoy et.al.|[2611.21832](http://arxiv.org/abs/2611.21832)|null|
+|**2026-11-18**|**Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research**|Keshav Shenoy et.al.|[2611.21832](http://arxiv.org/abs/2611.21832)|null|
 |**2026-11-15**|**Attacker Diversity Reduction in Adaptive LLM Red Teaming**|Chris Tava et.al.|[2611.19680](http://arxiv.org/abs/2611.19680)|null|
 |**2026-11-14**|**VAST: Compiling Grounded Vulnerability Scenarios into Verifiable, Multi-Step Environments for Evaluating LLM Red-Team Agents**|Zhen Wan et.al.|[2611.19465](http://arxiv.org/abs/2611.19465)|null|
 |**2026-10-30**|**Not All Steps Matter: Temporally Adaptive Spectral Control for Concept Removal in Diffusion Models**|Chanaka Thushitha Bandara et.al.|[2611.18678](http://arxiv.org/abs/2611.18678)|null|
@@ -2283,6 +2285,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-19**|**Text-Aware, Vision-Blind: How Multimodal Image Editing Systems Handle Unsafe Inputs**|Ziqing Yang et.al.|[2611.26569](http://arxiv.org/abs/2611.26569)|null|
 |**2026-11-17**|**Dressed in Authority: Practical Black-Box Jailbreaking of MLLMs via Visual Trust Bias**|Weihang Liu et.al.|[2611.22292](http://arxiv.org/abs/2611.22292)|null|
 |**2026-11-17**|**DACE: Diversity-Driven Adversarial Co-Evolution for Robust LLM Safety Alignment**|Peng Yu et.al.|[2611.22278](http://arxiv.org/abs/2611.22278)|null|
 |**2026-11-16**|**Safety-Preserving Medical LLM Fine-Tuning via Bilevel Data Selection**|Ruoxuan Shi et.al.|[2611.20643](http://arxiv.org/abs/2611.20643)|null|
@@ -3561,6 +3564,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-19**|**Replication of Agentic Security Events: Audit and Investigation (ROGUE-AI)**|Mengxiao Wang et.al.|[2611.26553](http://arxiv.org/abs/2611.26553)|null|
+|**2026-11-19**|**SEOYUN: Refusal-Inducing Exam Documents for AI-Glasses Pipelines**|Dohyeon Kwon et.al.|[2611.26033](http://arxiv.org/abs/2611.26033)|null|
 |**2026-11-18**|**PIPETTE: Prompt Injection Purple-Teaming for Robust LLM Agents**|Lipeng He et.al.|[2611.24362](http://arxiv.org/abs/2611.24362)|null|
 |**2026-11-18**|**AutoPI: Taxonomy-Guided Adaptive Red Teaming for Prompt Injection in LLM Agents**|Stavros Damianakis et.al.|[2611.24313](http://arxiv.org/abs/2611.24313)|null|
 |**2026-11-18**|**What Survives the Shift from Text to Pixels? Conditional Protection against Prompt Injection in Image-Rendered Documents**|Haoyang Liu et.al.|[2611.24231](http://arxiv.org/abs/2611.24231)|null|
@@ -3580,7 +3585,7 @@ layout: default
 |**2026-11-12**|**Intent-Aware Protection for AI Agents**|Fady Copty et.al.|[2611.16122](http://arxiv.org/abs/2611.16122)|null|
 |**2026-11-11**|**Smart Model Routing for Order-of-Magnitude LLM Cost Reduction**|Hesham Elbakoury et.al.|[2611.15911](http://arxiv.org/abs/2611.15911)|null|
 |**2026-11-09**|**Can the Confidence and Decisions of System 1 Models Be Trusted? An Explainability and Perturbation Audit of Jev-Style Decision Models**|Julien Delaunay et.al.|[2611.12521](http://arxiv.org/abs/2611.12521)|null|
-|**2026-11-09**|**Say Shibboleth: Fingerprinting the LLMs and Harnesses Behind Agentic Attacks**|Dario Pasquini et.al.|[2611.12386](http://arxiv.org/abs/2611.12386)|null|
+|**2026-11-18**|**Say Shibboleth: Fingerprinting the LLMs and Harnesses Behind Agentic Attacks**|Dario Pasquini et.al.|[2611.12386](http://arxiv.org/abs/2611.12386)|null|
 |**2026-11-09**|**Harness Matters: Measuring and Dissecting Security Resilience in Web Agents**|Xinyi Wu et.al.|[2611.11971](http://arxiv.org/abs/2611.11971)|null|
 |**2026-11-09**|**Scaling Adaptive Prompt Injection Attacks with Agent Swarms**|Alexey Kurakin et.al.|[2611.11861](http://arxiv.org/abs/2611.11861)|null|
 |**2026-11-08**|**Treating the Model as an Untrusted Component: Deterministic Policy Enforcement, Human Approval and Taint Tracking Against Prompt Injection in Tool-Using Agents, with Validation on Open-Weights Models**|Mustafa S. Aljumaily et.al.|[2611.11571](http://arxiv.org/abs/2611.11571)|null|
@@ -3598,7 +3603,7 @@ layout: default
 |**2026-10-22**|**Aegis OS: A Transactional Multi-Tenant Operating System Runtime for Eliminating Authorization Fatigue in Autonomous Coding Agents**|Hui Zhao et.al.|[2611.08516](http://arxiv.org/abs/2611.08516)|null|
 |**2026-11-05**|**The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI**|Julian Kunkel et.al.|[2611.08428](http://arxiv.org/abs/2611.08428)|null|
 |**2026-11-05**|**Beyond Instruction Override: Benchmarking Indirect Prompt Injection with Task-Tampering Attacks**|Rongting Zhang et.al.|[2611.07640](http://arxiv.org/abs/2611.07640)|null|
-|**2026-11-16**|**SPILLWAY: Separating Target Admission from Sanitization to Defend Tool-Using Agents against Prompt Injection**|Woosang Lim et.al.|[2611.07222](http://arxiv.org/abs/2611.07222)|null|
+|**2026-11-18**|**SPILLWAY: Separating Target Admission from Sanitization to Defend Tool-Using Agents against Prompt Injection**|Woosang Lim et.al.|[2611.07222](http://arxiv.org/abs/2611.07222)|null|
 |**2026-11-07**|**SecureGARD: Dynamic Ontology-Guided Governance for Secure Tool-Using LLM Agents**|Guoqin Xiong et.al.|[2611.06682](http://arxiv.org/abs/2611.06682)|null|
 |**2026-11-04**|**Securing Web Agents with the Compile-Then-Execute Paradigm**|Annabella Chow et.al.|[2611.06039](http://arxiv.org/abs/2611.06039)|null|
 |**2026-11-04**|**ScamWorld: An Interactive Environment for Evaluating Web Agents Against Online Fraud**|Yutao Wu et.al.|[2611.04879](http://arxiv.org/abs/2611.04879)|null|
@@ -5687,7 +5692,7 @@ layout: default
 |**2026-07-31**|**Learning from Adversity: Semantic-Aware Mask Refinement through Adversarial Perturbation**|Beomyoung Kim et.al.|[2607.29059](http://arxiv.org/abs/2607.29059)|null|
 |**2026-07-29**|**Linguistic Firewall: Geometry as Defense in Multi-Agent Systems Routing**|Dvir Alsheich et.al.|[2606.30555](http://arxiv.org/abs/2606.30555)|null|
 |**2026-06-29**|**Defending Against Harmful Supervision Hidden in Benign Samples**|Bang An et.al.|[2606.30263](http://arxiv.org/abs/2606.30263)|null|
-|**2026-06-27**|**Why Trust Your Agent? Empirical Security Gains from TRiSM-Guided Agentic Workflows in Healthcare**|Liam Kearns et.al.|[2606.28666](http://arxiv.org/abs/2606.28666)|null|
+|**2026-11-19**|**Why Trust Your Agent? Empirical Security Gains from TRiSM-Guided Agentic Workflows in Healthcare**|Liam Kearns et.al.|[2606.28666](http://arxiv.org/abs/2606.28666)|null|
 |**2026-06-23**|**Poisoned Playbooks: Demystifying Knowledge Poisoning Effects on AI Security Agents**|Juho Park et.al.|[2606.24402](http://arxiv.org/abs/2606.24402)|null|
 |**2026-06-09**|**Influence Factors on RAG Poisoning**|Pedro Pereira et.al.|[2606.12469](http://arxiv.org/abs/2606.12469)|null|
 |**2026-06-02**|**From Control Boundary to Insurance Claim: Reconstructing AI-Mediated Losses Through the CER Framework**|Alex Leung et.al.|[2606.03777](http://arxiv.org/abs/2606.03777)|null|
